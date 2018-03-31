@@ -1,5 +1,5 @@
-* [NERDocumentAnnotator](/README-NERDocumentAnnotator.md)
+* [NERDocumentAnnotator](./README-NERDocumentAnnotator.md)
 
-* [NERLucene](/README-NERLucene.md)
+* [NERLucene](./README-NERLucene.md)
 
-* [ProfesionEntityTagging](/README-ProfessionEntityTagging.md)
+* [ProfesionEntityTagging](./README-ProfessionEntityTagging.md)
