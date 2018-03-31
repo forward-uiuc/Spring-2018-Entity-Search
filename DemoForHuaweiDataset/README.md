@@ -125,7 +125,7 @@ Inside the folder 'ElasticsearchPlugin', follow the instruction to install the p
 ## Deploy WebInterface
 Inside the folder 'EntityQAWebInterface', follow the insruction to install the backend and frontend, and start them seperatly.
 
-* [NERDocumentAnnotator](/README-NERDocumentAnnotator.md)
+* [NERDocumentAnnotator](/NERDocumentAnnotator.md)
 
 * [ElasticSearch Plugin](/README-ElasticsearchPlugin.md)
 
