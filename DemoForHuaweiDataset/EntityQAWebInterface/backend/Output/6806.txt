@@ -1,0 +1,2 @@
+如何获取华为手机助手日志
+获取华为手机助手日志：1、在浏览器中粘贴下载地址http://appdl.hicloud.com/dl/appdl/hisuite/hisuitelogcatch.exe2、该工具为抓取log的日志，选择抓取驱动日志和抓取hisuite日志。在工具所在目录会生成一个hisuitelog的压缩包，请获取该文件。

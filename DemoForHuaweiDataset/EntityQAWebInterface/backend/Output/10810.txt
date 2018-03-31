@@ -1,0 +1,2 @@
+荣耀8 cpu频率是多少
+您好，荣耀8的cpu主频率：4*cortex a72 2.3ghz + 4*cortex a53 1.8ghz + 微智核i5

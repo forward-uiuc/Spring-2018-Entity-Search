@@ -1,0 +1,2 @@
+如何进入、退出fastboot模式
+1.进入fastboot：手机通过usb线正常连接电脑，长按音量下键和电源键进入fastboot模式2.退出fastboot：长按电源键10s左右强制重启手机即可。

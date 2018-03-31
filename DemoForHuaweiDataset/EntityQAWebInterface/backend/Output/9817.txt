@@ -1,0 +1,2 @@
+华为随行wifi 2 mini 工作频段
+华为随行wifi 2 mini 工作频段：lte：b1/b3/b8/b38/b39/b40/b41（b40:2300-2398mhz，b41:2535-2655mhz）td-scdma：b34/b39dc-hspa+/hspa+/hspa/umts: b1/b8wlan: 2.4 ghz (支持 ch5~ch11)。

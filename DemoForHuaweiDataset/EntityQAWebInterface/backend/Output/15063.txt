@@ -1,0 +1,2 @@
+荣耀平板2支持什么制式
+您好，荣耀平板2的网络制式：荣耀平板2(jdn-al00)支持移动4g（tdd-lte）/联通4g（tdd-lte/fdd-lte）/电信4g（tdd-lte/fdd-lte），移动3g（td-scdma）/联通3g（wcdma）/电信3g（cdma2000），移动2g（gsm）/联通2g（gsm）/电信2g（cdma1x）；荣耀平板2(jdn-w09)不支持sim卡，不涉及。

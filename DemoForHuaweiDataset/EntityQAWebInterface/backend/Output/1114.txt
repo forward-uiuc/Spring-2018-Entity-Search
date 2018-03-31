@@ -1,0 +1,2 @@
+荣耀v9支持什么网络频率
+荣耀v9支持的网络频率如下：主卡：td-lte：b38/b39/b40/b41lte fdd: b1/b3/b5/b7 （b7仅移动版支持）td-scdma：b34/b39wcdma：b1/b2/b5/b8cdma （3g）：bc0gsm：b2/b3/b5/b8cdma （2g）：bc0副卡（仅语音）：wcdma(主卡非电信卡)：b1/b2/b5/b8cdma （2g）：bc0gsm：b2/b3/b5/b8备注：各个地区的网络和频段可能有所不同，具体取决于当地运营商以及您所在的位置。

@@ -1,0 +1,2 @@
+mate s双4g版支持什么制式
+您好，mate s双4g版支持主卡:4g网络制式 移动4g（tdd-lte）/联通4g（tdd-lte/fdd-lte），3g网络制式 移动3g（td-scdma）/联通3g（wcdma），2g网络制式 移动2g/联通2g（gsm），副卡：gsm（可支持移动、联通网络） 。

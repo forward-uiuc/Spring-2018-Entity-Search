@@ -1,0 +1,2 @@
+huawei nova支持什么数据接口
+您好，huawei nova数据接口支持usb type c。

@@ -1,0 +1,2 @@
+华为手机助手对运行环境有什么要求
+华为手机助手可以支持的系统有：1、microsoft windows 10 32位或64位版本2、microsoft windows 7 32位或64位版本3、windows vista 32位或64位版本4、windows xp 32位或64位版本5、windows 8.1 32位或64位版本

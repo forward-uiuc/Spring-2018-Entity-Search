@@ -1,0 +1,2 @@
+huawei nova是否支持agps
+您好，huawei nova支持agps(仅支持用户面)。

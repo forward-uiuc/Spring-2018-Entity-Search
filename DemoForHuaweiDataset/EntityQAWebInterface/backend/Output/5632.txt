@@ -1,0 +1,2 @@
+mates支持什么视频文件格式
+您好，mates支持3gp，mp4，wmv，rm，rmvb，asf。

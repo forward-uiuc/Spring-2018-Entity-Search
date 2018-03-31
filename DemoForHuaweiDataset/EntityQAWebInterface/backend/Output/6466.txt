@@ -1,0 +1,2 @@
+g7plus是否支持nfc
+您好！抱歉，目前g7plus暂不支持nfc。

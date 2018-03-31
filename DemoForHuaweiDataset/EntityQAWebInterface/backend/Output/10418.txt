@@ -1,0 +1,2 @@
+mate9无法播放flash
+您好，android 4.4 版本不再支持 adobe flash player，当视频格式为 flash 格式时，浏览器无法解析。非手机故障，请放心使用。如果需要播放flash，建议您下载支持 flash 播放的第三方浏览器软件查看 flash 视频。

@@ -1,0 +1,2 @@
+我可以取消预约单吗？
+<html>预约单过期前，可通过华为官网-<a target="_blank" href="http://consumer.huawei.com/cn/support/reservation/index.htm?znkfcn01">预约维修</a>，选择预约修改，输入预约单号和申请时留下的手机号码，取消即可。</html>

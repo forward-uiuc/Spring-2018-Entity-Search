@@ -1,0 +1,2 @@
+荣耀v9的cpu介绍
+荣耀v9的cpu介绍：cpu型号：kirin 960（麒麟 960）；cpu核数：八核；cpu主频：4×cortex a73 2.4ghz + 4×cortex a53 1.8ghz。

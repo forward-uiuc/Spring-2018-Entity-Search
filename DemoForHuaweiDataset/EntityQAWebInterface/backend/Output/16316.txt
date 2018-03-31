@@ -1,0 +1,2 @@
+mate8全网通版支持sim卡大小
+您好，mate8全网通版内卡槽sim1：nano sim卡。外卡槽sim2：nano sim卡（同一时间只能插nano sim或者micro sd，不能同时插入nano sim和micro sd两张卡）。

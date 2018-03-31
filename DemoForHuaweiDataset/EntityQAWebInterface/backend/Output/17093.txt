@@ -1,0 +1,2 @@
+p10 plus点击android版本出现logo，再点击logo没有出现小游戏
+p10 plus手机没有预置 easter egg，此为正常现象，并非手机问题。手机是通过 google cts 兼容性认证的系统，请您放心使用。

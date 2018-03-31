@@ -1,0 +1,2 @@
+huawei watch 2支持连接 wlan 吗
+您好，huawei watch 2支持连接 wlan。wlan/wi-fi仅在蓝牙连接断开时起连接作用，考虑手表待机时间的原因，不建议作为主要的上网方式。手表和手机通过蓝牙正常连接时，并且手机成功连接使用了此地域的wlan/wi-fi之后，此地域的wlan/wi-fi会同步到手表上。当手表和手机蓝牙断开时，在这个wlan/wi-fi环境下，手表可以使用wlan 连接网络。

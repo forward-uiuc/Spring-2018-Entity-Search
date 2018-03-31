@@ -1,0 +1,2 @@
+畅享7无法中途停止microsd卡加密/解密过程
+畅享7无法中途停止 microsd 卡加密/解密过程的问题原因：microsd 卡加密/解密时长与手机型号、microsd 卡类型、microsd 卡内文件数目等诸多因素有关，可能时间会较长。microsd 卡加解密是一个需要持续进行的操作，如果 microsd 卡加解密到一半被中途停止，会影响该 microsd 卡的正常使用。拔出 microsd 卡或重启手机，再次插入该 microsd 卡后，仍然会自动继续上次的加密/解密过程。建议：请耐心等待 microsd 卡加密/解密完成，不可在 microsd 卡加密/解密未完成前重启手机或者强制拔出 microsd 卡，该情况可能会导致 microsd 文件损坏。

@@ -1,0 +1,2 @@
+mate8为什么手机无法播放swf文件，提示adobe flash player无法使用
+您好，2011年11月adobe宣布停止移动终端浏览上的flash研发。即adobeflashplayer退出了android平台，所有用户在华为自带浏览器上无法使用adobeflashplayer播放.swf文件。

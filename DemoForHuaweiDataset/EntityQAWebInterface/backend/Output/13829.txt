@@ -1,0 +1,2 @@
+mate s电信版支持什么输入法
+您好，mate s电信版输入法有华为输入法,swype输入法,google gms输入法（aosp），讯飞输入法。

@@ -1,0 +1,2 @@
+荣耀v9 play支持哪些格式的图片
+荣耀v9 play支持图片格式：*.jpg、*.jpeg、*.gif、*.png、*.bmp。

@@ -1,0 +1,2 @@
+荣耀5x双4g版支持pc数据同步吗
+您好，1、在电脑上安装hisuite软件（仅支持windows操作系统）。2. 将手机通过usb线连接电脑。3. 在手机上的“usb连接方式界面”中选择“pc助手（hisuite）”选项。4. 启动hisuite完成手机与hisuite的连接。

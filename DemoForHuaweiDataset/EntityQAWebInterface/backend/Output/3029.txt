@@ -1,0 +1,2 @@
+荣耀magic支持哪些格式的图片
+您好，荣耀magic支持图片格式：*.png、*.gif （静态）、*.jpg、*.bmp、*.webp、*.wbmp。

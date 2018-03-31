@@ -1,0 +1,2 @@
+华为路由a1 lite 是否支持华为hilink协议
+您好，华为路由a1 lite支持华为hilink协议，hi按键一键接入hilink智能设备、wi-fi名称/密码自动同步和自动切换到最好的wi-fi信号。

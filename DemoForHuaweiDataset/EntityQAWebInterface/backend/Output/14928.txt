@@ -1,0 +1,2 @@
+matebook是独立显卡还是集成显卡
+您好，matebook 是集成显卡。

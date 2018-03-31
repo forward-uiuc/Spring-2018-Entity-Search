@@ -1,0 +1,2 @@
+荣耀magic的4g语音方案
+您好，荣耀magic的4g语音方案：中国移动 :支持csfb移动方案，同时需要支持volte方案。设置为2/3g only时，支持tds语音中国联通 :支持csfb回落到wcdma和gsm中国电信 :在国内支持svlte（lte+cdma 1x），国际漫游时支持csfb到gsm和wcdma海外 :支持csfb回落到wcdma和gsm。

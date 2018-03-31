@@ -1,0 +1,2 @@
+g9plus的gpu型号是什么
+您好，g9plus的gpu型号是adreno506。

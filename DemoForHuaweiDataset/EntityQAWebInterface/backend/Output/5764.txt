@@ -1,0 +1,2 @@
+huawei matebook d cpu速度/核心
+huawei matebook d cpu速度/核心:pl-w09 (i5-7200u)：基频2.5ghz，单核3.1ghz，双核3.1ghzpl-w19 (i5-7200u)：基频2.5ghz，单核3.1ghz，双核3.1ghzpl-w29 (i7-7500u)：基频2.7ghz，单核3.5ghz，双核3.5ghz。

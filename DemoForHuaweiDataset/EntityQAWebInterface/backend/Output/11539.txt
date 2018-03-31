@@ -1,0 +1,2 @@
+huawei nova 2是否支持agps
+huawei nova 2全网通版不支持agps、移动版支持agps。

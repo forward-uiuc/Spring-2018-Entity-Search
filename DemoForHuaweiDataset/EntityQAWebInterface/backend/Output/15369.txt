@@ -1,0 +1,2 @@
+p9 plus支持的最大存储速率
+您好，p9 plus支持的最大存储速率为class10：最高10mb/s，uhs-i: sdr104(104mb/s)。

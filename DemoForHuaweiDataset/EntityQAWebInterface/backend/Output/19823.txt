@@ -1,0 +1,2 @@
+mate7下卡槽可以插sd卡吗
+您好，上卡槽支持micro sim卡，下卡槽支持nano sim和microsd卡二选一。

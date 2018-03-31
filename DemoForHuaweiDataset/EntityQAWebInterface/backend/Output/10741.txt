@@ -1,0 +1,2 @@
+mate8手机root后如何恢复原来的手机系统
+您好，手机root后要恢复原来的手机系统，可通过 erecovery 或 hisuite 强制升级的方式解决。具体升级方式见（请使用超链接http://app.huawei.com/tkb/#!tkb/common/base/faqdetail.html?resourceid=310993）。若升级后问题依然存在，请携带购机发票前往服务网点检修。

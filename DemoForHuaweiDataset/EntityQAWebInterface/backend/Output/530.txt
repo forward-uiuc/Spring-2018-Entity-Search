@@ -1,0 +1,2 @@
+mate9 pro是否支持电子邮件
+您好，mate9 pro支持电子邮件（pop3/imap/exchange）。

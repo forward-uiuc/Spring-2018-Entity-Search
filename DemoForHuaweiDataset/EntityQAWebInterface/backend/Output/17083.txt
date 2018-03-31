@@ -1,0 +1,2 @@
+商城和天猫是不是一起的
+<html>您好，<a target="_blank" href="http://www.vmall.com/">华为商城</a>与天猫中的<a target="_blank" href="https://huawei.tmall.com">华为官方旗舰店</a>均为华为官方自营销售平台，请您放心购买。</html>

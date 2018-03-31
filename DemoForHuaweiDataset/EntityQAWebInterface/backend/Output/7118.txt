@@ -1,0 +1,2 @@
+matebook是否自带office软件，需要付费吗
+您好，microsoft office是微软公司开发的一套基于windows操作系统的办公软件套件。使用正版office需要个人付费购买，价格由微软公司确定并收取。华为matebook 出厂预装正版 office 2016，首次打开office后，根据微软公司的规定您可以免费使用7天。如需永久使用，请到微软官方商城www.microsoftstore.com.cn购买，具体售价以微软商场显示为主。购买中如遇到问题请访问www.microsoftstore.com.cn/support-and-help 获取帮忙。温馨提示：微软提供了1个月的office 365免费试用时间，您可以访问https://products.office.com/zh-cn/try-office-365-free领取。

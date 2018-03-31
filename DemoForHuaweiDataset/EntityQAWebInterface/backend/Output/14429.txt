@@ -1,0 +1,2 @@
+荣耀v9 play支持什么输入法
+荣耀v9 play预置输入法：百度输入法华为版、华为swype输入法、android键盘（aosp）。

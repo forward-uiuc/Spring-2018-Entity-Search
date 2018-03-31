@@ -1,0 +1,2 @@
+荣耀note8 cpu频率是多少
+您好，荣耀note8的cpu频率：4*cortex a72 2.5ghz + 4*cortex a53 1.8ghz + 微智核i5。

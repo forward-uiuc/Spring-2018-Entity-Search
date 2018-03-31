@@ -1,0 +1,2 @@
+华为揽阅m2平板连接计算机后，驱动安装失败，如何解决？
+您好，mtp 驱动依赖 windows media player 11 或更高版本软件。如果您未安装 windows media player 11 或更高版本软件，驱动安装可能会提示错误。请参考以下步骤操作，完成之后重新尝试连接计算机：1.请检查您的计算机上是否已安装 windows media player 11 或更高版本的软件。如果没有，请安装 windows media player 11 或更高版本的软件。2.通过 usb 线连接平板与计算机。3.在平板弹出的界面上点击 “pc 助手”（“hisuite”)。4.打开计算机上出现的新盘符，双击 “autorun.exe” 安装驱动。

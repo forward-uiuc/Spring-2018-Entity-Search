@@ -1,0 +1,2 @@
+mate8 cpu频率是多少
+您好，mate8的cpu频率是4*2.3ghz+4*1.8ghz。

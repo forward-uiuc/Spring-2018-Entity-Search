@@ -1,0 +1,2 @@
+畅享7的存储卡类型
+畅享7的存储卡是：microsd卡，class 10级别，支持exfat和ntfs格式。

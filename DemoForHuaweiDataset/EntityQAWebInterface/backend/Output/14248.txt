@@ -1,0 +1,2 @@
+huawei nova 2 plus microsd卡支持哪些格式
+huawei nova 2 plus microsd 卡支持 fat、fat32、exfat、ntfs 格式支持 class、uhs-i 和 uhs-ii sd 卡。支持uhs超高速率的 sd 卡。建议您使用 uhs 超高速率卡，会得到更好的体验。

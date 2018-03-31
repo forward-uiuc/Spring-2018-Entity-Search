@@ -1,0 +1,2 @@
+华为随行wifi 2 mini wi-fi频率
+华为随行wifi 2 mini wi-fi频率：wlan: 2.4 ghz (支持 ch5~ch11)。

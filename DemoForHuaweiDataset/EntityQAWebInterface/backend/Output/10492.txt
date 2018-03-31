@@ -1,0 +1,2 @@
+华为儿童手表的表带断裂
+您好，华为儿童手表表带为可拆卸，请确认为表带拆卸、找不到问题，还是表带断裂问题。如果确实为表带断裂，请联系<a onclick="lim.jumper();return false;" href="javascript:void(0)">人工服务</a>反馈，并提供图片、手表imei号。

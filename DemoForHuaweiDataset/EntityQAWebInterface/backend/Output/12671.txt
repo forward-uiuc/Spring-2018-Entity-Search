@@ -1,0 +1,2 @@
+p10 plus otg外接sd卡/u盘支持哪些文件系统
+您好，otg 外接sd 卡/u 盘支持现在支持3种文件系统：exfat，fat32和ntfs。otg外接设备的存储上限无限制。

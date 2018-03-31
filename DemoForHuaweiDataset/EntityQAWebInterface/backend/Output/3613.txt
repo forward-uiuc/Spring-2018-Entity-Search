@@ -1,0 +1,2 @@
+mate8 usb功能
+您好,mate8是usb2.0，480mbit/s。支持充电，支持数据连接，支持手机做网卡使用，支持usbotghost功能。

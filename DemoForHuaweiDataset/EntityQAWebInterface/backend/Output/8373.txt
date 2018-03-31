@@ -1,0 +1,2 @@
+华为平板m3青春版支持什么网络制式
+华为平板m3青春版的网络制式：全网通 10.1寸版本：单卡：支持移动/联通/电信4g+/4g/3g/2g4g+/4g：移动4g（tdd-lte）/联通4g（tdd-lte/fdd-lte）/电信4g（tdd-lte/fdd-lte）3g:移动3g（td-scdma）/联通3g（wcdma）/电信cdma-evdo2g:移动2g（gsm）/联通2g（gsm）/电信2g(cdma-1x)。全网通 8寸版本：单卡：支持移动/联通/电信4g/3g/2g4g：移动4g（tdd-lte）/联通4g（tdd-lte/fdd-lte）/电信4g（tdd-lte/fdd-lte）3g:移动3g（td-scdma）/联通3g（wcdma）/电信cdma-evdo2g:移动2g（gsm）/联通2g（gsm）/电信2g(cdma-1x)wifi版本：不支持。

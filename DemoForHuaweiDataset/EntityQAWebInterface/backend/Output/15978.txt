@@ -1,0 +1,2 @@
+在官网买的还可以查询到购买记录吗
+<html>您好，请使用购买账号登陆<a target="_blank" href="http://www.vmall.com/">华为商城</a>，点击“我的订单”查看订单购买记录。</html>

@@ -1,0 +1,2 @@
+畅享6是否支持office
+您好，畅享6支持office（内置wpsoffice）

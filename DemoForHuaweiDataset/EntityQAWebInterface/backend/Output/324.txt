@@ -1,0 +1,2 @@
+荣耀5x支持sim卡大小
+您好，荣耀5x支持卡1（上卡槽）：microsim卡；卡2（下卡槽）：nano卡和microsd。

@@ -1,0 +1,2 @@
+如何绑定优惠券
+<html>您好，<a target="_blank" href="http://www.vmall.com">华为商城</a>优惠券一般是不需要绑定的，请查看优惠券使用规则，在提交订单时勾选使用即可。</html>

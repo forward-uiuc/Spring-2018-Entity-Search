@@ -1,0 +1,2 @@
+e5通用类_如何查看和修改wi-fi密码？
+e5查看和修改wi-fi密码方法：如果未修改过默认wifi密码，设备后盖上面的wifi密码即是。另外还可通过下面两种方式查看。有两种方式：登录web ui，选择设置> wlan基本设置；登录huawei hilink app，选择我的wi-fi。web ui 查看和修改密码

@@ -1,0 +1,2 @@
+查询华为客户服务中心（售后网点）地址
+<html>服务中心地址、电话、营业时间查询方式： <br>①点击<a target="_blank" target="_blank" href="http://consumer.huawei.com/cn/support/service-center/index.htm?znkfcn01">服务中心 </a><br>②选择省市、产品类型，点击搜索 <br>③若是网点较远或不方便前往网点，您可以选择<a target="_blank" target="_blank" href="http://consumer.huawei.com/cn/support/express-repair/index.htm?znkfcn01">寄修</a>哦 <br><br>小v贴士：建议您预约并提前与服务中心联系哦，以便为您的维修服务做好准备，节省维修时间"</html>

@@ -1,0 +1,2 @@
+mate9 pro支持什么输入法
+您好，mate9 pro支持的输入法：百度输入法华为版,华为swype输入法, android 键盘（aosp）。

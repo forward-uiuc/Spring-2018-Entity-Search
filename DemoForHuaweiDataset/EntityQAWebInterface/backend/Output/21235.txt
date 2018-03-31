@@ -1,0 +1,2 @@
+huawei hilink app 的使用及登录
+手机或者pad通过wi-fi连接到设备，打开 huawei hilink app。mobile wi-fi 产品初次使用时，登录密码是 admin 或产品说明书中的密码；非智能路由器初次使用时，登录密码是 admin；智能路由器初次使用时，会有上网向导设置登录密码。

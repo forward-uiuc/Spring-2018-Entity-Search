@@ -1,0 +1,2 @@
+g9plus cpu核数是多少
+您好，g9plus的cpu核数是八核。

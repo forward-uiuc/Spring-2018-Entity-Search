@@ -1,0 +1,2 @@
+huawei matebook d wlan加密方式
+huawei matebook d wlan加密方式:支持wpa/wpa2/wep。

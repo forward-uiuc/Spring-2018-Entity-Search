@@ -1,0 +1,2 @@
+b315s-936无线功能支持哪些频段？
+您好，b315s-936支持频段如下：lte:band 1/3/40/41fdd 2100 mhz/1800 mhztdd 2300mhz/2600 mhzumts:band 1/8  2100 mhz/900 mhzgsm:band 2/3/5/8  1900 mhz/1800 mhz/850 mhz/900 mhzwlan:2.422 ghz～2.477 ghz

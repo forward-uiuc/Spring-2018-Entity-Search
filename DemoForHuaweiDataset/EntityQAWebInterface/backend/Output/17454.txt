@@ -1,0 +1,2 @@
+nova青春版支持什么数据接口
+nova青春版数据接口：micro usb，usb2.0。

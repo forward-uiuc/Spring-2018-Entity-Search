@@ -1,0 +1,2 @@
+华为路由a1 lite 是否支持wi-fi安全管理
+您好，华为路由a1 lite支持wi-fi安全管理，支持 wpa2-psk、wpa/wpa2-psk 和黑白名单安全认证机制。

@@ -1,0 +1,2 @@
+畅享7无法播放flash
+畅享7无法播放 flash 的原因：由于android 4.1 以上版本不再支持 adobe flash player，当视频格式为 flash 格式时，浏览器无法解析。非手机故障，请放心使用。建议下载支持 flash 播放的第三方浏览器软件查看 flash 视频。

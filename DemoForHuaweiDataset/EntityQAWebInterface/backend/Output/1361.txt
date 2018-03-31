@@ -1,0 +1,2 @@
+荣耀9是否支持wlan热点
+荣耀9支持wlan，wlan频率：2.4g和5g，wlan协议：802.11a/b/g/n/ac。

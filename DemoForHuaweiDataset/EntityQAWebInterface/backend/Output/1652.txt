@@ -1,0 +1,2 @@
+手机号无法注册华为账号
+<html>若该手机号参加过华为商城举办的预约活动则自动注册成为登陆账号，您还可以点击“忘记密码”找回后登陆；若不是您注册的，可能是有他人使用您的手机号码注册过华为帐号哦，请您不要着急，建议您点击“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/resetpwd/forgetbyid.html?reqclienttype=26&amp;loginchannel=26000000&amp;countrycode=cn&amp;loginurl=https%3a%2f%2fhwid1.vmall.com%2fcas%2fportal%2flogin.html&amp;service=https%3a%2f%2fwww.vmall.com%2faccount%2facaslogin%3furl%3dhttps%253a%252f%252fwww.vmall.com%252f&amp;lang=zh-cn&amp;themename=red">找回密码</a>”重置您的账户密码即可；如果是其他情况无法完成注册请反馈至人工客服核实处理。</html>

@@ -1,0 +1,2 @@
+积分和经验值的定义和关系是什么
+<html>您好，经验值是用来判断用户等级的维度，通过购物、开售提醒、评价等行为产生的经验值，能够使您能够享受vmall提供相关等级的会员权益，相关权益请在http://www.vmall.com/privilege查看；<br><br>积分是用户在<a target="_blank" href="http://www.vmall.com/" target="_blank">华为商城</a>进行购物等行为时给予的回馈。积分仅可在华为商城使用，每100积分可在购物付款抵扣1元。</html>

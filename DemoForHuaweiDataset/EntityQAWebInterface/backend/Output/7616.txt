@@ -1,0 +1,2 @@
+mates支持什么数据接口
+您好，mates支持标准microusb。

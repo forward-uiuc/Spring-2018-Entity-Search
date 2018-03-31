@@ -1,0 +1,2 @@
+为什么登录时输入验证码会自动清除
+您好，建议刷新/更换浏览器尝试一下；若依旧异常，请您提供相关截图至<a onclick="lim.jumper();return false;" href="javascript:void(0)">人工客服</a>核实处理。

@@ -1,0 +1,2 @@
+huawei matebook x cpu速度/核心
+huawei matebook x cpu速度/核心：wt-w09 (i5-7200u)：基频2.5ghz，单核3.1ghz，双核3.1ghzwt-w19 (i7-7500u)：基频2.7ghz，单核3.5ghz，双核3.5ghz。

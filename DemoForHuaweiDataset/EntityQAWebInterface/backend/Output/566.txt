@@ -1,0 +1,2 @@
+荣耀7 cpu频率是多少？
+您好，荣耀7是4*a53 2.2ghz + 4*a53 1.5ghz with big.little technology。

@@ -1,0 +1,2 @@
+如何查询账号注册时间
+若需查看您华为账号注册时间，可反馈在线<a onclick="lim.jumper();return false;" href="javascript:void(0)">人工客服</a>为您处理；暂不支持自助查询哦。

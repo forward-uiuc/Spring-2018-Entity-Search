@@ -1,0 +1,2 @@
+mate s支持的4g语音方案是什么
+您好，mate s移动版和双4g版是csfb，mate s电信版是svlte\csfb。

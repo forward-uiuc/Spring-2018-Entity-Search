@@ -1,0 +1,2 @@
+如何使用优惠券
+<html>在提交订单页面，商品信息的下方有使用优惠券选项，勾选后点选相应的优惠券或输入相应的优惠券券码，再提交订单。<br>优惠券使用规则可通过以下方法查询：<br>1.一般在活动页面优惠券领取下方，点击“规则详见”进入活动公告（或直接进入<a target="_blank" target="_blank" href="https://m.vmall.com/notice">商城公告</a>点击相应的活动信息）查看优惠券使用规则；<br>2.登陆<a target="_blank" target="_blank" href="https://m.vmall.com/index.html？cid=90378">华为商城</a>，进入：我的商城-个人中心-<a target="_blank" target="_blank" href="https://m.vmall.com/member/coupon">我的优惠券</a> 页面，查看所领取的优惠券使用要求。<br><br><b>小v贴士：</b>新品、订单中有特价的商品或优惠套餐等，订单是不支持使用优惠券的；若符合使用规则且在有效期内多次尝试无法使用请提供相关截图联系客服mm为您核实。</html>

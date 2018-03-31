@@ -1,0 +1,2 @@
+荣耀magic是否支持wlan热点
+您好，荣耀magic支持magiclink功能，wlan协议：802.11a/b/g/n/ac，wlan频率：2.4g和5g。

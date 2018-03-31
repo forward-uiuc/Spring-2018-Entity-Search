@@ -1,0 +1,2 @@
+荣耀畅玩6x将手机语言由英语改回中文
+您好，荣耀畅玩6x手机显示的语言为英语时，如需将系统语言由英语改为中文，进入“settings > advanced settings > language & input > language & region > language”，选择“简体中文”，在弹出的对话框中点击“change”。

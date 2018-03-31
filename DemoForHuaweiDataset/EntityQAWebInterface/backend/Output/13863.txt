@@ -1,0 +1,2 @@
+荣耀畅玩平板支持什么制式
+您好，荣耀畅玩平板lte版支持的制式：移动/联通4g（tdd-lte）移动3g（td-scdma）联通3g （wcdma）联通2g/移动2g（gsm）fdd-lte（国际漫游）。

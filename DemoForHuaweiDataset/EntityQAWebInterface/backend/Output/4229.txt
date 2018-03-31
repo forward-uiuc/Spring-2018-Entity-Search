@@ -1,0 +1,2 @@
+在哪里查看和修改个人信息
+<html>"1. 登陆华为商城首页点击右上方账号昵称<br>2. 进入我的商城页面，点击“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/index.html?reqclienttype=26&amp;loginchannel=26000000&amp;themename=cloudtheme">去账号中心&gt;</a>”<br>3. 进入个人中心页面，可以查看和修改账号等个人信息。"</html>

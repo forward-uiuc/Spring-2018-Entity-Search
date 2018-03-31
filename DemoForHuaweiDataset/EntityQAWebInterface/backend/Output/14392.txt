@@ -1,0 +1,2 @@
+荣耀v9是否支持wlan热点
+荣耀v9支持wlan，wlan频率：2.4g和5g，wlan协议：802.11 a/b/g/n/ac。

@@ -1,0 +1,2 @@
+华为随行wifi 2 工作频段
+华为随行wifi 2 工作频段：lte fdd: b1/b2/b3/b4/b5/b8/b19lte tdd: b38/b40(2300~2395mhz)/b41(2500~2690mhz)/b39td-scdma: b34/b39dc-hspa+/hspa+/hspa/umts: b1, b2, b4, b5, b8 ,b6edge/gprs/gsm: b2/b3/b5/b8wlan: 2.4 ghz (support ch5~ch10)。

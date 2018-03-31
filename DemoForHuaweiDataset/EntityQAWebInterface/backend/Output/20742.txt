@@ -1,0 +1,2 @@
+荣耀v9 play支持什么数据接口
+荣耀v9 play数据接口：micro usb，usb 2.0 。

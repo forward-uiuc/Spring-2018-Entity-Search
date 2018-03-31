@@ -1,0 +1,2 @@
+mediapad m2 8.0是否支持cat4
+您好，m2是否支持cat4m2支持cat4。cat4最高下载速度可达到150mbps，而要想达到lte cat6的300mbps下行速度还需要运营商的基站支持，而目前我国的lte网络暂时不支持cat6。

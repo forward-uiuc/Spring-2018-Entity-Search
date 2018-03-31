@@ -1,0 +1,2 @@
+mate 9是否支持glonass
+您好，mate 9支持glonass。

@@ -1,0 +1,2 @@
+g9plus是否支持sim卡热插拔
+您好，g9plus不支持sim卡热插拔。

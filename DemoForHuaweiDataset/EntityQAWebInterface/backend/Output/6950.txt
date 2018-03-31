@@ -1,0 +1,2 @@
+荣耀v9 play的cpu介绍
+荣耀v9 play的cpu介绍：cpu型号：mt6750；cpu核数：八核；cpu主频：4×cortex a53 1.5ghz+4×cortex a53 1.0ghz。

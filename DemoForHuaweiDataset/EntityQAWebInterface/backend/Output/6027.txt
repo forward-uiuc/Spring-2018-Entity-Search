@@ -1,0 +1,2 @@
+预约成功后能否立即申购
+<html>您好，预约成功后，请关注<a target="_blank" href="http://www.vmall.com/">华为商城</a>该商品购买的日期进行预约购买。</html>

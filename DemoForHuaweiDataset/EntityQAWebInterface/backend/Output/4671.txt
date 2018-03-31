@@ -1,0 +1,2 @@
+mate9保时捷设计版是否支持office
+您好，mate9保时捷设计版支持office（内置wps office，支持office文档查看和编辑，支持pdf文档查看，支持zip解压和压缩等）

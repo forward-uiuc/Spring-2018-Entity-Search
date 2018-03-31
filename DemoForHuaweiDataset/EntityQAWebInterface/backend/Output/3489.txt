@@ -1,0 +1,2 @@
+p8的gpu（图形处理器）型号
+您好，p8的gpu型号是arm mali 628 mp4。

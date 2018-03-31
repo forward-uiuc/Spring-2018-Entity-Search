@@ -1,0 +1,2 @@
+荣耀畅玩6如何查询手机imei号，为何有手机会出现2个imei码
+荣耀畅玩6在手机拨号界面输入“*#06#”可查询 imei 号。imei（international mobile equipment identity，移动设备国际识别码）是手机的唯一识别号码。单卡手机只有1个imei号，双卡双待则可能有2个imei号。

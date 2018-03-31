@@ -1,0 +1,2 @@
+华为商城中我的手机号码显示未验证怎么办
+<html>您好，请登录华为商城点击右上角昵称入我的商城页面，点击“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/index.html?reqclienttype=26&amp;loginchannel=26000000&amp;themename=cloudtheme">去账号中心&gt;</a>”，进入账号中心，在“帐号与安全”页面中验证手机/邮箱即可。</html>

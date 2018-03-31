@@ -1,0 +1,2 @@
+荣耀畅玩平板支持电子邮件吗
+您好，荣耀畅玩平板lte版支持协议：smtp、pop3、imap4支持通过exchange server同步calendar和contactsandroid email客户应用程序 。

@@ -1,0 +1,2 @@
+价格
+<html>您好，商品价格可在<a target="_blank" href="http://www.vmall.com/">华为商城</a>http://www.vmall.com或销售页面查看，具体请您以提交订单价格为准，若需要对比同类商品价格高低，可对商品“价格”进行降序或升序排列。感谢您的支持。</html>

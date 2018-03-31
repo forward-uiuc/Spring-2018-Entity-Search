@@ -1,0 +1,2 @@
+mate 9是否支持电子邮件
+您好，mate 9支持电子邮件（pop3/imap/exchange）。

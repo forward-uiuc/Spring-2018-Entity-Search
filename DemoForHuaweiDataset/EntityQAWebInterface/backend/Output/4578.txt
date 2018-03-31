@@ -1,0 +1,2 @@
+mate8 cpu核数是多少
+您好，mate8的cpu核数是八核。

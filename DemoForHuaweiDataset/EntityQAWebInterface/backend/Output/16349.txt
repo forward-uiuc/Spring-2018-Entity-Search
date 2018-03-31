@@ -1,0 +1,2 @@
+huawei matebook d 显卡类型
+huawei matebook d 显卡类型:pl-w09集成显卡：intel® hd graphics 620；pl-w19,pl-w29独立显卡：nvidia geforce 940mx。

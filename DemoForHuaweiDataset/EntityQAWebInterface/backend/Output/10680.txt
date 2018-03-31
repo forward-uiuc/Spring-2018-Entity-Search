@@ -1,0 +1,2 @@
+g9青春版 cpu频率是多少
+您好，g9青春版的全网通版cpu频率是4*cortex a53 1.5ghz + 4*cortex a53 1.2ghz。移动版与联通版：4*cortex a53 2.0ghz + 4*cortex a53 1.7ghz。

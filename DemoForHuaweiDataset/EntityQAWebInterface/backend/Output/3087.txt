@@ -1,0 +1,2 @@
+可以使用matebook的充电器给matepen触控笔充电吗
+您好，使用matebook 自带的电源适配器配合type c 转 micro-usb 充电数据线可以给matepen触控笔充电。另外，您也可以使用micro-usb 接口的手机充电器和充电线给matepen触控笔充电。

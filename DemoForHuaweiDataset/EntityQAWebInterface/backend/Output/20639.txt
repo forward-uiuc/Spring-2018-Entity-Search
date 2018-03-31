@@ -1,0 +1,2 @@
+nova青春版支持什么网络频率
+nova青春版支持的网络频率如下：全网通公开版:主卡：td-lte：b38/b39/b40/b41（100m，窄频，中国联通，中国电信频段，中国移动频段）lte fdd：b1/b3/b5td-scdma：b34/b39wcdma：b1/b5（漫游）/b8cdma （3g）： bc0gsm: b2（漫游）/b3/b5（漫游）/b8cdma （2g）：bc0副卡（仅语音）：gsm：b2（漫游）/b3/b5（漫游）/b8cdma （2g）：bc0中国移动全网通定制版:主卡：td-lte：b38/b39/b40/b41（100m，窄频，中国联通，中国电信频段，中国移动频段）lte fdd：b1/b3/b7（漫游）td-scdma：b34/b39wcdma：b1/b2（漫游）/b5（漫游）/b8cdma （3g）： bc0gsm: b2（漫游）/b3/b5（漫游）/b8cdma （2g）：bc0副卡（仅语音）：gsm：b2（漫游）/b3/b5（漫游）/b8cdma （2g）：bc0备注：各个地区的网络和频段可能有所不同，具体取决于当地运营商以及您所在的位置。

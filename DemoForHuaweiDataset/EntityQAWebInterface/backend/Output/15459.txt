@@ -1,0 +1,2 @@
+华为路由a1 畅享版芯片型号
+您好，华为路由a1 畅享版芯片型号：rtl8197fnl；2.4g wi-fi 芯片：rtl8197fnl（2x2 wi-fi 2.4g）；5g wi-fi 芯片：rtl8812brh（2x2 wi-fi 5g 11ac）。

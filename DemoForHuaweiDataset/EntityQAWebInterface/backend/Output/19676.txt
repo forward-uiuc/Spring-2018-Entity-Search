@@ -1,0 +1,2 @@
+荣耀magic手机cpu介绍
+您好，荣耀magic手机cpu介绍：cpu型号：麒麟950(huawei kirin 950)，cpu核数：八核，cpu频率：4*cortex a72 2.3ghz + 4*cortex a53 1.8ghz + 微智核i5。

@@ -1,0 +1,2 @@
+荣耀v9的存储卡类型
+荣耀v9的存储卡是：microsd卡，支持uhs-i级别，class 10级别，支持exfat和ntfs格式。

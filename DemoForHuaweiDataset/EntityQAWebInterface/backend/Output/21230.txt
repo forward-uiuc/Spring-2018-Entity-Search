@@ -1,0 +1,2 @@
+通过huawei hilink app 重启路由器以及将路由器恢复出厂设置
+通过 huawei hilink app 重启路由器以及将路由器恢复出厂设置的方法如下：1.手机连接到路由器的 wi-fi。2.打开手机中的 huawei hilink app，点击右上角的设置图标 。点击设备，选择重启或者恢复出厂设置。

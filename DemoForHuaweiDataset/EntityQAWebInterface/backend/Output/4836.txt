@@ -1,0 +1,2 @@
+nova青春版是否支持mirrorlink
+nova青春版不支持mirrorlink。

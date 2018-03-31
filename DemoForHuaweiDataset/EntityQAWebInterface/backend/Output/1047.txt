@@ -1,0 +1,2 @@
+华为商城app登陆后无法完善个人信息
+<html>您好，非常抱歉，华为商城手机客户端暂不支持个人信息修改。请您登录电脑端华为商城到我的商城页面，进入“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/info.html?reqclienttype=26&amp;loginchannel=26000000&amp;service=http%3a%2f%2fwww.vmall.com&amp;lang=zh-cn&amp;themename=blue#">账号中心</a>”，根据页面提示完善相应信息，例如：安全邮箱/手机号、生日、城市地区等。</html>

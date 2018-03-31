@@ -1,0 +1,2 @@
+huawei watch 2手表插入移动卡注册4g后弹出hd卡片是什么
+您好，huawei watch 2手表插入移动卡注册4g后弹出hd卡片。4g版手表支持中国移动的volte，如果用户插入中国移动的sim卡，且开通了volte功能，注册4g时会有hd字样的卡片。

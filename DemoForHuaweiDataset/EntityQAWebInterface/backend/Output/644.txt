@@ -1,0 +1,2 @@
+p10 plus android wear高耗电
+您好，安装android wear后，出现了高耗电的问题原因：android wear旧版本会频繁连接手表，导致手机耗电严重。解决方案：华为应用市场在2017年4月3日发布的android wear 2.0 版本已经解决了耗电问题。请将android wear升级到最新版本即可。

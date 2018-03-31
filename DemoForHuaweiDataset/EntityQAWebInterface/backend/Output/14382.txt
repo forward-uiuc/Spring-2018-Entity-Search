@@ -1,0 +1,2 @@
+商城公告在哪个位置
+<html>您好，在<a target="_blank" href="http://www.vmall.com/">华为商城</a>首页中上端左侧<a target="_blank" target="_blank" href="http://www.vmall.com/notice-list">公告</a>一栏。</html>

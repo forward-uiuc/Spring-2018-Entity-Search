@@ -1,0 +1,2 @@
+p10 plus支持哪些格式的音频
+p10 plus支持音频文件格式： *.mp3、*.mp4、*.3gp、*.wma、*.ogg、*.amr、*.aac、*.flac、*.wav、*.midi、*.ra。

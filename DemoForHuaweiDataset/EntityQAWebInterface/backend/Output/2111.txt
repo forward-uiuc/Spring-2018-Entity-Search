@@ -1,0 +1,2 @@
+荣耀手环3手环的nfc是否支持ios系统
+手环的nfc目前只支持android系统，不支持ios系统。android系统的用户需要使用huawei pay给nfc充值，ios系统只支持apple pay，apple pay无法给卡充值。

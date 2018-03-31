@@ -1,0 +1,2 @@
+配件是否可以寄修？
+<html>目前仅部分配件支持寄修，请按如下步骤进行确认：<br>1、点击<a target="_blank" href="http://consumer.huawei.com/cn/support/express-repair/create/index.htm?znkfcn01">寄修服务 </a><br>2、在配件的包装纸或包装盒上找到配件的序列号/sn号 <br>3、在imei/meid/esn号码一栏填入配件的序列号 <br>4、如显示产品信息，则支持寄修；如跳出弹出显示无法查询信息，则该配件不支持寄修 <br><br>小v贴士：第二步中如果无法找到配件的序列号，很抱歉您需要到服务中心维修哦"</html>

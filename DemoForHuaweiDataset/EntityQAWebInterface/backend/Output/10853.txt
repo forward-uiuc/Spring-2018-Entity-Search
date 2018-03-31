@@ -1,0 +1,2 @@
+荣耀magic是否支持agps
+您好，荣耀magic支持agps(仅支持用户面)。

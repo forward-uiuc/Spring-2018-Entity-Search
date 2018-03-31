@@ -1,0 +1,2 @@
+页面怎么不显示价格呀
+<html>您好，一般商品价格可在<a target="_blank" href="http://www.vmall.com/">华为商城</a>http://www.vmall.com或销售页面查看，部分首发商品价格公布日期请以活动页面显示为准，敬请关注。</html>

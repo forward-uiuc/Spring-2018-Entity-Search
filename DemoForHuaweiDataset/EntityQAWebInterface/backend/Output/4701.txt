@@ -1,0 +1,2 @@
+nova青春版的gpu型号
+nova青春版的gpu型号：mali t830-mp2 900 mhz。

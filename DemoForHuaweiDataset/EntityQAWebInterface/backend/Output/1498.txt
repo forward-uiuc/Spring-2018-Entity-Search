@@ -1,0 +1,2 @@
+华为平板m3是否支持电子邮件
+华为平板m3支持电子邮件（协议：smtp、pop3、imap4支持通过exchange server同步calendar和contactsandroid email客户应用程序）。

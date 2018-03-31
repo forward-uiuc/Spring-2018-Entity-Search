@@ -1,0 +1,2 @@
+p10 plus相机内自动添加水印，没有体现宣传的summilux镜头标识
+您好，相机内打开自动添加水印后，照片水印为p10 plus leica dual camera字样，并没有体现宣传的summilux镜头标识。解决方案：请将手机系统升级至b109sp01或以上版本，就可以体现带 summilux标识的水印（huawei p10 plus leica dual summilux）。

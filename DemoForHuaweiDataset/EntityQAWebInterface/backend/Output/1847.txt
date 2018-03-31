@@ -1,0 +1,2 @@
+g9plus cpu频率是多少
+您好，g9plus的cpu主频率：8*a53 2.0ghz。

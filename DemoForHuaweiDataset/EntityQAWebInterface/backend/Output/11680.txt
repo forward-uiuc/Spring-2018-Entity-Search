@@ -1,0 +1,2 @@
+huawei watch2是否支持nfc
+您好，huawei watch2支持 nfc：银行卡支付，公交支付。

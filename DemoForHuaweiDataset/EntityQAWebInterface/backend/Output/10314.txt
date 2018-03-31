@@ -1,0 +1,2 @@
+p10是否支持wlan热点
+p10支持wlan，wlan频率：802.11a/b/g/n/ac，wlan协议：2.4ghz和5ghz。

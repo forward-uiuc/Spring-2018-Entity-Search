@@ -1,0 +1,2 @@
+mate7使用sim卡的格式是大卡还是小卡
+您好，mate7支持micro sim/nano sim卡（上卡槽支持micro sim卡，下卡槽支持nano sim和microsd卡二选一，详细见电池盖贴膜图示；micro sd卡非标配。）

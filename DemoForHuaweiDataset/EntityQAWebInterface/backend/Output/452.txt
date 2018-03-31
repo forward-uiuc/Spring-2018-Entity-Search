@@ -1,0 +1,2 @@
+华为平板m3青春版进入和退出fastboot/erecovery/recovery/升级模式
+华为平板m3青春版平板关机状态下，可以进入 fastboot/erecovery / recovery/升级这几种模式：1.需要连接电脑：fastboot模式:长按音量下键+电源键。erecovery 模式：长按音量上键+电源键。2.不需要连接电脑：recovery 模式：长按音量上键+电源键。升级模式：长按音量上键+音量下键+电源键。当平板处于这几种模式时，长按电源键均可以重启平板退出该模式。

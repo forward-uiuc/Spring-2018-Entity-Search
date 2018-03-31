@@ -1,0 +1,2 @@
+荣耀畅玩6手机vpn连接不上
+荣耀畅玩6 vpn连接不上的问题原因：手机是装载的android最新的系统版本android 6.0 。android6.0版本目前市面上只有一些主流的旗舰手机（mate8、p9、p9 plus）才有。而部分厂家的vpn服务器（l2tp/ipsec psk类型）不兼容android6.0系统，导致vpn连接失败。解决方案：如果使用公司vpn，请联系it部门解决。可更新vpn服务器配置（可通过删除vpn防火墙的sha256算法解决），使其适配最新的android 6.0系统。

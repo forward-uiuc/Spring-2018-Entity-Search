@@ -1,0 +1,2 @@
+p10 plus的gpu型号
+p10 plus的gpu型号：mali g71mp8 1ghz。

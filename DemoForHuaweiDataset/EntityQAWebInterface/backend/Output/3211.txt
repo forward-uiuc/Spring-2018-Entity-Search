@@ -1,0 +1,2 @@
+mediapad m2 8.0gmail账户无法添加
+您好，gmail账户无法添加问题原因：可能是google服务器不稳定，解决方案：请您尝试在其他时间段添加gmail账户。其他google相关应用，请关注google对中国的开放度。

@@ -1,0 +1,2 @@
+huawei watch 2是否支持连接talkband手环、蓝牙耳机进行蓝牙通话
+您好，huawei watch 2 蓝牙版本的手表，不支持使用talkband手环/蓝牙耳机进行通话。4g版本（sim版/esim版）的手表，支持使用talkband手环/蓝牙耳机独立通话。

@@ -1,0 +1,2 @@
+matebook什么是bios
+您好，bios全称是“basic input and output system”，系统底层固件。开机后bios最先运行，主要负责系统内各个部件的初始化与配置，寻找可以启动设备并完成启动。

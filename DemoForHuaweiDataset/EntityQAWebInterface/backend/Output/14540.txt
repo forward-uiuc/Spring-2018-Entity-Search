@@ -1,0 +1,2 @@
+荣耀小k手表目前支持哪些频段
+小k目前只支持 gsm1900/1800/900m/850m频段。附全球各国gsm频段的列表http://www.worldtimezone.com/gsm.html

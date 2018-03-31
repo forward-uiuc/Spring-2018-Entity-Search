@@ -1,0 +1,2 @@
+荣耀畅玩6的cpu介绍
+荣耀畅玩6的cpu介绍：cpu型号：mediatek mt6737t (联发科 mt6737t)；cpu核数：四核；cpu主频：4xcortex a53 1.4ghz。

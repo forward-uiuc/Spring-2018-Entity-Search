@@ -1,0 +1,2 @@
+huawei watch 24g版手表的连接方式有哪几种
+您好，huawei watch 2 4g版手表支持蓝牙连接、wifi连接、手表sim卡移动网络连接，优先级依次由高到低。

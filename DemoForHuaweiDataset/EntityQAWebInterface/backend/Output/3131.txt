@@ -1,0 +1,2 @@
+亲情关怀支持哪些emui版本
+您好，亲情关怀支持emui2.0、emui2.3、emui3.0、emui3.1、emui4.0、emui4.1、emui5.0。

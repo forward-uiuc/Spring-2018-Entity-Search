@@ -1,0 +1,2 @@
+p10 plus如何取消sd卡加密
+您好，p10 plus解密 microsd 卡有两种途径：1.点击设置 > 安全和隐私 > 更多安全设置 > 解密 sd 卡，根据提示操作解密 microsd 卡。2.格式化 microsd 后，清除所有文件的同时也会解密该 microsd 卡。温馨提示：格式化会清除 microsd 卡中的所有数据。

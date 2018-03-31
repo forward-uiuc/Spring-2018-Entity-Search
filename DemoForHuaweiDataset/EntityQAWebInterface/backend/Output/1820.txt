@@ -1,0 +1,2 @@
+p9 plus支持sim卡大小
+您好，p9 plus的卡1（内卡槽）：micro sim卡。                                 卡2（外卡槽）：nano 卡和microsd卡二选一。

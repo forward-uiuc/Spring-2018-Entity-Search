@@ -1,0 +1,2 @@
+畅享7的cpu介绍
+畅享7的cpu介绍：cpu型号：qualcomm snapdragon 425（高通骁龙425）；cpu核数：四核；cpu主频：4×cortex a53 1.4ghz。

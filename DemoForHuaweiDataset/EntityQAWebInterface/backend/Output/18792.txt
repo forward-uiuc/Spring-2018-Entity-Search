@@ -1,0 +1,2 @@
+什么是 huawei hilink app
+huawei hilink app 是一款可以让您通过手机或平板轻松管理您的 mobile wi-fi（e5），华为路由器，荣耀立方，华为家庭网关等产品的应用。说明：huawei hilink app 是华为 mobile wi-fi app（e5助手）和 rumate app（路由伴侣）的升级版。温馨提示：huawei hilink app 会根据支持的华为网络终端设备的功能进行自适配，显示不同终端设备的界面。

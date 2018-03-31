@@ -1,0 +1,2 @@
+荣耀畅玩平板2的存储卡类型
+荣耀畅玩平板2的存储卡是：1、荣耀畅玩平板2 7英寸：microsd 卡，class 10级别，支持exfat和ntfs格式；2、荣耀畅玩平板2 9.6英寸和8英寸：microsd卡，支持uhs-i级别，class 10级别，支持exfat和ntfs格式

@@ -1,0 +1,2 @@
+在哪可以看到登录密码
+<html>华为商城不支持查看账号的登陆密码哦，如您忘记密码可在华为商城进入 <a target="_blank" href="https://hwid1.vmall.com/cas/portal/login.html?validated=true&amp;themename=red&amp;service=https%3a%2f%2fwww.vmall.com%2faccount%2facaslogin%3furl%3dhttps%253a%252f%252fwww.vmall.com%252f&amp;loginchannel=26000000&amp;reqclienttype=26">登录界面</a>--点击忘记密码--选择验证绑定信息--输入验证码--验证成功后输入新密码即可。</html>

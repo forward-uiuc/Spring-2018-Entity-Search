@@ -1,0 +1,2 @@
+销售方式
+<html>您好，不同销售平台，产品、活动等都是不同的，具体请以<a target="_blank" href="http://www.vmall.com/">华为商城</a>页面显示的为准哦，小v感谢您的大力支持啦。</html>

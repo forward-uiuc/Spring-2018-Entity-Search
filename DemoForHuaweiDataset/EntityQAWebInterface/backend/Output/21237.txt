@@ -1,0 +1,2 @@
+huawei nova 2支持哪些格式的图片
+huawei nova 2支持图片格式：*.png、*.gif （静态）、*.jpg、*.bmp、*.webp、*.wbmp。

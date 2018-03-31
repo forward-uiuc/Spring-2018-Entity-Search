@@ -1,0 +1,2 @@
+mate8移动版支持什么输入法
+您好，mate8移动版输入法是华为输入法,swype输入法,google gms输入法（aosp），讯飞输入法。

@@ -1,0 +1,2 @@
+g9plus支持什么视频文件格式
+您好，g9plus支持*.3gp、*.mp4、*.webm、*.mkv。

@@ -1,0 +1,2 @@
+mates 支持什么输入法
+您好，mates输入法有华为输入法,swype输入法,googlegms输入法（aosp），讯飞输入法。

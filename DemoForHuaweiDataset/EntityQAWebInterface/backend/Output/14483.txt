@@ -1,0 +1,2 @@
+mate 9的4g语音方案
+您好，mate 9的4g语音方案：volte+csfb+srlte。

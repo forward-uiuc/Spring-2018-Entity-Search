@@ -1,0 +1,2 @@
+p9 plus支持什么4g语音方案
+您好，p9 plus的4g语音方案:国内支持csfb/volte，漫游支持csfb

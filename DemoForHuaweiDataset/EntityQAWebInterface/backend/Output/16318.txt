@@ -1,0 +1,2 @@
+荣耀畅玩6a的存储卡类型
+荣耀畅玩6a的存储卡是：microsd卡，支持uhs1，class 10，支持fat32，ntfs, exfat。

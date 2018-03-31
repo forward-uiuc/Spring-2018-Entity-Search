@@ -1,0 +1,2 @@
+常见英文recovery选项及功能说明
+以下功能为recovery常见功能，具体请以实际界面为准。请谨慎使用，如无法自行操作请携带购机发票前往华为售后网点检修。1. reboot system now：重启手机（选择此项可以重启手机，误进入recovery模式可以重启手机退出）2. apply sdcard：update.zip：安装存储卡中的update.zip升级包（可以把刷机包命名为update.zip然后用这个选项进行升级）3. wipe data/factory reset：清除用户数据并恢复出厂设置（刷机前必须执行的选项，系统出现问题也可以使用此功能强制恢复出厂）4. wipe cache partition：清除系统缓存（刷机前执行）（系统出问题也可尝试此选项，一般能够解决）5. install zip from sdcard：从sdcard上安装zip升级包（可以执行任意名称的zip升级包，不限制升级包名称）6. backup and restore：备份和还原系统（作用和原理如同电脑上的ghost一键备份和还原）7. mounts and storage：挂载和存储选项（详细功能见下面的解释）8. advanced：高级设置

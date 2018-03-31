@@ -1,0 +1,2 @@
+是否支持word，excel，ppt，pdf的编辑与浏览
+您好，可以通过第三方应用wps office、officesuite、oliveofficepremiu等打开、浏览和编辑word、excel、ppt，但pdf只能打开浏览而不能编辑。

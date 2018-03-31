@@ -1,0 +1,2 @@
+huawei matebook x 本地视频播放时间
+huawei matebook x 本地视频播放时间：约10小时（测试条件：50%亮度条件下，自动背光开启，本地播放1080p视频。）。

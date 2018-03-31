@@ -1,0 +1,2 @@
+1支触控笔可以配对多少台matebook
+您好，1支触控笔只能配1台matebook，因为matepen只能记录一个hardware id。

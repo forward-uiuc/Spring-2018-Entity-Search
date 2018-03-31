@@ -1,0 +1,2 @@
+matebook 预装的应用软件（如matetrans、matebook 助手）和驱动哪里下载
+您好，建议您打开 matebook 助手“软件下载”进行下载，如果matebook助手被误卸载，您还可以登录华为官网下载：http://consumer.huawei.com/cn/support/search/index.htm?keywords=matebook

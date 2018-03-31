@@ -1,0 +1,2 @@
+matebook 是否支持双系统
+您好，matebook 支持装 windows 双系统，但不建议您安装，matebook 是按照 windows 10 系统 64 位进行驱动适配，安装其他系统不能保证正常运行。

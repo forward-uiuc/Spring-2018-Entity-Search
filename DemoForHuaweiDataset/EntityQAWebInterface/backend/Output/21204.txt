@@ -1,0 +1,2 @@
+p9 plus支持什么视频文件格式
+您好，p9 plus支持*.3gp、*.mp4、*.wmv、*.rm、*.rmvb、*.asf。

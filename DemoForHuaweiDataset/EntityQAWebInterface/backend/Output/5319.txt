@@ -1,0 +1,2 @@
+荣耀note8支持什么音频文件格式
+您好，荣耀note8支持mp3、ogg、amr、aac、flac、wav、midi。

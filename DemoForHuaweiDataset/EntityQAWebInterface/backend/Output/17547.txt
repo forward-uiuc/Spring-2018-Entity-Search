@@ -1,0 +1,2 @@
+p9 plus支持电子邮件吗
+您好，p9 plus电子邮件支持（pop3/imap/exchange）。

@@ -1,0 +1,2 @@
+mate9支持哪些输入法
+您好，mate9移动版支持：百度输入法华为版,华为swype输入法, android 键盘（aosp），讯飞输入法；其他版本支持：百度输入法华为版,华为swype输入法, android 键盘（aosp）。

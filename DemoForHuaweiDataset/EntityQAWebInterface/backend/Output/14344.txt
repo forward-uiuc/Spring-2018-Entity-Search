@@ -1,0 +1,2 @@
+荣耀平板2是否支持wlan热点
+您好，荣耀平板2支持wlan，wlan协议：2.4/5ghz，wlan频率：ieee 802.11a/b/g/n/ac。

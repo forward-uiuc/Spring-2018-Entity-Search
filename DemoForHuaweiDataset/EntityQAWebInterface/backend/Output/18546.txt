@@ -1,0 +1,2 @@
+我能同时提交两个预约单吗？
+<html>为了保障您和其他消费者的维修顺利有效进行，暂不支持同时提交两个预约单呢。如预约时间等有变化，建议您直接更改即可。<br>如需更改维修预约，请点击<a href="http://consumer.huawei.com/cn/support/reservation/index.htm?znkfcn01">华为官网</a></html>

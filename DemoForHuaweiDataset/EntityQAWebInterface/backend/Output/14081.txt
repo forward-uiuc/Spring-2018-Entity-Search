@@ -1,0 +1,2 @@
+荣耀畅玩5x 支持什么网络制式
+您好，荣耀畅玩5x全网通网络制式: tdd-lte/fdd-lte/td-scdma/wcdma/evdo/cdma/gsm，主卡支持中国移动4g/3g/2g，中国联通4g/3g/2g，中国电信4g/3g/2g;副卡槽支持移动2g、联通2g。荣耀畅玩5x双4g版网络制式: tdd-lte/fdd-lte/td-scdma/wcdma/gsm，主卡支持中国移动4g/3g/2g，中国联通4g/3g/2g;副卡槽支持移动2g、联通2g。荣耀畅玩5x电信版网络制式: tdd-lte/fdd-lte/evdo/cdma/gsm，主卡支持中国电信4g/3g/2g;副卡槽支持移动2g、联通2g。荣耀畅玩5x移动版网络制式：tdd-lte/td-scdma/gsm，主卡支持中国移动4g/3g/2g;副卡槽支持移动2g、联通2g。

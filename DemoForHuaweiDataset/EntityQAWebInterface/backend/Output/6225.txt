@@ -1,0 +1,2 @@
+mate9 pro手机cpu介绍
+您好，mate9 pro手机cpu介绍：cpu型号：麒麟960，cpu核数：八核 + 微智核i6，cpu频率：4*cortex a73 2.4ghz + 4*cortex a53 1.8ghz。

@@ -1,0 +1,2 @@
+荣耀note8 usb功能
+您好，荣耀note8是usb2.0，480mbit/s。支持usb共享网络，usb充电，otg功能。

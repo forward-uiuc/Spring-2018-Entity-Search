@@ -1,0 +1,2 @@
+mate8支持的4g语音方案是什么
+您好，mate8全网通版国内：插入cdma4g卡，支持svlte；插入非cdma卡，支持csfb。漫游：csfb语音方案。mate8电信4g版是srlte/csfb。mate8移动版和联通版是csfb。

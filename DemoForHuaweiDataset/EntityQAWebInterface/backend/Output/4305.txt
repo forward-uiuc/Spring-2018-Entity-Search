@@ -1,0 +1,2 @@
+mate9 pro是否支持蓝牙
+您好，mate9 pro支持bt4.2 支持ble。

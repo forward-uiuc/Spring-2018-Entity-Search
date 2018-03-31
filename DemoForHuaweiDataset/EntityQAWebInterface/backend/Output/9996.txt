@@ -1,0 +1,2 @@
+触控笔常见应用
+您好，带触屏功能的应用手写笔都支持。类似以下应用：数字媒体：adobe,cyberlink，arcsoft, studiopro， corel绘图：autodesk，adobe日常办公 /互联互通：bluebeam revu，office application suite，microsoft lync & skype文档标记 / 分享：foxit (pdf markup)，bluebeam revu (pdf markup)用户体验：nuiteq，unlimited realities (fingertapps)

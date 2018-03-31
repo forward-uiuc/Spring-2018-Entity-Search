@@ -1,0 +1,2 @@
+mate 9是否支持dlna
+您好，mate 9不支持dlna。

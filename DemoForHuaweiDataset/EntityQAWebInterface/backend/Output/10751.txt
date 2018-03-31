@@ -1,0 +1,2 @@
+huawei watch 2查看、更新android wear 中国版app版本
+您好，huawei watch 2查看、更新android wear 中国版app版本方法如下：查看app版本：打开android wear 中国版app，点击界面右上角更多> 关于查看。更新app版本：android wear 中国版app会自动检测新版本并在主界面提醒您更新。您也可以根据应用市场/app store的提示进行更新。

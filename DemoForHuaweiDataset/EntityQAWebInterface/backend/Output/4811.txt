@@ -1,0 +1,2 @@
+华为平板m3青春版支持什么网络频率
+华为平板m3青春版支持的网络频率如下：全网通 10.1寸版本：单卡：lte-fdd:b1,b3,b5,b7,b8 lte-tdd: b38,b39,b40,b41(2545-2655 mhz)umts:b1,b2,b5,b8td-scdma: b34,b39gsm: b2,b3,b5,b8cdma/evdo:bc0全网通 8寸版本：单卡：lte fdd：b1,b3,b5,b7,b8td-lte：b38,b39,b40,b41(2545-2655 mhz)wcdma：b1,b2,b5,b8td-scdma：b34,b39gsm：b2,b3,b5,b8cdma：bc0wifi版本：不涉及。备注：各个地区的网络和频段可能有所不同，具体取决于当地运营商以及您所在的位置。

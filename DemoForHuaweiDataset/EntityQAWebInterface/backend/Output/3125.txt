@@ -1,0 +1,2 @@
+华为平板m3支持什么网络制式
+华为平板m3 wifi版网络制式：不支持。移动联通双4g版网络制式：移动4g（td-lte）联通4g（td-lte/lte fdd）移动3g（td-scdma）联通3g（wcdma）移动2g/联通2g（gsm）

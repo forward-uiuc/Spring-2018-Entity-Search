@@ -1,0 +1,2 @@
+mate9 pro是否支持wlan热点
+您好，mate9 pro支持wlan，wlan协议：802.11a/b/g/n/ac，wlan频率：2.4g和5g。

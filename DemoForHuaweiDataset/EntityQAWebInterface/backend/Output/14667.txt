@@ -1,0 +1,2 @@
+matebook是否可以安装 windows 10 专业版
+您好，matebook 预置的是 windows 10 家庭版，支持安装 windows 10 专业版。但是我们不建议自行安装其他版本的系统，华为也不提供其他版本系统相关的技术支持。如果您需要安装windows 10 专业版，建议您向微软购买正版的系统版本，同时在华为官网上下载更新相关驱动程序。驱动下载地址：http://consumer.huawei.com/cn/support/search/index.htm?keywords=matebook另外请注意由于自行更换操作系统可能会导致的硬件/软件异常，华为不提供相应的免费维修服务。

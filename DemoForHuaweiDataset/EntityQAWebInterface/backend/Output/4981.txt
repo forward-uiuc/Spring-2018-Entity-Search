@@ -1,0 +1,2 @@
+华为nova青春版是否支持 vowifi
+您好，华为nova青春版不支持vowifi。当前国内运营商暂未商用 vowifi。

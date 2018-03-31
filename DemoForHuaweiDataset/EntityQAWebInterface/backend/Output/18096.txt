@@ -1,0 +1,2 @@
+华为路由a1芯片型号
+您好，华为路由a1芯片型号：hi5650t+rtl8192er（2x2 wi-fi 2.4ghz）+rtl8812ar（2x2 wi-fi 5ghz 11ac）

@@ -1,0 +1,2 @@
+huawei watch 2国内买的手表到国外如何使用
+您好，huawei watch 2国内版手表与 android wear 中国版 app 配对后能在国外使用，但考虑到一些手表应用在海外没有服务器，使用体验比较差。

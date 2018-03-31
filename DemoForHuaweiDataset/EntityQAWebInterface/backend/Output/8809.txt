@@ -1,0 +1,2 @@
+荣耀6移动版是否支持fdd-lte
+您好，荣耀6移动4g版，支持移动4g（td-lte）、3g（td-scdma）和移动、联通2g(gsm)卡。不支持fdd。

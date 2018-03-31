@@ -1,0 +1,2 @@
+huawei watch 2手表打开share phone mumber的通话选项后，配对手机来电不会推送到手表
+您好，打开手表share phone number后谷歌实现上认为开通了一号多卡功能，因此给手机打电话不会推送到手表。

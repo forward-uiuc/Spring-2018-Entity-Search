@@ -1,0 +1,2 @@
+mate s天际通的wlan业务的支持那些热点
+您好，国内wlan目前已支持中国电信chinanet 、中国移动cmcc-web公共热点约650万个。

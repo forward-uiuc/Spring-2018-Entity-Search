@@ -1,0 +1,2 @@
+没有找到账号中心
+<html>您好，请登录商城点击右上角昵称到我的商城页面，再点击“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/index.html?reqclienttype=26&amp;loginchannel=26000000&amp;themename=cloudtheme">去帐号中心&gt;</a>”，即可查看或对相关信息进行修改或完善。</html>

@@ -1,0 +1,2 @@
+荣耀盒子|华为盒子可以播放哪些外部设备上的媒体文件？支持哪些文件格式？
+您好，支持的外部设备如下： u 盘或移动硬盘：外挂硬盘容量最大支持 4t，支持 ntfs，fat32，exfat格式。部分型号的盒子没有usb接口，则不支持连接 u 盘、移动硬盘等 usb 存储设备。 microsd 卡：最大支持 64gb，支持 ntfs，fat32，exfat格式。部分型号的盒子没有 microsd 卡槽，则不支持插入 microsd 卡。 电脑或 nas：在同一家庭网络下，通过网络共享文件。支持的文件格式如下： 视频文件：avi、rm、rmvb、mkv、ts、mpeg、mp4、mov、vob、wmv、dat 等 音频文件：mp3、wav、aac、ac3、m4a、ogg、flac、ape 等 图片文件：jpeg、bmp、png、gif 等目前明确不支持的文件格式如下： avs+

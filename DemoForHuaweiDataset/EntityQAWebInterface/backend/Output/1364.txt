@@ -1,0 +1,2 @@
+huawei nova 2 plus是否支持近场通讯（nfc）
+huawei nova 2 plus不支持nfc。

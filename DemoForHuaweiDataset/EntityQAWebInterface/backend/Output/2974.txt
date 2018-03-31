@@ -1,0 +1,2 @@
+结算时没有付款的页面弹出
+您好，请您更换浏览器、电脑或者支付方式尝试下，若多次尝试仍无法支付请联系商城<a onclick="lim.jumper();return false;" href="javascript:void(0)">人工客服</a>，谢谢。

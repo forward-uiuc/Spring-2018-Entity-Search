@@ -1,0 +1,2 @@
+p9 usb功能
+您好，p9是usb2.0，480mbit/s。支持u盘模式，usb共享网络，usb充电，otg功能。

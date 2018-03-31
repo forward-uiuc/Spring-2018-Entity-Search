@@ -1,0 +1,2 @@
+mates的最大存储速率是多少
+您好，mates的最大存储速率是class10：最高10mb/s；uhs-i:sdr104(104mb/s)。

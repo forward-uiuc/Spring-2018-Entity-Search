@@ -1,0 +1,2 @@
+mate9已root的手机如何恢复
+您好，mate9手机root后要恢复原来的手机系统，可通过 erecovery 或 hisuite 强制升级的方式解决。

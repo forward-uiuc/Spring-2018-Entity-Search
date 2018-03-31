@@ -1,0 +1,2 @@
+p9 plus是否支持近场通讯（nfc）
+您好，p9 plus不支持nfc。

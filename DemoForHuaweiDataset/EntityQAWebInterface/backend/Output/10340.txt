@@ -1,0 +1,2 @@
+通过 huawei hilink app 关闭路由器的指示灯
+路由器的 hi 指示灯，目前只能通过 huawei hilink app 关闭，通过电脑登录路由器的 web 管理界面无法关闭 hi 指示灯，请确保手机已安装 huawei hilink app。1)手机连接到路由器的 wi-fi。2)打开手机中的 huawei hilink app，点击右上角的设置图标 。点击设备，选择关闭或打开指示灯开关。

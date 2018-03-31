@@ -1,0 +1,2 @@
+huawei matebook x 蓝牙协议
+huawei matebook x 蓝牙协议：gatt，a2dp 1.2，avrcp 1.3，dun 1.1，di 1.3，hcrp1.0， hid 1.1，hogp 1.0，opp 1.1，panu 1.0，spp 1.2。

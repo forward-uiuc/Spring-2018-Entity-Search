@@ -1,0 +1,2 @@
+荣耀畅玩5a支持什么制式
+您好，荣耀畅玩5a全网通版： td-lte/lte fdd/td-scdma/wcdma/cdma/gsm，支持中国移动4g/3g/2g，中国联通4g/3g/2g，中国电信4g/3g/2g。                        移动联通版：td-lte/lte fdd/td-scdma/wcdma/gsm，支持中国移动4g/3g/2g，中国联通4g/3g/2g。                  移动版： td-lte/td-scdma/gsm，支持中国移动4g/3g/2g，中国联通2g。

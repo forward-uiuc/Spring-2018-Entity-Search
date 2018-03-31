@@ -1,0 +1,2 @@
+什么情况下 huawei hilink app 会提示发现新设备
+huawei hilink app 会在如下几种情况提示发现新设备：1.当前连接的路由器周围有huawei hilink智联设备，打开 huawei hilink app并登录成功之后会提示发现新设备。2.打开 huawei hilink app 时周围没有 huawei hilink 智联设备，但登录成功后周围发现 huawei hilink 智联设备，会立即提示发现新设备。3.当前连接的路由器发现新设备，点击暂不添加。1) 当 wi-fi 断开后再次连接该 wi-fi 时，登录成功后会提示发现该新设备。2) 退出 huawei hilink app，再次进入时也会提示发现新设备。4.发现新设备并点击添加完成，此时如果将该新设备重新恢复出厂，不退出 huawei hilink app，会再次提示发现新设备。

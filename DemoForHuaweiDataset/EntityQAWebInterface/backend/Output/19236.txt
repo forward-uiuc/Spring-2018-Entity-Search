@@ -1,0 +1,2 @@
+荣耀v8支持什么4g语音方案
+您好，荣耀v8的4g语音方案如下：全网通版本：国内：volte/csfb(插入移动卡时)csfb(插入联通卡时)svlte(插入电信卡时)漫游：csfb移动定制版：国内：volte/csfb(插入移动卡时)漫游：csfb移动联通版：国内：volte/csfb(插入移动卡时)csfb(插入联通卡时)漫游：csfb

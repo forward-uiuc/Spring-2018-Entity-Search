@@ -1,0 +1,2 @@
+怎么找不到支付的地方
+<html>您好，您可以登陆<a target="_blank" href="http://www.vmall.com/">华为商城</a>，在“我的订单”中找到对应的订单号，点击“去付款”，完成支付。</html>

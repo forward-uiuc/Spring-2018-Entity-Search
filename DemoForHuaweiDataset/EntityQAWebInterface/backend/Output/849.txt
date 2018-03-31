@@ -1,0 +1,2 @@
+畅享6s将手机语言由英语改回中文
+您好，畅享6s将手机语言由英语改回中文的方法为：请进入“settings > advanced settings > language & input > language & region > language”，选择简体中文，在弹出的对话框中点击change。

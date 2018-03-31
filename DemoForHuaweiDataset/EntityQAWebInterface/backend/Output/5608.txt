@@ -1,0 +1,2 @@
+mate8支持sim卡大小
+您好，mate8内卡槽sim1：nanosim卡。外卡槽sim2：nanosim卡（同一时间只能插nanosim或者microsd，不能同时插入nanosim和microsd两张卡）。

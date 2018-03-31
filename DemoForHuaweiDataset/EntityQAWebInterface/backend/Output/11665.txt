@@ -1,0 +1,2 @@
+1支触控笔已经配对1台matebook-a后，想要更换配对另一台matebook-b
+您好，请在原本的matebook-a中删除配对信息后，再与matebook-b做配对。

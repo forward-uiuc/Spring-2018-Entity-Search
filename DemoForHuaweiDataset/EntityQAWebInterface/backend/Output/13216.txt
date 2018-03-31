@@ -1,0 +1,2 @@
+mate s华为手机管家删除后如何恢复
+您好，目前暂时不提供手机管家的独立安装包下载，您可以尝试以下方法恢复：1. 将手机恢复出厂设置。2. 进入华为官网软件下载地址（http://consumer.huawei.com/cn/support/downloads/index.htm）下载最新的软件升级包进行升级。

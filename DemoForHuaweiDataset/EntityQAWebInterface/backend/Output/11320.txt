@@ -1,0 +1,2 @@
+华为m2 10.0平板电脑邮件支持哪些格式的附件
+您好，邮件支持的附件格式有：文本格式、图片格式、音频格式、视频格式。文本格式：plain text、vcalendar、vcard图片格式：jpeg、gif、bmp、wbmp、png、tiff音频格式：mp3、wma、flac、wav、ogg、midi、3gp视频格式：mp4、3gp、3g2、rm、rmvb、ts、mov、avi、mkv、flv

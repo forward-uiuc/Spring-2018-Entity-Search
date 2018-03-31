@@ -1,0 +1,2 @@
+mate s是否支持nfc
+mate s支持nfc。

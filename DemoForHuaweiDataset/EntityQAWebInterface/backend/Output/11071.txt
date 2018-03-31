@@ -1,0 +1,2 @@
+荣耀畅玩5a支持什么4g语音方案
+您好，荣耀畅玩5a的4g语音方案：全网通版国内：srlte/csfb/volte，漫游：csfb；其他版本支持国内：csfb/volte漫游：csfb。

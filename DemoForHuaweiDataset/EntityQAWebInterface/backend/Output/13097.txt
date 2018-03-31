@@ -1,0 +1,2 @@
+p10 plus支持什么数据接口
+p10 plus数据接口：type-c，usb 2.0。

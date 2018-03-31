@@ -1,0 +1,2 @@
+mate 8手机出现2个imei号
+您好，imei（international mobile equipment identity，移动设备国际识别码）是手机的唯一识别号码。可在手机拨号界面输入"*#06#"进行查询。单卡手机只有1个imei号，双卡双通则可能有2个imei号。

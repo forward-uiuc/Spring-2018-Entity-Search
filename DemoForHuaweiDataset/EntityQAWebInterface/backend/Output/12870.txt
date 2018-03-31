@@ -1,0 +1,2 @@
+matebook如何恢复bios 默认设置
+您好，进入bios setup界面，选择“restore defaults”，选择“yes”，然后选择“save changes and exit”，选择“yes”。进入bios setup界面：方法1：开机或重启时，按住音量上键可以进入bios设置菜单。方法2：连接键盘皮套的情况下，开机时按住 fn 键不放，并快速按 f12 键，进入 bios设置菜单。

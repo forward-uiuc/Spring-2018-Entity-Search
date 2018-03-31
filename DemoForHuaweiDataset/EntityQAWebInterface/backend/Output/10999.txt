@@ -1,0 +1,2 @@
+huawei watch 2点击android wear就出现崩溃，无法正常使用
+您好，huawei watch 2点击android wear就出现崩溃，无法正常使用。可能是您的android wear app版本低，请升级到最新版本再重新尝试。如未能解决，请上升研发。

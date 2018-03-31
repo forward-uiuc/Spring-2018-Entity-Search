@@ -1,0 +1,2 @@
+erecovery支持哪些机型
+出厂版本为emui 5.0及以上机型支持erecovery，其他emui平台机型支持情况：p系列： p9，p9 plus，p8m系列： mate 8，mate sgy系列：麦芒4 ，g7 plus，g9 青春版，g7（emui 4.0平台），麦芒5，g9 plus，huawei nova荣耀系列：荣耀v8，荣耀8，荣耀7，荣耀7i，荣耀5x，荣耀5c，荣耀6x畅享系列：畅享7 plus，畅享6s

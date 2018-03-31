@@ -1,0 +1,2 @@
+能否在手机设置中的蓝牙中配对huawei watch 2
+您好，huawei watch 2不能在手机设置中的蓝牙中配对手表。请在android wear 中国版app中配对。

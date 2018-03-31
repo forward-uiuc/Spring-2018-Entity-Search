@@ -1,0 +1,2 @@
+荣耀v9 play是否支持volte
+荣耀v9 play支持volte。进入“设置 > 更多 > 移动网络”，打开“volte 通话”开关。

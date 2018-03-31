@@ -1,0 +1,2 @@
+mate9使用type-c to type-c的线，能否实现手机对手机充电
+您好，mate9使用type-c to type-c的线，可以实现手机对手机充电。但是需要另外一端的产品也具备 type-c to type-c 的充电功能。如果发现手机不能进行 type-c to type-c 充电，请更换另一端的产品或者升级本机。

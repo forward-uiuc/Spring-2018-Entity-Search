@@ -1,0 +1,2 @@
+p9 plus cpu型号是什么
+您好，p9 plus的cpu型号是hisilicon kirin 955 （麒麟955）。

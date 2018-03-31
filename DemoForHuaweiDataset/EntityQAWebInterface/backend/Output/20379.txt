@@ -1,0 +1,2 @@
+华为商城账号如何注册
+<html>进入华为商城--选择注册--填写注册手机（或电子邮箱）--填写收到的验证码--设置密码，完成注册。<a target="_blank" href="https://hwid1.vmall.com/cas/portal/userregister/regbyphone.html?service=https://www.vmall.com/account/caslogin&amp;loginchannel=26000000&amp;reqclienttype=26">快点我注册吧</a>。<br><br>小v贴士：一个手机或电子邮箱只能注册一个帐号；密码由 8-32 位字符组成，需至少包含一个大写字母、一个小写字母和一个数字，建议不与其他密码相同</html>

@@ -1,0 +1,2 @@
+荣耀畅玩5a cpu频率是多少
+您好，荣耀畅玩5a的cpu频率：全网通是4*cortex a53 1.5ghz + 4*cortex a53 1.2ghz，其他版本是8*cortex a53 1.2ghz。

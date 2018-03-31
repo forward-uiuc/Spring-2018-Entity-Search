@@ -1,0 +1,2 @@
+订单是几位数
+<html>您好，目前订单号一般是10、11位数，商城会不定期改变订单号的规则，您可以登陆<a target="_blank" href="https://m.vmall.com/index.html？cid=90378">华为商城</a>在“我的订单”中查询订单对应的订单号。</html>

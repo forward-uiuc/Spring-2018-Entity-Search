@@ -1,0 +1,2 @@
+mate9 pro支持什么数据接口
+您好，mate9 pro数据接口支持usb type-c。

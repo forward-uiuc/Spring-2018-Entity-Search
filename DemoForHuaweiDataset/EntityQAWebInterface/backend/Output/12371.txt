@@ -1,0 +1,2 @@
+matebook 电源电压 5v/9v/12v 详解
+您好，matebook 采用5v/9v/12v 2a 智能电源适配器，能够自适应5v/9v/12v电压。type c接口标准输出电压为5v，当电源适配器检测到产品为matebook，会通过pd快充协议升压为12v。

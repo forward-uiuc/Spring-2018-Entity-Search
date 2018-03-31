@@ -1,0 +1,2 @@
+如何修改密码
+<html>1. 未登录状态（或忘记密码）：在华为商城登录界面--点击“忘记密码”--选择验证绑定信息--输入验证码--验证成功后输入新密码即可。2.登录状态：在华为商城登录界面--点击右上角昵称到“我的商城”页面--点击“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/index.html?reqclienttype=26&amp;loginchannel=26000000&amp;themename=cloudtheme">去账号中心&gt;</a>”--修改密码--按要求输入当前密码和新密码，点击“确定”。小v贴士：若绑定信息无法收取验证码，建议拨打4008308300转云服务账号申诉。</html>

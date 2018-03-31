@@ -1,0 +1,2 @@
+安全邮箱被修改了应该如何重新设置
+<html>您好，重新设置安全邮箱的具体的操作步骤为：登录商城点击右上角昵称到我的商城页面，再点击“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/index.html?reqclienttype=26&amp;loginchannel=26000000&amp;themename=cloudtheme">去帐号中心&gt;</a>”进入账号中心页面，然后点击安全邮箱项的‘更改’，按照流程操作即可。</html>

@@ -1,0 +1,2 @@
+畅享6支持什么制式
+您好，畅享6的网络制式：gsm/gprs/edge/wcdma/hspa/hspa+/td-scdma/fdd-lte/tdd-lte/cdma/evdo备注：不支持同时插入两张电信卡。

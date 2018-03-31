@@ -1,0 +1,2 @@
+mates是否支持近场通讯（nfc）
+您好，mates支持nfc。

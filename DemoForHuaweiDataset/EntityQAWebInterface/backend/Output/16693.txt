@@ -1,0 +1,2 @@
+matebook 如何更改 windows 10 的显示语言
+您好，中国区发售的matebook是windows 10 单语言版本，只能显示中文，不能更换语言。

@@ -1,0 +1,2 @@
+huawei nova的4g语音方案
+您好，huawei nova的4g语音方案：volte（中国移动）/csfb/srlte。

@@ -1,0 +1,2 @@
+华为平板m3青春版的存储卡类型
+华为平板m3青春版的存储卡是：microsd卡，支持uhs-i级别，class 10级别，支持exfat、fat32和ntfs格式。

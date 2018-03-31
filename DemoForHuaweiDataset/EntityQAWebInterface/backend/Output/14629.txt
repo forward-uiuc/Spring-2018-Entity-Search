@@ -1,0 +1,2 @@
+g9青春版支持sim卡大小
+您好，g9青春版sim卡类型：卡/slot 1：nano 卡卡/slot 2：nano 卡和 microsd 卡二选一 。

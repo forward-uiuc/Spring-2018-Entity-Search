@@ -1,0 +1,2 @@
+荣耀v9 play是否支持近场通讯（nfc）
+荣耀v9 play不支持nfc。

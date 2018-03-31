@@ -1,0 +1,2 @@
+查询维修进度
+<html>您可以通过以下方式查询维修进度：<br>1、请登录华为终端官方网站——<a target="_blank" href="http://consumer.huawei.com/cn/support/inquiry/index.htm?znkfcn01">维修进度查询</a><br>2、请登录华为会员服务app——维修进度<br>3、请关注“华为终端客户服务”微信号，选择自助服务——维修进度查询</html>

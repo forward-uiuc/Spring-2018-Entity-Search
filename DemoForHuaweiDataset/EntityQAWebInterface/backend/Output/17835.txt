@@ -1,0 +1,2 @@
+g9plus 支持什么输入法
+您好，g9plus的输入法：默认：百度输入法华为版；其他：华为swype输入法和android键盘(aosp)。

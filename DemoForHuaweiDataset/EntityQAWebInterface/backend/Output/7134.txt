@@ -1,0 +1,2 @@
+mediapad m2 8.0插其他耳机无法识别
+<html>您好，m2 插其他耳机无法识别可能是第三方厂商耳机不兼容导致，建议访问<a target="_blank" href="http://www.vmall.com/">华为商城 </a>购买官方的线序耳机 (m2标配没有耳机)。</html>

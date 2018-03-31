@@ -1,0 +1,2 @@
+商品发货后，能否修改收货地址及电话
+<html>您好，商品发货后，已经到物流公司处，请您联系<a target="_blank" href="http://www.vmall.com/">华为商城</a>电话客服核实确认。</html>

@@ -1,0 +1,2 @@
+华为儿童手表支持的手机及操作系统
+您好，华为儿童手表是通过扫描二维码绑定配对的，与蓝牙没有关系。android 4.0及以上、ios 7.0及以上智能机，只要摄像头能成功扫描二维码，即可支持。ipone4由于摄像头像素低，不支持。适配系统：android 4.0及以上，ios 7.0及以上。适用手机型号：安卓机型：包括：huawei机型、三星samsung机型、htc 、小米机型、魅族机型、lg机型、moto机型、sony机型等，确保系统在android 4.0均支持。苹果机型：iphone6s 、iphone6s plus、iphone 6 plus、iphone 6、iphone 5s、iphone 5c、iphone 5、iphone 4s

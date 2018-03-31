@@ -1,0 +1,2 @@
+荣耀3c支持哪些音频编码格式
+您好，荣耀3c支持mp3，midi，amr，awb，aac，flac，ape，ogg，wav，wma。

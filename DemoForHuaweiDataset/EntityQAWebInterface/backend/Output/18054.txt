@@ -1,0 +1,2 @@
+p10 plus是否支持dlna
+p10 plus不支持dlna。

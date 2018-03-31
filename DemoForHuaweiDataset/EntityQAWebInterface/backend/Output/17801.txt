@@ -1,0 +1,2 @@
+华为nova青春版中国区提示更新google play 服务但是实际又不能够更新
+您好，中国区手机安装google play 商店后收到通知提示“更新google play 服务”，但是点进去却又无法更新。问题原因：安装了play 商店后，play商店检测到google play服务需要更新，弹出更新google play服务的通知。但实际需要连接国外的网络才能够更新google play 服务。解决方案：1.若需要使用google play 商店，请连接国外网络后，更新google play 服务。2.若不需要使用google play商店，建议直接卸载该应用，以免持续收到“更新google play服务”的通知提示。备注：由于谷歌退出中国市场，服务器搬迁至香港，没有对中国大陆进行服务推送，并且因为中国网络安全法规限制，无法连接到香港网络，所以无法更新google play服务。

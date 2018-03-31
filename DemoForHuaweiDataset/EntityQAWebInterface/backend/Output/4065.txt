@@ -1,0 +1,2 @@
+使用华为手机助手进行outlook同步失败
+使用华为手机助手进行outlook同步失败：建议先将outlook设置为脱机工作，然后关闭outlook，再使用hisuite同步，因为outlook经常自己在同步邮件导致hisuite同步失败。部分outlook包含手机上不支持的字段，如表格，附件等，也会造成同步失败。

@@ -1,0 +1,2 @@
+huawei watch2 cpu
+您好，huawei watch2 cpu：msm8909w,4核，1.1ghz。

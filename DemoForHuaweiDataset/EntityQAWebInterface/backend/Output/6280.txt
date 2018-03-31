@@ -1,0 +1,2 @@
+我可以修改我的预约单吗？
+<html>修改预约单，可进入官网-<a target="_blank" href="http://consumer.huawei.com/cn/support/reservation/index.htm?znkfcn01">预约维修，</a>选择预约修改，输入您预约单号和申请留下的手机号码修改即可。</html>

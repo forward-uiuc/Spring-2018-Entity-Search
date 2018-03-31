@@ -1,0 +1,2 @@
+荣耀x2(gem-703l,gem-703lt)_摄像时是否有录制时间限制？
+您好，使用 huawei mediapad 摄像，没有强制的时间限制。摄像时长取决于 huawei mediapad 可用的储存空间及剩余电量。

@@ -1,0 +1,2 @@
+matedock 和matedock 2的区别
+matedock 和matedock 2的区别如下：接口说明：matedock：1*vga,1*hdmi,1*usb-c,2*usb-a,1*rj45；matedock 2：1*vga,1*hdmi,2*usb-c,1*usb-a；尺寸：matedock：153 mm*74 mm*33 mm（带皮套）；matedock 2：71.8 mm × 58.9 mm × 14.5 mm；重量：matedock：228g（带皮套和线缆）；matedock 2：约70g。

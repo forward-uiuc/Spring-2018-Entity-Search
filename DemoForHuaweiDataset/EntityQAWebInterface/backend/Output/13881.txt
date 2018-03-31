@@ -1,0 +1,2 @@
+g9青春版支持什么4g语音方案
+您好，g9青春版的4g语音方案，全网通版：国内：volte/csfb/srlte，漫游：csfb。 移动版：volte漫游：csfb。  联通版：csfb漫游：csfb。

@@ -1,0 +1,2 @@
+华为路由a1是否支持dos安全管理
+您好，华为路由a1支持dos安全管理：支持 dos 攻击保护，防止 land 和 syn flooding 等攻击。

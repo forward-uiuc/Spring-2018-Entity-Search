@@ -1,0 +1,2 @@
+mates支持电子邮件吗
+您好，mates支持电子邮件（pop3/imap/exchange）。

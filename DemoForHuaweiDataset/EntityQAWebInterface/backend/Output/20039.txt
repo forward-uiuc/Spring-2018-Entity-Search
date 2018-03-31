@@ -1,0 +1,2 @@
+matebook 如何重置你的 microsoft 帐户密码
+您好，如果忘记了用于登录到 outlook.com、skype、onedrive 和 xbox live的microsoft 帐户密码，请访问https://account.live.com/password/reset，根据提示重置密码。

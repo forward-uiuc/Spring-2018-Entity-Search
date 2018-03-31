@@ -1,0 +1,2 @@
+huawei nova副卡是否可以上网
+您好，huawei nova副卡不可以上网。数据账户与4g账户设置绑定。副卡只用作cdma/gsm/wcdma语音业务。

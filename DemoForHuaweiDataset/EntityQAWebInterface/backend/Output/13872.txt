@@ -1,0 +1,2 @@
+mates支持的4g语音方案是什么
+您好，mates移动版和双4g版是csfb，mates电信版是svlte\csfb。

@@ -1,0 +1,2 @@
+matebook 如何注册 microsoft 账户
+您好，首次登录 matebook 时，如果您连接了互联网，可以在开机设置界面直接创建一个microsoft账户。您也可以登录microsoft 网站：http://signup.live.com。根据界面提示，填写个人资料，点击“创建帐户”，创建microsoft帐户。

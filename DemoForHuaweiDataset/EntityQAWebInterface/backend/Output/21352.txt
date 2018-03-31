@@ -1,0 +1,2 @@
+提示为了保障你的账户安全请提供用户名和密码
+<html>您好，您在<a target="_blank" href="https://www.vmall.com/">华为商城</a>购买商品或查询订单情况时才需要登陆账号，其它情况请您谨慎操作，同时请您登陆华为商城&lt;a href="http://www.vmall.com"&gt;www.vmall.com&lt;/a&gt; 官方网站上进行选购，谢谢您的支持。</html>

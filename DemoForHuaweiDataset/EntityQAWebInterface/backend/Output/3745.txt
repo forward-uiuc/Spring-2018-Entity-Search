@@ -1,0 +1,2 @@
+邮箱帐号和手机帐号怎么关联
+<html>您好，您可使用手机/邮箱账号登录华为商城，点击右上角昵称进入我的商城页面，找到“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/index.html?reqclienttype=26&amp;loginchannel=26000000&amp;themename=cloudtheme">去账号中心&gt;</a>”点击进入个人中心，在“账号与安全”处进行邮箱/手机号绑定验证，绑定成功后两个帐号之间可以互通使用。需要注意的是，华为账号只能绑定之前没有在华为商城注册过的邮箱/手机号哦</html>

@@ -1,0 +1,2 @@
+荣耀畅玩4x支持哪些制式的卡
+您好，电信版是双卡双待单通。卡1 ：3ff，lte-fdd/td-lte/cdma/gsm，卡2： 3ff gsm；全网通4g版是双卡双待单通。 电信 4g/3g/2g、移动4g/3g/2g、联通4g/3g/2g。卡1：3ff，td-lte/lte-fdd/td-scdma/wcdma/cdma/gsm；卡2：td-lte/lte-fdd/td-scdma/wcdma/gsm（若卡一非电信卡）卡2：gsm（若卡一为电信卡）。che2-ul00、che2-tl00h、che2-tl00m、che2-tl00是双卡双待双通，che-tl00h和che-tl00是双卡双待单通。其中che2-ul00卡1/卡2：3ff，lte-fdd/tdd-lte/wcdma/gsm（当一个卡上3/4g后，另外一个卡只能是2g）；其他三个制式相同，卡1/卡2：3ff，tdd-lte/td-lte/gsm（当一个卡上3/4g后，另外一个卡只能是2g）。

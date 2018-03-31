@@ -1,0 +1,2 @@
+荣耀6plus 是否是标准卡？
+您好，荣耀6plus主卡：microsim；副卡：nanosim。

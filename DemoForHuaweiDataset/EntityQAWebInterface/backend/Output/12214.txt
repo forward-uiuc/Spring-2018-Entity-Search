@@ -1,0 +1,2 @@
+p8是否是标准卡
+您好，p8是小卡。sim1：nano sim card (4ff) ，sim2：nano sim card (4ff)，和 microsd 卡共用卡槽。

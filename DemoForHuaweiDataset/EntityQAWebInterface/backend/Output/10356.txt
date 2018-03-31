@@ -1,0 +1,2 @@
+荣耀小k(k1-g01)_手机丢失可以解绑吗？
+您好，小k和手机是通过华为账号绑定的，手机丢失后，只要管理员用原主管理员账号账号登录华为穿戴app即可管理小k。如果用户忘记账号密码，请按照以下faq排查：http://app.huawei.com/tkb/tskb_index.html#!tkb/common/base/faqdetail.html?resourceid=311366如果用户需要解除绑定，请按照以下faq排查：http://app.huawei.com/tkb/tskb_index.html#!tkb/common/base/faqdetail.html?resourceid=237813

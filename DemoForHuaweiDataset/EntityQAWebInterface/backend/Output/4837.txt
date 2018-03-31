@@ -1,0 +1,2 @@
+华为账号信息修改失败
+建议您把华为账号修改失败的详细信息反馈商城在线<a onclick="lim.jumper();return false;" href="javascript:void(0)">人工客服</a>为您核实处理。

@@ -1,0 +1,2 @@
+mates支持什么制式
+您好，huaweimates移动版支持主卡:4g网络制式移动4g（tdd-lte）/fdd-lte（国际漫游），3g网络制式移动3g（td-scdma）/wcdma（国际漫游），2g网络制式移动2g/联通2g（gsm），副卡：gsm（可支持移动、联通网络）；huaweimates电信版支持主卡:4g网络制式电信4g（tdd-lte/fdd-lte），3g网络制式电信3g（cdma1x&evdo）/wcdma（国际漫游），2g网络制式电信2g（cdma）/移动2g/联通2g（gsm），副卡：gsm（可支持移动、联通网络）。huaweimates双4g版支持主卡:4g网络制式移动4g（tdd-lte）/联通4g（tdd-lte/fdd-lte），3g网络制式移动3g（td-scdma）/联通3g（wcdma），2g网络制式移动2g/联通2g（gsm），副卡：gsm（可支持移动、联通网络）。

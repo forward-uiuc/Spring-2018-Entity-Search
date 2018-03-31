@@ -1,0 +1,2 @@
+nova青春版是否支持glonass
+nova青春版支持glonass。

@@ -1,0 +1,2 @@
+荣耀畅玩6x支持什么制式
+您好，荣耀畅玩6x的网络制式：荣耀畅玩6x（bln-al10）：tdd-lte/fdd-lte/td-scdma/wcdma/cdma1x&evdo/gsm，支持中国移动的4g/3g/2g、中国联通的4g/3g/2g、中国电信的4g/3g/2g*电信卡可以做副卡（即另一张卡可以是lte）*如果两张都是电信卡，只有一张电信卡可以使用。*卡槽1、2可任意切换为主卡、副卡；荣耀畅玩6x（bln-tl10）：tdd-lte/fdd-lte/td-scdma/wcdma/cdma1x&evdo/gsm，支持中国移动的4g/3g/2g、中国联通的4g/3g/2g、中国电信的4g/3g/2g*电信卡可以做副卡（即另一张卡可以是lte）*如果两张都是电信卡，只有一张电信卡可以使用。*卡槽1、2可任意切换为主卡、副卡；荣耀畅玩6x（bln-tl00）：tdd-lte/fdd-lte/td-scdma/wcdma/gsm，*卡槽1、2可任意切换为主卡、副卡。

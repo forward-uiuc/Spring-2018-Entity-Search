@@ -1,0 +1,2 @@
+荣耀8青春版的cpu介绍
+荣耀8青春版的cpu介绍：cpu型号：kirin 655（麒麟655）；cpu核数：八核；cpu主频：4 x cortex a53 2.1ghz + 4 x cortex a53 1.7ghz。

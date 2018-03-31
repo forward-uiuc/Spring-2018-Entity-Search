@@ -1,0 +1,2 @@
+p10 plus是否支持电子邮件
+p10 plus支持（pop3/imap/exchange）电子邮件。

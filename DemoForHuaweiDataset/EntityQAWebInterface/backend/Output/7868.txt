@@ -1,0 +1,2 @@
+p10 plus是否支持office
+p10 plus支持（内置wps office，支持office文档查看和编辑，支持pdf文档查看，支持zip解压和压缩等）office。

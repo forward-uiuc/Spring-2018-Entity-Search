@@ -1,0 +1,2 @@
+p9支持什么视频文件格式
+您好，p9支持3gp，mp4，wmv，rm，rmvb，asf。

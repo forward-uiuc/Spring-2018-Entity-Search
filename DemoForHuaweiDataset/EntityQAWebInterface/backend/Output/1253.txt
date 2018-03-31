@@ -1,0 +1,2 @@
+g9plus支持什么制式
+您好，g9plus支持的制式：g9plus（mla-tl00）：td-lte/lte fdd/td-scdma/wcdma/gsm，支持中国移动4g/3g/2g、中国联通2g。g9plus（mla-tl10）：td-lte/lte fdd/td-scdma/wcdma/cdma1x&evdo/gsm，支持中国移动的4g/3g/2g、中国联通的4g/3g/2g、中国电信的4g/3g/2g说明：如果两张都是电信卡，只有一张电信卡可以使用。卡槽1、2可任意切换为主卡、副卡。g9plus（mla-ul10）：td-lte/lte fdd/td-scdma/wcdma/gsm，支持中国移动4g/3g/2g、中国联通4g/3g/2g。说明：卡槽1、2可任意切换为主卡、副卡。

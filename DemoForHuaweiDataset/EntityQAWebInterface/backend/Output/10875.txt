@@ -1,0 +1,2 @@
+荣耀畅玩6ahuawei share 打开后，wlan 上网速度变慢了
+荣耀畅玩6a huawei share 打开后，wlan 上网速度变慢了问题原因：打开 “huawei share” 开关后，您的设备便处于可被发现状态。此时，设备会占用一部分天线资源，从而影响 wlan 上网速度。解决方案：如果您需要使用 wlan 进行高速率操作（观看在线视频等），建议您关闭 “huawei share” 开关。

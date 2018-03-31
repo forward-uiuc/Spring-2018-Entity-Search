@@ -1,0 +1,2 @@
+荣耀畅玩6a的cpu介绍
+荣耀畅玩6a的cpu介绍：cpu型号：qualcomm snapdragon 430（骁龙430）；cpu核数：八核；cpu主频：4×cortex a53 1.4ghz+4×cortex a53 1.1ghz。

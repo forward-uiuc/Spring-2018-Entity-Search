@@ -1,0 +1,2 @@
+没购买商品可以评价吗
+<html>您好，抱歉，目前<a target="_blank" href="http://www.vmall.com/">华为商城</a>只能对已下单并签收的商品进行评价哦。</html>

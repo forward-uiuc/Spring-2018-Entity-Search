@@ -1,0 +1,2 @@
+如果有多台新路由器接入，huawei hilink app 如何提示
+如果有多台新路由器接入，huawei hilink app 会分别如下提示：1.如果是多台路由器均通过网线接入或者路由器的hi按键一键接入，没有开启 huawei hilink app，则没有任何提示。2.如果是发现多台新设备，通过 huawei hilink app 点击添加按钮接入到路由器，huawei hilink app 会一个一个逐步提示新设备一键添加成功。

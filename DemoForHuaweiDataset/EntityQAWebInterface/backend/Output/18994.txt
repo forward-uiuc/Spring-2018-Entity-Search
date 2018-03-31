@@ -1,0 +1,2 @@
+mate9连接其他支持pd协议的设备后，下拉菜单的几个选项分别是什么意思
+您好，mate9连接其他支持pd协议的设备后，下拉菜单的几个选项分别为：仅充电：给设备本身充电。mtp：使用mtp文件传输协议（media transfer protocol）建立与对方设备的连接。ptp：使用ptp文件传输协议（picture transfer protocol）建立与对方设备的连接。反向充电：给对方设备充电。midi：音频设备的连接方式。

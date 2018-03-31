@@ -1,0 +1,2 @@
+手机预约成功抢购时提示没有预约
+<html>您好，请您务必要使用预约手机号登陆哦。若使用预约手机号登陆提示非预约用户，方便的话请您提供“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/index.html?reqclienttype=26&amp;loginchannel=26000000&amp;themename=cloudtheme">账号中心</a>”内的登陆截图 、“<a target="_blank" href="https://www.vmall.com/member/myappointment?t=1500882508742">我的预约</a>”中的预约信息截图还有页面提示非预约用户的截图至商城人工客服核实处理。同时请您在抢购之前退出重新登录多次尝试下，给您带来的不便深感抱歉，再次感谢您的支持。</html>

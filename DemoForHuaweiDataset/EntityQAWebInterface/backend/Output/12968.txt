@@ -1,0 +1,2 @@
+注册时邮箱号输错了
+<html>您好，新注册的账号需要激活后才能正常使用的，若您注册时手机号/邮箱输入有误，您可登陆华为商城在<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/index.html?reqclienttype=26&amp;loginchannel=26000000&amp;themename=cloudtheme">“账号中心</a>”内选择更换手机或者邮箱账号，验证信息将会发送到更换后的手机中，请根据页面提示操作即可。</html>

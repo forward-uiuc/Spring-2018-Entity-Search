@@ -1,0 +1,2 @@
+畅享7 plus是否支持wlan热点
+畅享7 plus支持wlan，wlan频率：2.4g，wlan协议：802.11 b/g/n。

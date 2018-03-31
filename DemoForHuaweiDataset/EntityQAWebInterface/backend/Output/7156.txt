@@ -1,0 +1,2 @@
+荣耀v9 play是否采用的ufs闪存
+荣耀 v9 play不是ufs闪存。采用的是emmc 5.1闪存。

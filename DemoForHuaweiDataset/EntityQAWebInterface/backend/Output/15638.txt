@@ -1,0 +1,2 @@
+mate8手机支持usb audio设备，如何使用usb audio播放和录制声音
+您好，请将usbaudio设备连接在手机usb口处，可以使用设备进行正常的播放音乐适配和录制声音。

@@ -1,0 +1,2 @@
+荣耀magictype-c接口的优点，与micro usb的区别
+您好，荣耀magic type-c双面可插接口最大优点是支持usb接口双面插入，解决了“usb永远插不准”的世界性难题，正反面随便插。type-c接口与micro usb的区别是：1. type-c充电端口形状为“条形圆弧”，支持正反插。2. micro usb充电端口为梯型。

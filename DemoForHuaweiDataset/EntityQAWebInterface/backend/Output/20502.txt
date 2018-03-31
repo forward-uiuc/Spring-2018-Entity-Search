@@ -1,0 +1,2 @@
+huawei nova手机cpu介绍
+您好，huawei nova手机cpu介绍：cpu型号：msm8953，cpu核数：8核，cpu频率：4*2.0 ghz+4*2.0 ghz。

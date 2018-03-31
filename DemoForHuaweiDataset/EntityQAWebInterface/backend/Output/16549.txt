@@ -1,0 +1,2 @@
+huawei matebook e cpu速度/核心
+huawei matebook e cpu速度/核心: bl-w09 (m3-7y30)：基频1.0ghz，单核2.6ghz，双核2.4ghzbl-w19 (i5-7y54)：基频1.2ghz，单核3.2ghz，双核2.8ghz。

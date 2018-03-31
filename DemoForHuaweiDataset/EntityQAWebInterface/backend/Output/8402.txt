@@ -1,0 +1,2 @@
+mate8 是否支持dts音效
+您好，mate8支持dts音效。

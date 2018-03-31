@@ -1,0 +1,2 @@
+mate8是否支持北斗导航，怎么查看是否运行
+您好，mate8手机支持北斗导航，用gps/agps/glonass/bds可搜到北斗的星。

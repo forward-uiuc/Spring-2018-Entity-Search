@@ -1,0 +1,2 @@
+mate8全网通版支持什么输入法
+您好，mate8全网通版输入法是华为输入法,swype输入法,google gms输入法（aosp）。

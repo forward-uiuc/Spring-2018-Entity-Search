@@ -1,0 +1,2 @@
+p10是否支持glonass
+p10支持glonass。

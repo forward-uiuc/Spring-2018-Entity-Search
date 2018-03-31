@@ -1,0 +1,2 @@
+mates 的sim卡类型
+您好，mates的内卡槽sim1：nanosim卡；外卡槽sim2：nanosim卡（同一时间只能插nanosim或者microsd，不能同时插入nanosim和microsd两张卡）。默认内卡槽sim1为4g主卡，可以在设置中更改主卡卡槽。

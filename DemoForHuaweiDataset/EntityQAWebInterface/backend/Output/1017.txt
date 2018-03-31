@@ -1,0 +1,2 @@
+华为随行wifi 2 mini 网速
+华为随行wifi 2 mini 网速： 支持最高速率为150mbit/s的lte fdd（dl）分组数据业务； 支持最高速率为50mbit/s的lte fdd（ul）分组数据业务； 支持最高速率为112mbit/s的lte tdd（dl）分组数据业务； 支持最高速率为10mbit/s的lte tdd（ul）分组数据业务； 支持最高速率为42mbit/s的dc-hspa+（dl）分组数据业务； 支持最高速率为21mbit/s的hspa+（dl）分组数据业务； 支持最高速率为14.4mbit/s的hsdpa（dl）分组数据业务； 支持最高速率为5.76mbit/s的hsupa（ul）分组数据业务； 支持最高速率为384 kbit/s的wcdma（ul/dl）分组数据业务；。

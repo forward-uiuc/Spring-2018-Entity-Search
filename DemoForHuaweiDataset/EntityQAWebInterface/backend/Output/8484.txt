@@ -1,0 +1,2 @@
+是否有特惠活动
+<html>您好，商城不定期会推出各种特惠活动，具体您可登录<a target="_blank" href="http://www.vmall.com/">华为商城</a>详细了解，以页面实际显示为准。</html>

@@ -1,0 +1,2 @@
+p10 plus支持哪些格式的图片
+p10 plus支持图片格式：*.png、*.gif、*.jpg、*.bmp、*.webp、*.wbmp。

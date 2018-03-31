@@ -1,0 +1,2 @@
+huawei matebook e 数据接口
+huawei matebook e 数据接口: 同充电接口共用（usb-c接口，支持与手机数据同步、充电等功能）。

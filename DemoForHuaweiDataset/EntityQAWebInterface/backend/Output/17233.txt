@@ -1,0 +1,2 @@
+账号忘记了怎么找回
+<html>一般是您通过个人的手机号或邮件地址注册华为账号的，请尝试通过“<a target="_blank" href="https://hwid1.vmall.com/cas/portal/userregister/regbyphone.html?service=https://www.vmall.com/account/caslogin&amp;loginchannel=26000000&amp;reqclienttype=26">注册</a>”界面，输入您个人常用的手机号或邮箱，如提示已注册，您通过“忘记密码”找回即可，若提示未被使用可顺利注册，说明此手机号/邮箱未注册过或已注销可重新注册使用。</html>

@@ -1,0 +1,2 @@
+huawei matebook x 数据接口
+huawei matebook x 数据接口：usb-c接口 x 2（左边支持数据和充电；右边支持数据和displayport）。

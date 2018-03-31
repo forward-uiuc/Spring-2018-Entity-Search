@@ -1,0 +1,2 @@
+nano sim卡加卡套改装成的micro sim卡，是否可作为标准 micro sim卡使用
+您好，不可以。nano sim卡加卡套改装成的micro sim卡、手工剪卡均为非标准卡，如需换卡请咨询当地的移动/电信/联通营业厅。

@@ -1,0 +1,2 @@
+用户名是否可以修改
+<html>您好，<a target="_blank" href="https://www.vmall.com/index.html#cid=90378">华为商城</a>用户名可以修改，请点击进入<a target="_blank" href="https://hwid1.vmall.com/cas/portal/usercenter/info.html?reqclienttype=26&amp;loginchannel=26000000&amp;service=http%3a%2f%2fwww.vmall.com&amp;lang=zh-cn&amp;themename=blue#">账号中心</a>，在“个人信息”中点击“编辑”按钮进行修改</html>

@@ -1,0 +1,2 @@
+p8高配和标配cpu一样吗
+您好，不一样，高配版cpu：hisilicon kirin935 八核：4*a53big 2.2ghz + 4*a53little 1.5ghz ；标配版cpu:hisilicon kirin930 八核：4*a53big 2.0ghz + 4*a53little 1.5ghz。

@@ -1,0 +1,2 @@
+hdmi和vga 同时插入时，matebook如何显示
+您好，hdmi和vga同时插入时，只能显示hdmi的信号。

@@ -1,0 +1,2 @@
+p10 plus支持哪些格式的视频
+p10 plus支持视频文件格式：*.3gp、*.mp4、*.wmv、*.rm、*.rmvb、*.asf。

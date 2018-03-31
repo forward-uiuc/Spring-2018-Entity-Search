@@ -1,0 +1,2 @@
+mate s电信版支持什么制式
+您好，mate s电信版电信版支持主卡:4g网络制式 电信4g（tdd-lte/fdd-lte），3g网络制式 电信3g（cdma 1x&evdo）/wcdma（国际漫游） ，2g网络制式 电信2g（cdma）/移动2g/联通2g（gsm），副卡：gsm（可支持移动、联通网络）。

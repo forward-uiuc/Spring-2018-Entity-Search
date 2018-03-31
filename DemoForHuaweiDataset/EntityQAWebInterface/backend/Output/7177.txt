@@ -1,0 +1,2 @@
+p10 plus手机后壳上 summarit-h 1:2.2/27 asph./ summilux-h 1:1.8/27 asph.有什么含义
+您好，summarit / summilux:指徕卡镜头名称。h:代表华为。summarit-h：指徕卡、华为联合开发的 summarit 镜头。summilux-h：指徕卡、华为联合开发的 summilux 高端镜头。1:2.2：指镜头光圈为 f2.2。（1:1.8：指镜头光圈为 f1.8）。27：指镜头的等效焦距（等效全画幅相机的焦距）。asph：是指镜片为非球面。

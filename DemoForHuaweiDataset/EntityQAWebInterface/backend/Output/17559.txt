@@ -1,0 +1,2 @@
+为什么我登录总显示用户名格式不正确呢
+<html>您好，<a target="_blank" href="http://www.vmall.com/">华为商城</a>账号是手机号或者邮箱的，请使用注册的手机号或者邮箱登陆哦。</html>

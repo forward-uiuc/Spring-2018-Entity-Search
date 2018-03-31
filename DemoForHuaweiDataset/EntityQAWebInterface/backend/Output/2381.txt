@@ -1,0 +1,2 @@
+荣耀路由x1是否支持 usb、dlna
+荣耀路由x1没有 usb 接口，不支持 usb、dlna。

@@ -1,0 +1,2 @@
+matebook带扩展坞吗
+您好，matebook支持扩展坞。通过 matedock 扩展坞接口或插槽，huawei matebook 可以连接兼容多种设备和配件，如投影仪、电视、u 盘等，满足您的扩展需求。说明：matedock 扩展坞为可选配件，您需要单独购买。

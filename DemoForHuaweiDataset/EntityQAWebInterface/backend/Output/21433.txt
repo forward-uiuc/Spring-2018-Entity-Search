@@ -1,0 +1,2 @@
+查聊天记录
+很抱歉小v无法查询聊天记录，为了能第一时间解决您的问题，请点击转<a onclick="lim.jumper();return false;" href="javascript:void(0)">人工</a>进入人工服务，非常感谢您的理解与支持

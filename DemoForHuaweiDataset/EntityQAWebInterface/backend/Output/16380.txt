@@ -1,0 +1,2 @@
+荣耀畅玩4c图片格式是什么？
+您好，荣耀畅玩4c图片格式是 *.png, *.gif (static only), *.jpg, *.bmp, *.webp, *.wbmp。

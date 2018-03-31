@@ -1,0 +1,2 @@
+无法播放flash
+您好，由于google从安卓4.1开始后的版本不再支持adobe flash player，当视频格式为flash格式时，浏览器无法解析，建议下载第三方浏览器软件查看falsh视频。

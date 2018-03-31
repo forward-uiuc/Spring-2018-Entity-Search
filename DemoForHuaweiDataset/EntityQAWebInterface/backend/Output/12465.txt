@@ -1,0 +1,2 @@
+huawei nova 2 plus的cpu介绍
+huawei nova 2 plus的cpu介绍：cpu型号：kirin 659（麒麟 659）；cpu核数：八核；cpu主频：4×cortex a53 2.36ghz + 4×cortex a53 1.7ghz。

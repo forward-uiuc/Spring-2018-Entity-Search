@@ -1,0 +1,2 @@
+mate9手机是否支持usb 耳机
+您好，mate9手机支持 type-c 接口的 usb 耳机。

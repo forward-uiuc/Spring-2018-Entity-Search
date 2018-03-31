@@ -1,0 +1,2 @@
+huawei nova 2micro usb 数据线无法插入手机
+huawei nova 2 micro usb 数据线无法插入手机原因：手机采用的是 type-c 规格的连接器，不能匹配 micro usb 的数据线，请使用华为标配的 type-c数据线。温馨提示：不同手机 usb 端口类型不一致，请勿用力插拔数据线，避免造成设备损坏。

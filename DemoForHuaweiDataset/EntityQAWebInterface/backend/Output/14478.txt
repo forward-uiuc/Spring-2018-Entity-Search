@@ -1,0 +1,2 @@
+华为路由a1 lite 是否支持ddns
+您好，华为路由a1 lite支持动态域名服务ddns。

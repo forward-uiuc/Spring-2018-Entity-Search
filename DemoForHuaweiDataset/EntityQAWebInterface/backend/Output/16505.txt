@@ -1,0 +1,2 @@
+我可以通过什么途径进行预约？
+<html>您可以通过以下方式预约华为维修服务：<br>1、请登录华为终端官方网站——<a href="http://consumer.huawei.com/cn/support/reservation/index.htm?znkfcn01" target=_blank>预约服务</a><br>2、请登录华为会员服务app——预约维修<br>3、请关注“华为终端客户服务”微信号，选择自助服务——预约服务<br>小v贴士：建议您到店前，与服务中心提前联系哦</html>

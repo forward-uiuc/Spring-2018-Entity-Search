@@ -1,0 +1,2 @@
+nova青春版是否支持wlan热点
+nova青春版支持wlan，wlan频率：2.4ghz，wlan协议：802.11b/g/n。

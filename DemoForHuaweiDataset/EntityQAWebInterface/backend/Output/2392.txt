@@ -1,0 +1,2 @@
+p10 plus的cpu介绍
+p10 plus的cpu介绍：cpu型号：huawei kirin 960 (麒麟960)；cpu核数：八核 + 微智核i6；cpu主频：4 x cortex a73 2.4 ghz + 4 x cortex a53 1.8 ghz。

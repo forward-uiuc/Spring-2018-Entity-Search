@@ -1,0 +1,2 @@
+huawei nova是否支持wlan热点
+您好，huawei nova支持wlan，wlan协议：802.11 b/g/n，wlan频率：2.4ghz。

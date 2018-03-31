@@ -1,0 +1,2 @@
+华为路由q1芯片型号
+您好，华为路由q1母路由：qca9561（soc wifi）、ar6410(plc电力线)；子路由：qca9331 （soc wifi）、 ar6410(plc电力线)。

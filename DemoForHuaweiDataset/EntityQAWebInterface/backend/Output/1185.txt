@@ -1,0 +1,2 @@
+苹果手机扫描huawei watch 2手表二维码后，无法下载android wear app
+您好，若扫描huawei watch 2手表二维码无法下载ios版android wear app，请在app store下载 android wear app 。

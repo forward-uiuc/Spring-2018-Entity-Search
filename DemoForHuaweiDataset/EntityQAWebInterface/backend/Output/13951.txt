@@ -1,0 +1,2 @@
+mates cpu频率是多少
+您好，mates的cpu频率4核a532.2ghz+4核a531.5ghz。

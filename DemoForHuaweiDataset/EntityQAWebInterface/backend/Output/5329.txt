@@ -1,0 +1,2 @@
+mediapad m2 8.0 google play停止运行
+您好，google play停止运行进入设置 〉 应用管理里面找到google play 服务，点击查看应用程序信息，再点击卸载更新，确认卸载更新后即可解决问题。

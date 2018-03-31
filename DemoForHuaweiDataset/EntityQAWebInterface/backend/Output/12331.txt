@@ -1,0 +1,2 @@
+e5通用类_如何设置apn？
+e5通用类_设置apn的方法：有两种设置方式：1.l 登录web ui，选择设置> 拨号>profile管理；2.l 登录huawei hilink app，选择设置> 网络> 接入点名称（apn）。web ui 设置apn。

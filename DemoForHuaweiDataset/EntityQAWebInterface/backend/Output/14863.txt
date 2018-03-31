@@ -1,0 +1,2 @@
+荣耀v9 play的存储卡类型
+荣耀v9 play的存储卡是：micro sd卡，class 10级别，支持exfat和ntfs格式。

@@ -1,0 +1,2 @@
+购物车在哪
+<html>您好，登陆<a target="_blank" href="http://www.vmall.com/">华为商城</a>后，在搜索栏右侧可以看到购物车，点击后即可进入购物车界面。</html>

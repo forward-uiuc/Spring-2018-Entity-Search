@@ -1,0 +1,2 @@
+荣耀路由x1是否支持dos安全管理
+荣耀路由x1支持 dos 攻击保护，防止 land 和 syn flooding 等攻击。

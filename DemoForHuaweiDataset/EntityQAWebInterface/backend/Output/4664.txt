@@ -1,0 +1,2 @@
+畅享7 plus的cpu介绍
+畅享7 plus的cpu介绍：cpu型号：qualcomm snapdragon 435（高通 骁龙435，msm8940）；cpu核数：八核；cpu主频：4×cortex a53 1.4ghz + 4×cortex a53 1.1ghz 。

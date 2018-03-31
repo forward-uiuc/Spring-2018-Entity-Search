@@ -1,0 +1,2 @@
+我能不能在账户余额里面充值
+<html>您好，非常抱歉，账户余额只是<a target="_blank" href="http://www.vmall.com/">华为商城</a>的虚拟账户，暂不支持充值。</html>

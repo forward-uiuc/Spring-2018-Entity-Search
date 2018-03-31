@@ -1,0 +1,2 @@
+关闭talkback后，返回设置界面talkback开关仍然打开（仅适用于emui5.0及以下）
+中文状态下，第一次使用talkback服务时，在talkback教程界面点击关闭talkback后，返回设置界面talkback开关仍然打开。问题原因：谷歌原生的talkback功能没有预置中文文字转语音的引擎，在设置 > 高级设置 > 辅助功能 > 文字转语音（tts）输出中默认的pico tts引擎不支持中文。打开talkback功能后，点击屏幕无法将文字转化为语音。此时在talkback教程界面中点击关闭按钮后，数据库不会更新，所以设置界面的talkback开关状态不会改变。此现象仅在首次开启 talkback功能时出现，不会影响后续使用。

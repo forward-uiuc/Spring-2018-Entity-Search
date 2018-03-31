@@ -1,0 +1,2 @@
+荣耀magic为什么micro usb数据线无法插入手机？
+您好，荣耀magic手机 usb连接器采用的规格是type-c 规格的usb连接器，不能匹配mirco usb数据线，请使用手机出厂华为标配的type-c的数据线。type-c双面可插接口最大的特点是支持usb接口双面插入。

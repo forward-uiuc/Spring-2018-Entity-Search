@@ -1,0 +1,2 @@
+荣耀3c是否支持音乐播放？
+您好，music+音乐播放器，支持 mp3、midi、amr-nb、aac、aac+、eaac+、wav等音频格式，支持下载第三方音乐播放器。

@@ -1,0 +1,2 @@
+mate9屏幕使用的是in-cell还是on-cell技术
+您好，mate9屏幕使用的是in-cell技术。

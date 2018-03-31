@@ -1,0 +1,2 @@
+mate8为什么更新完google play 服务，提示架构错误
+您好，该问题是由于新版本googleplay服务不兼容，请卸载更新的googleplay服务。在设置>应用管理,找到googleplay服务，卸载更新，提示会恢复出厂设置，确定。

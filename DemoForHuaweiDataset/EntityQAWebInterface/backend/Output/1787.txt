@@ -1,0 +1,2 @@
+p9 cpu型号是什么
+您好，p9的cpu型号是麒麟955(huawei kirin 955)。

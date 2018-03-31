@@ -1,0 +1,2 @@
+nova青春版的4g语音方案
+nova青春版的4g语音方案如下：国内：volte/csfb/srlte语音方案漫游：csfb语音方案

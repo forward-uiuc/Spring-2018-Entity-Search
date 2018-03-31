@@ -1,0 +1,2 @@
+华为nova青春版microsd卡支持哪些格式
+您好，华为nova青春版支持fat32和exfat格式支持class、uhs-i 和 uhs-ii sd卡。支持uhs超高速率的sd卡。建议您使用uhs超高速率卡，会得到更好的体验。最大支持 class10 速率等级。

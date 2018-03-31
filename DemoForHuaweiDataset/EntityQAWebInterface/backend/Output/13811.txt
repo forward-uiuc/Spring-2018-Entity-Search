@@ -1,0 +1,2 @@
+荣耀3c支持哪些电子邮件？
+您好，荣耀3c支持电子邮件（pop3，imap4，smtp，exchange）。

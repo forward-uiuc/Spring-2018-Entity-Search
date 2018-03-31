@@ -1,0 +1,2 @@
+mate8内外卡槽分别放什么
+您好，内卡槽放nano-sim卡，外卡槽放nano-sim卡或tf卡。

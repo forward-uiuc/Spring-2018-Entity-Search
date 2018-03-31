@@ -1,0 +1,2 @@
+荣耀畅玩6x手机cpu介绍
+您好，荣耀畅玩6x手机cpu介绍：cpu型号：麒麟655（kirin655）；cpu核数：八核；cpu频率：4*cortex a53 2.1ghz + 4*cortex a53 1.7ghz + 微智核i5。

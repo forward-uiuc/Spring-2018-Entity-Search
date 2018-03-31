@@ -1,0 +1,2 @@
+huawei hilink app 弹出的提示消息自动消失
+huawei hilink app 弹出的提示消息自动消失可能有以下几个原因：1.当前已打开 huawei hilink app。此时触发通知消息，huawei hilink app会在手机工具栏上弹出通知栏且不会自动消失，只有您点击通知栏进入到相应界面后，提示消息才会消失。2.当前已打开 huawei hilink app 但弹出通知栏后没有点击，此时提示消息不会自动消失。当您退出 huawei hilink app 时，智联消息、周报消息以及 push 消息通知栏会消失。3.当前没有打开 huawei hilink app，收到 huawei hilink app 的通知栏消息时，点击通知栏直接跳转到相应界面，提示消息会消失。4.若果当前在 huawei hilink app 界面，弹出通知栏后信息自动消失。请您查看是否触碰了清除通知栏消息的按钮。

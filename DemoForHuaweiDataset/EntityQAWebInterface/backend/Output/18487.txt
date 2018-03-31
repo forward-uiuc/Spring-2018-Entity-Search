@@ -1,0 +1,2 @@
+mate 9的存储卡类型
+您好，mate 9的存储卡是：microsd卡，最高支持uhs1级别和class 10级别，支持exfat和ntfs格式。

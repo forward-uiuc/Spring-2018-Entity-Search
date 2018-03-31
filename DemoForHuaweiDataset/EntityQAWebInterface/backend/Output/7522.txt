@@ -1,0 +1,2 @@
+ap20q接口类型
+您好，ap20q移动电源接口类型如下：输入：usb type c；输出：usb type a * 2。

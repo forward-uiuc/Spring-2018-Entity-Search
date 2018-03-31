@@ -1,0 +1,2 @@
+怎么查手机走到哪了
+<html>购买商品之后，可以在“<a target="_blank" href="https://www.vmall.com/member/order?t">我的订单</a>”中找到对应订单，查看订单状态是否为商品出库，发货后会显示运单号，可通过运单号，去对应公司官网跟踪物流情况。</html>

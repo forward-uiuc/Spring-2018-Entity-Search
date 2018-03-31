@@ -1,0 +1,2 @@
+mate9保时捷设计版是否支持电子邮件
+您好，mate9保时捷设计版支持电子邮件（pop3/imap/exchange）。

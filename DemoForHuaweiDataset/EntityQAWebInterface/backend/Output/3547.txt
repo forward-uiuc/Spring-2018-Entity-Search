@@ -1,0 +1,2 @@
+个人中心在页面哪个部位
+<html>您好，您登录<a target="_blank" href="https://www.vmall.com/">华为商城</a>后，点击“<a target="_blank" href="http://www.vmall.com/member?t=14762629570591476263095649&amp;anonymity_login_name=13382*****&amp;anonymity_email=4105****%40***&amp;anonymity_login_mobile=13382*****">我的商城</a>”即可进入个人中心查看相关信息。</html>

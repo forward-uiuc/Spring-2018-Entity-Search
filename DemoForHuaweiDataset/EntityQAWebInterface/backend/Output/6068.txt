@@ -1,0 +1,2 @@
+p9 plus支持pc数据同步吗
+您好，p9 plus支持pc数据同步并自带hisuite。

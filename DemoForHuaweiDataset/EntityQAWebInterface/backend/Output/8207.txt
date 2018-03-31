@@ -1,0 +1,2 @@
+e5通用类_为什么打开网页时会自动跳转到web ui配置页面？
+e5通用类_打开网页时会自动跳转到web ui配置页面解决方案：mobile wi-fi e5有故障提示功能，当mobile wi-fi e5无法正常访问internet时，用户尝试访问internet都会跳转到对应提示页面，例如：1)        当前无网络2)        当前sim 卡无效，若无效，请确认是否欠费过期和mobile wi-fi e5是否不支持该sim卡制式(如不支持cdma的设备中插入了cdma制式的sim卡)。

@@ -1,0 +1,2 @@
+matebook x 是否支持 usb-c 转 usb-a 转接线
+matebook x 支持 usb-c 转 usb-a 转接线
