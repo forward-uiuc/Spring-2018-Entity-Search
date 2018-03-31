@@ -1,3 +1,5 @@
+# \[UPADATING THIS README...\]
+
 Our plugin will be loaded into Elasticsearch runtime before the server starts. The nature of my plugin is action plugin, meaning it extends Elasticsearch’s runtime action by adding a customized RESTful endpoint.
 
 When creating a new endpoint you have to extend the class org.elasticsearch.rest.BaseRestHandler. But before going there, we first inilialize it in our plugin. To do that we implement the interface org.elasticsearch.plugins.ActionPlugin and implement the method getRestHandlers. 
