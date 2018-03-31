@@ -1,0 +1,4 @@
+HUAWEIDOCS:/path/to/huawei/folder
+HUAWEIDICT:/path/to/dictionary/files
+CLASSIFIER:/path/to/project/2018sp-entitylucene/NERLuceneDependencies/english.all.3class.distsim.crf.ser.gz
+POSTAGGER:/path/to/project/2018sp-entitylucene/NERLuceneDependencies/english-bidirectional-distsim.tagger

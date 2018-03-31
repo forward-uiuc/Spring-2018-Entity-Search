@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/stanford-postagger-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/stanford-postagger-3.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/stanford-ner.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/stanford-ner-3.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/stanford-ner-3.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/stanford-ner-3.7.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/original-jline-2.14.6-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/jline-2.14.6-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/jline-2.14.6-SNAPSHOT-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/jline-2.14.6-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/jline-2.14.6-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/java-cup-11a.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/gson-2.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/commons-codec-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

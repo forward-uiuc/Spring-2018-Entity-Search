@@ -1,0 +1,25 @@
+# Specify annotation & extraction specifics here
+#
+# Specify the gazetteer structure
+#gzMethod:GazetteerTable OR GazetteerTree OR GazetteerList
+gzMethod:GazetteerTree
+#
+# The ontology file for entity types
+#EntityOntology:dbpedia_ontology.txt
+#EntityOntology:apple_ontology.txt
+EntityOntology:huawei_ontology.txt
+#
+# JSON file of EntityInstances to load into the gazetteer structure
+#GazetteerFile:dbpediaInstancesSmall.json
+#GazetteerFolder:appleGZ
+#
+# Any number of entity extractors here
+#Extractor:method_0
+#Extractor:method_1
+#Extractor:method_N
+#Extractor:StanfordExtractor
+#Extractor:GazetteerTreeExtractor
+Extractor:HuaweiDictionaryExtractor
+#
+# One reconciler here
+Reconciler:SupertypeRootReconciler

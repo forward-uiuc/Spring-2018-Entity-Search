@@ -1,0 +1,317 @@
+04:16:05,188 INFO  [FoxCfg] Loads cfg ...
+04:16:05,269 INFO  [ToolsGenerator] disambiguationTools:{en=org.aksw.fox.tools.ner.linking.en.AgdistisEN}
+04:16:05,269 INFO  [ToolsGenerator] nerTools{en=[org.aksw.fox.tools.ner.en.BalieEN, org.aksw.fox.tools.ner.en.IllinoisExtendedEN, org.aksw.fox.tools.ner.en.OpenNLPEN, org.aksw.fox.tools.ner.en.StanfordEN]}
+04:16:05,271 INFO  [FoxClassifier] class org.aksw.fox.nerlearner.FoxClassifier ...
+04:16:05,273 INFO  [Tools] org.aksw.fox.tools.ner.Tools ...
+04:16:05,274 INFO  [Tools] tools list[org.aksw.fox.tools.ner.en.BalieEN, org.aksw.fox.tools.ner.en.IllinoisExtendedEN, org.aksw.fox.tools.ner.en.OpenNLPEN, org.aksw.fox.tools.ner.en.StanfordEN]
+04:16:05,274 INFO  [FoxCfg] Loading class: org.aksw.fox.tools.ner.en.BalieEN
+04:16:05,278 INFO  [FoxCfg] Loading class: org.aksw.fox.tools.ner.en.IllinoisExtendedEN
+04:16:14,229 INFO  [FoxCfg] Loading class: org.aksw.fox.tools.ner.en.OpenNLPEN
+04:16:19,750 INFO  [FoxCfg] Loading class: org.aksw.fox.tools.ner.en.StanfordEN
+04:16:23,184 INFO  [Tools] org.aksw.fox.tools.ner.Tools done.
+04:16:23,196 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Running Fox...
+04:16:23,196 INFO  [Fox] Running Fox...
+04:16:23,197 INFO  [TokenManager] TokenManager ...
+04:16:23,239 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Start NER (en)...
+04:16:23,239 INFO  [Fox] Start NER (en)...
+04:16:23,239 INFO  [Tools] get entities ...
+04:16:23,248 INFO  [AbstractNER] retrieve ...
+04:16:23,248 INFO  [AbstractNER] retrieve ...
+04:16:23,248 INFO  [AbstractNER] retrieve ...
+04:16:23,248 INFO  [AbstractNER] retrieve ...
+04:16:23,310 INFO  [AbstractNER] clean entities ...
+04:16:23,311 INFO  [AbstractNER] clean entities done.
+04:16:23,311 INFO  [AbstractNER] OpenNLPEN:
+04:16:23,311 INFO  [AbstractNER] 0 LOCs found
+04:16:23,311 INFO  [AbstractNER] 2 ORGs found
+04:16:23,311 INFO  [AbstractNER] 1 PERs found
+04:16:23,311 INFO  [AbstractNER] 3 total found
+04:16:23,311 INFO  [AbstractNER] OpenNLPEN(token):
+04:16:23,311 INFO  [AbstractNER] 0 LOCs found
+04:16:23,312 INFO  [AbstractNER] 4 ORGs found
+04:16:23,312 INFO  [AbstractNER] 2 PERs found
+04:16:23,312 INFO  [AbstractNER] 6 total found
+04:16:23,399 INFO  [AbstractNER] retrieve done.
+04:16:23,400 INFO  [AbstractNER] clean entities ...
+04:16:23,400 INFO  [AbstractNER] clean entities done.
+04:16:23,400 INFO  [AbstractNER] StanfordEN:
+04:16:23,400 INFO  [AbstractNER] 0 LOCs found
+04:16:23,400 INFO  [AbstractNER] 2 ORGs found
+04:16:23,400 INFO  [AbstractNER] 1 PERs found
+04:16:23,400 INFO  [AbstractNER] 3 total found
+04:16:23,400 INFO  [AbstractNER] StanfordEN(token):
+04:16:23,400 INFO  [AbstractNER] 0 LOCs found
+04:16:23,400 INFO  [AbstractNER] 4 ORGs found
+04:16:23,400 INFO  [AbstractNER] 2 PERs found
+04:16:23,400 INFO  [AbstractNER] 6 total found
+04:16:25,988 INFO  [AbstractNER] clean entities ...
+04:16:25,988 INFO  [AbstractNER] clean entities done.
+04:16:25,988 INFO  [AbstractNER] BalieEN:
+04:16:25,988 INFO  [AbstractNER] 3 LOCs found
+04:16:25,989 INFO  [AbstractNER] 0 ORGs found
+04:16:25,989 INFO  [AbstractNER] 1 PERs found
+04:16:25,989 INFO  [AbstractNER] 4 total found
+04:16:25,989 INFO  [AbstractNER] BalieEN(token):
+04:16:25,989 INFO  [AbstractNER] 3 LOCs found
+04:16:25,989 INFO  [AbstractNER] 0 ORGs found
+04:16:25,989 INFO  [AbstractNER] 2 PERs found
+04:16:25,989 INFO  [AbstractNER] 5 total found
+04:16:26,517 INFO  [AbstractNER] clean entities ...
+04:16:26,518 INFO  [AbstractNER] clean entities done.
+04:16:26,518 INFO  [AbstractNER] IllinoisExtendedEN:
+04:16:26,518 INFO  [AbstractNER] 1 LOCs found
+04:16:26,518 INFO  [AbstractNER] 1 ORGs found
+04:16:26,518 INFO  [AbstractNER] 1 PERs found
+04:16:26,518 INFO  [AbstractNER] 3 total found
+04:16:26,518 INFO  [AbstractNER] IllinoisExtendedEN(token):
+04:16:26,518 INFO  [AbstractNER] 2 LOCs found
+04:16:26,518 INFO  [AbstractNER] 4 ORGs found
+04:16:26,518 INFO  [AbstractNER] 2 PERs found
+04:16:26,518 INFO  [AbstractNER] 8 total found
+04:16:26,519 INFO  [FoxClassifier] readClassifier: data/fox/ml/en/weka.classifiers.functions.MultilayerPerceptron
+04:16:26,543 INFO  [FoxClassifier] readClassifier done.
+04:16:26,546 INFO  [TokenManager] TokenManager ...
+04:16:26,570 INFO  [PostProcessing] PostProcessing ...
+04:16:26,570 INFO  [FoxClassifier] classify ...
+04:16:26,651 INFO  [FoxClassifier] init. instances ...
+04:16:26,738 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : IllinoisExtendedEN
+04:16:26,738 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : BalieEN
+04:16:26,738 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : StanfordEN
+04:16:26,738 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : OpenNLPEN
+04:16:26,741 INFO  [PostProcessing] instancesToEntities ...
+04:16:26,742 INFO  [PostProcessing] result size: 3
+04:16:26,742 INFO  [PostProcessing] result set size: 3
+04:16:26,742 INFO  [FoxClassifier] classify done, size: 3
+04:16:26,742 INFO  [Tools] get entities done.
+04:16:26,742 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] NER done.
+04:16:26,742 INFO  [Fox] NER done.
+04:16:26,742 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Start RE ...
+04:16:26,742 INFO  [Fox] Start RE ...
+04:16:26,742 INFO  [REStanford] Start...
+04:16:27,239 INFO  [REStanford] Relations done.
+04:16:27,239 INFO  [REStanford] []
+04:16:27,240 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] RE done.
+04:16:27,240 INFO  [Fox] RE done.
+04:16:27,240 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Start NE linking ...
+04:16:27,240 INFO  [Fox] Start NE linking ...
+04:16:27,240 INFO  [FoxCfg] Loading class: org.aksw.fox.tools.ner.linking.en.AgdistisEN
+04:16:27,245 INFO  [Agdistis] AGDISTISLookup ...
+04:16:27,246 INFO  [Agdistis] AGDISTISLookup sending...
+04:16:27,986 INFO  [Agdistis] AGDISTISLookup sending done.
+04:16:27,993 INFO  [Agdistis] AGDISTISLookup done..
+04:16:27,993 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Start NE linking done.
+04:16:27,993 INFO  [Fox] Start NE linking done.
+04:16:27,993 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Preparing output format ...
+04:16:27,993 INFO  [Fox] Preparing output format ...
+04:16:28,142 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Found 0 relations.
+04:16:28,142 INFO  [Fox] Found 0 relations.
+04:16:28,243 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Preparing output format done.
+04:16:28,243 INFO  [Fox] Preparing output format done.
+04:16:28,243 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Found 3 entities.
+04:16:28,244 INFO  [Fox] Found 3 entities.
+04:16:28,244 INFO  [76c9bdd5-5ef0-4dc2-8e58-c24f423861c3] Running Fox done.
+04:16:28,244 INFO  [Fox] Running Fox done.
+04:16:28,259 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Running Fox...
+04:16:28,259 INFO  [Fox] Running Fox...
+04:16:28,259 INFO  [TokenManager] TokenManager ...
+04:16:28,289 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Start NER (en)...
+04:16:28,289 INFO  [Fox] Start NER (en)...
+04:16:28,289 INFO  [Tools] get entities ...
+04:16:28,289 INFO  [AbstractNER] retrieve ...
+04:16:28,289 INFO  [AbstractNER] retrieve ...
+04:16:28,289 INFO  [AbstractNER] retrieve ...
+04:16:28,289 INFO  [AbstractNER] retrieve ...
+04:16:28,293 INFO  [AbstractNER] retrieve done.
+04:16:28,293 INFO  [AbstractNER] clean entities ...
+04:16:28,295 INFO  [AbstractNER] clean entities ...
+04:16:28,310 INFO  [AbstractNER] clean entities done.
+04:16:28,310 INFO  [AbstractNER] clean entities done.
+04:16:28,311 INFO  [AbstractNER] StanfordEN:
+04:16:28,311 INFO  [AbstractNER] 1 LOCs found
+04:16:28,311 INFO  [AbstractNER] 0 ORGs found
+04:16:28,311 INFO  [AbstractNER] 0 PERs found
+04:16:28,311 INFO  [AbstractNER] 1 total found
+04:16:28,311 INFO  [AbstractNER] StanfordEN(token):
+04:16:28,311 INFO  [AbstractNER] 1 LOCs found
+04:16:28,311 INFO  [AbstractNER] 0 ORGs found
+04:16:28,311 INFO  [AbstractNER] 0 PERs found
+04:16:28,311 INFO  [AbstractNER] 1 total found
+04:16:28,311 INFO  [AbstractNER] IllinoisExtendedEN:
+04:16:28,311 INFO  [AbstractNER] 1 LOCs found
+04:16:28,311 INFO  [AbstractNER] 0 ORGs found
+04:16:28,311 INFO  [AbstractNER] 0 PERs found
+04:16:28,311 INFO  [AbstractNER] 1 total found
+04:16:28,311 INFO  [AbstractNER] IllinoisExtendedEN(token):
+04:16:28,311 INFO  [AbstractNER] 1 LOCs found
+04:16:28,311 INFO  [AbstractNER] 0 ORGs found
+04:16:28,311 INFO  [AbstractNER] 0 PERs found
+04:16:28,312 INFO  [AbstractNER] 1 total found
+04:16:28,313 INFO  [AbstractNER] clean entities ...
+04:16:28,313 INFO  [AbstractNER] clean entities done.
+04:16:28,313 INFO  [AbstractNER] OpenNLPEN:
+04:16:28,313 INFO  [AbstractNER] 1 LOCs found
+04:16:28,313 INFO  [AbstractNER] 0 ORGs found
+04:16:28,313 INFO  [AbstractNER] 0 PERs found
+04:16:28,313 INFO  [AbstractNER] 1 total found
+04:16:28,313 INFO  [AbstractNER] OpenNLPEN(token):
+04:16:28,313 INFO  [AbstractNER] 1 LOCs found
+04:16:28,313 INFO  [AbstractNER] 0 ORGs found
+04:16:28,313 INFO  [AbstractNER] 0 PERs found
+04:16:28,313 INFO  [AbstractNER] 1 total found
+04:16:28,690 INFO  [AbstractNER] clean entities ...
+04:16:28,690 INFO  [AbstractNER] clean entities done.
+04:16:28,690 INFO  [AbstractNER] BalieEN:
+04:16:28,690 INFO  [AbstractNER] 1 LOCs found
+04:16:28,690 INFO  [AbstractNER] 0 ORGs found
+04:16:28,690 INFO  [AbstractNER] 0 PERs found
+04:16:28,691 INFO  [AbstractNER] 1 total found
+04:16:28,690 INFO  [FoxClassifier] readClassifier: data/fox/ml/en/weka.classifiers.functions.MultilayerPerceptron
+04:16:28,691 INFO  [AbstractNER] BalieEN(token):
+04:16:28,691 INFO  [AbstractNER] 1 LOCs found
+04:16:28,691 INFO  [AbstractNER] 0 ORGs found
+04:16:28,691 INFO  [AbstractNER] 0 PERs found
+04:16:28,691 INFO  [AbstractNER] 1 total found
+04:16:28,692 INFO  [FoxClassifier] readClassifier done.
+04:16:28,692 INFO  [TokenManager] TokenManager ...
+04:16:28,716 INFO  [PostProcessing] PostProcessing ...
+04:16:28,716 INFO  [FoxClassifier] classify ...
+04:16:28,716 INFO  [FoxClassifier] init. instances ...
+04:16:28,717 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : StanfordEN
+04:16:28,717 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : BalieEN
+04:16:28,717 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : OpenNLPEN
+04:16:28,717 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : IllinoisExtendedEN
+04:16:28,718 INFO  [PostProcessing] instancesToEntities ...
+04:16:28,718 INFO  [PostProcessing] result size: 1
+04:16:28,718 INFO  [PostProcessing] result set size: 1
+04:16:28,718 INFO  [FoxClassifier] classify done, size: 1
+04:16:28,718 INFO  [Tools] get entities done.
+04:16:28,718 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] NER done.
+04:16:28,718 INFO  [Fox] NER done.
+04:16:28,718 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Start RE ...
+04:16:28,718 INFO  [Fox] Start RE ...
+04:16:28,718 INFO  [REStanford] Start...
+04:16:28,739 INFO  [REStanford] Relations done.
+04:16:28,739 INFO  [REStanford] []
+04:16:28,739 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] RE done.
+04:16:28,739 INFO  [Fox] RE done.
+04:16:28,739 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Start NE linking ...
+04:16:28,739 INFO  [Fox] Start NE linking ...
+04:16:28,739 INFO  [FoxCfg] Loading class: org.aksw.fox.tools.ner.linking.en.AgdistisEN
+04:16:28,741 INFO  [Agdistis] AGDISTISLookup ...
+04:16:28,741 INFO  [Agdistis] AGDISTISLookup sending...
+04:16:29,085 INFO  [Agdistis] AGDISTISLookup sending done.
+04:16:29,086 INFO  [Agdistis] AGDISTISLookup done..
+04:16:29,086 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Start NE linking done.
+04:16:29,086 INFO  [Fox] Start NE linking done.
+04:16:29,086 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Preparing output format ...
+04:16:29,086 INFO  [Fox] Preparing output format ...
+04:16:29,087 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Found 0 relations.
+04:16:29,087 INFO  [Fox] Found 0 relations.
+04:16:29,090 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Preparing output format done.
+04:16:29,090 INFO  [Fox] Preparing output format done.
+04:16:29,090 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Found 1 entities.
+04:16:29,090 INFO  [Fox] Found 1 entities.
+04:16:29,090 INFO  [71efb364-9d0d-44c5-987a-41e9b4a4e1a9] Running Fox done.
+04:16:29,090 INFO  [Fox] Running Fox done.
+04:16:29,093 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Running Fox...
+04:16:29,093 INFO  [Fox] Running Fox...
+04:16:29,093 INFO  [TokenManager] TokenManager ...
+04:16:29,117 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Start NER (en)...
+04:16:29,117 INFO  [Fox] Start NER (en)...
+04:16:29,117 INFO  [Tools] get entities ...
+04:16:29,117 INFO  [AbstractNER] retrieve ...
+04:16:29,117 INFO  [AbstractNER] retrieve ...
+04:16:29,117 INFO  [AbstractNER] retrieve ...
+04:16:29,118 INFO  [AbstractNER] retrieve ...
+04:16:29,120 INFO  [AbstractNER] retrieve done.
+04:16:29,120 INFO  [AbstractNER] clean entities ...
+04:16:29,127 INFO  [AbstractNER] clean entities ...
+04:16:29,131 INFO  [AbstractNER] clean entities done.
+04:16:29,131 INFO  [AbstractNER] IllinoisExtendedEN:
+04:16:29,131 INFO  [AbstractNER] clean entities done.
+04:16:29,131 INFO  [AbstractNER] 2 LOCs found
+04:16:29,131 INFO  [AbstractNER] 0 ORGs found
+04:16:29,131 INFO  [AbstractNER] 1 PERs found
+04:16:29,131 INFO  [AbstractNER] StanfordEN:
+04:16:29,131 INFO  [AbstractNER] 3 total found
+04:16:29,131 INFO  [AbstractNER] 2 LOCs found
+04:16:29,131 INFO  [AbstractNER] IllinoisExtendedEN(token):
+04:16:29,131 INFO  [AbstractNER] 2 LOCs found
+04:16:29,131 INFO  [AbstractNER] 0 ORGs found
+04:16:29,131 INFO  [AbstractNER] 1 PERs found
+04:16:29,131 INFO  [AbstractNER] 3 total found
+04:16:29,131 INFO  [AbstractNER] 0 ORGs found
+04:16:29,132 INFO  [AbstractNER] 1 PERs found
+04:16:29,132 INFO  [AbstractNER] 3 total found
+04:16:29,132 INFO  [AbstractNER] StanfordEN(token):
+04:16:29,132 INFO  [AbstractNER] 2 LOCs found
+04:16:29,132 INFO  [AbstractNER] 0 ORGs found
+04:16:29,132 INFO  [AbstractNER] 1 PERs found
+04:16:29,132 INFO  [AbstractNER] 3 total found
+04:16:29,134 INFO  [AbstractNER] clean entities ...
+04:16:29,134 INFO  [AbstractNER] clean entities done.
+04:16:29,134 INFO  [AbstractNER] OpenNLPEN:
+04:16:29,135 INFO  [AbstractNER] 2 LOCs found
+04:16:29,135 INFO  [AbstractNER] 0 ORGs found
+04:16:29,135 INFO  [AbstractNER] 1 PERs found
+04:16:29,135 INFO  [AbstractNER] 3 total found
+04:16:29,135 INFO  [AbstractNER] OpenNLPEN(token):
+04:16:29,135 INFO  [AbstractNER] 2 LOCs found
+04:16:29,135 INFO  [AbstractNER] 0 ORGs found
+04:16:29,135 INFO  [AbstractNER] 1 PERs found
+04:16:29,135 INFO  [AbstractNER] 3 total found
+04:16:29,275 INFO  [AbstractNER] clean entities ...
+04:16:29,275 INFO  [AbstractNER] clean entities done.
+04:16:29,275 INFO  [AbstractNER] BalieEN:
+04:16:29,275 INFO  [AbstractNER] 2 LOCs found
+04:16:29,275 INFO  [AbstractNER] 0 ORGs found
+04:16:29,275 INFO  [AbstractNER] 0 PERs found
+04:16:29,275 INFO  [AbstractNER] 2 total found
+04:16:29,275 INFO  [AbstractNER] BalieEN(token):
+04:16:29,275 INFO  [AbstractNER] 2 LOCs found
+04:16:29,275 INFO  [AbstractNER] 0 ORGs found
+04:16:29,275 INFO  [AbstractNER] 0 PERs found
+04:16:29,275 INFO  [FoxClassifier] readClassifier: data/fox/ml/en/weka.classifiers.functions.MultilayerPerceptron
+04:16:29,275 INFO  [AbstractNER] 2 total found
+04:16:29,277 INFO  [FoxClassifier] readClassifier done.
+04:16:29,277 INFO  [TokenManager] TokenManager ...
+04:16:29,303 INFO  [PostProcessing] PostProcessing ...
+04:16:29,304 INFO  [FoxClassifier] classify ...
+04:16:29,304 INFO  [FoxClassifier] init. instances ...
+04:16:29,304 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : StanfordEN
+04:16:29,304 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : BalieEN
+04:16:29,304 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : OpenNLPEN
+04:16:29,304 INFO  [TokenCategoryMatrix] TokenCategoryMatrix : IllinoisExtendedEN
+04:16:29,305 INFO  [PostProcessing] instancesToEntities ...
+04:16:29,305 INFO  [PostProcessing] result size: 3
+04:16:29,305 INFO  [PostProcessing] result set size: 3
+04:16:29,305 INFO  [FoxClassifier] classify done, size: 3
+04:16:29,305 INFO  [Tools] get entities done.
+04:16:29,305 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] NER done.
+04:16:29,305 INFO  [Fox] NER done.
+04:16:29,305 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Start RE ...
+04:16:29,305 INFO  [Fox] Start RE ...
+04:16:29,306 INFO  [REStanford] Start...
+04:16:29,339 INFO  [REStanford] Relations done.
+04:16:29,339 INFO  [REStanford] []
+04:16:29,339 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] RE done.
+04:16:29,340 INFO  [Fox] RE done.
+04:16:29,340 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Start NE linking ...
+04:16:29,340 INFO  [Fox] Start NE linking ...
+04:16:29,340 INFO  [FoxCfg] Loading class: org.aksw.fox.tools.ner.linking.en.AgdistisEN
+04:16:29,342 INFO  [Agdistis] AGDISTISLookup ...
+04:16:29,342 INFO  [Agdistis] AGDISTISLookup sending...
+04:16:29,802 INFO  [Agdistis] AGDISTISLookup sending done.
+04:16:29,803 INFO  [Agdistis] AGDISTISLookup done..
+04:16:29,803 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Start NE linking done.
+04:16:29,803 INFO  [Fox] Start NE linking done.
+04:16:29,803 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Preparing output format ...
+04:16:29,803 INFO  [Fox] Preparing output format ...
+04:16:29,804 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Found 0 relations.
+04:16:29,804 INFO  [Fox] Found 0 relations.
+04:16:29,808 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Preparing output format done.
+04:16:29,808 INFO  [Fox] Preparing output format done.
+04:16:29,808 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Found 3 entities.
+04:16:29,808 INFO  [Fox] Found 3 entities.
+04:16:29,808 INFO  [93ffe4cf-7089-408e-81a6-69275b0dbd72] Running Fox done.
+04:16:29,808 INFO  [Fox] Running Fox done.

@@ -1,0 +1,1 @@
+{"general": [], "application": [], "symptom": [], "product": [], "a":[], "s":[], "p":[], "f":[], "h":[], "w": [], "k": [], "not": []}

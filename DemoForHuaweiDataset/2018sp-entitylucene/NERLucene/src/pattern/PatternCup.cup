@@ -1,0 +1,40 @@
+package pattern;
+import java_cup.runtime.*;
+import java.util.ArrayList;
+
+parser code{: 
+	public void syntax_error(Symbol cur_token){
+		report_error("Syntax Error on line "+cur_token.left+" column "+cur_token.right,null);
+	}
+:}
+
+terminal LPARAE, RPARAE, LBRACK, RBRACK, LBRACE, RBRACE, VERLINE, COMMA,QUESTION, LT, RT, CARET, COLON;
+terminal String KEYWORD,ENTITY;
+non terminal Token token;
+non terminal SingleToken singleToken;
+non terminal SeqToken seqToken;
+non terminal SetToken setToken;
+non terminal OrToken orToken;
+non terminal ArrayList<Token> tokenList, orList;
+
+start with token;
+
+token		::=	singleToken:t			{:	RESULT = t;	:}
+			|	seqToken:t				{:	RESULT = t;	:}
+			|	setToken:t				{:	RESULT = t;	:}
+			|	orToken:t				{:	RESULT = t;	:}	;
+
+tokenList	::=	token:t					{:	ArrayList<Token> tl=new ArrayList<Token>();		tl.add(t);	RESULT=tl;	:}
+			|	tokenList:tl token:t	{:	tl.add(t);	RESULT=tl;	:}	;
+			
+orList		::= token:t 				{:	ArrayList<Token> tl=new ArrayList<Token>();		tl.add(t);	RESULT=tl;	:}
+			|	orList:tl VERLINE token:t	{:	tl.add(t);	RESULT=tl;	:}	;
+
+singleToken	::=	KEYWORD:t					{:	RESULT = new KeywordToken(t);	:}
+			|	ENTITY:e					{:	RESULT = new EntityToken(e);:};
+			
+seqToken	::=	LBRACE tokenList:tl RBRACE	{:	RESULT = new SeqToken(tl);	:}	;
+
+setToken	::= LBRACK tokenList:tl RBRACK LT KEYWORD:num RT	{:	RESULT = new SetToken(tl,Integer.parseInt(num));	:}	;
+
+orToken		::=	LPARAE orList:tl RPARAE	{:	RESULT = new OrToken(tl);	:}	;

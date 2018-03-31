@@ -1,0 +1,26 @@
+# .
+/eclipse-build
+/classes
+build
+/idea-build
+dist
+test-lib
+/*~
+/velocity.log
+/build.properties
+/.idea
+lucene/**/*.iml
+parent.iml
+*.ipr
+*.iws
+/.project
+/.classpath
+/.settings
+/.caches
+/prj.el
+/bin
+/bin.*
+pom.xml
+/nbproject
+/nb-build
+.pydevproject

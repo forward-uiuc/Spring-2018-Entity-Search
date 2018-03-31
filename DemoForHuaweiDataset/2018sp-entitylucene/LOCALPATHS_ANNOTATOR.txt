@@ -1,0 +1,5 @@
+#OUTPUT:/Users/apple/2017f-entitylucene/luceneDocs
+HUAWEIDOCS:/Users/apple/sp18/EntitySearch/StandardQuestion_QuestionAnswer_Tagging.txt
+HUAWEIDICT:/Users/apple/sp18/EntitySearch/dictionaries
+CLASSIFIER:/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/english.all.3class.distsim.crf.ser.gz
+POSTAGGER:/Users/apple/sp18/2017f-entitylucene/NERLuceneDependencies/english-bidirectional-distsim.tagger

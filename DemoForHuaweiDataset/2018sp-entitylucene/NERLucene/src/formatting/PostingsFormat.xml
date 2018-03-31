@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<postingsFormat>
+	<field name = "tokenEntityType" type="TEXT"/>
+    <field name = "physicalDocNum" type="INT"/>
+    <field name = "docEntityType" type="TEXT"/>
+	<field name = "instance" type="TEXT"/>
+    <field name = "position" type="INT"/>
+    <field name = "tokenNum" type="INT"/>
+</postingsFormat>
