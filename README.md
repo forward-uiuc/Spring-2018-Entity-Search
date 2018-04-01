@@ -117,7 +117,9 @@ PUT /entity_search_cs_departments/
 } 
 ```
 - Import data from (elasticsearch-cs-professors-crawler-annotator)[https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/elasticsearch-cs-professors-crawler-annotator] using the following command:
-``` curl -XPOST localhost:9200/entity_lucene_doc/_bulk -H 'Content-Type: application/json' --data-binary @name-of-import-file.json
+
+``` 
+curl -XPOST localhost:9200/entity_lucene_doc/_bulk -H 'Content-Type: application/json' --data-binary @name-of-import-file.json
 ```
 - If the file is too large, split it into seperate files and XPOST them seperatly.
 
