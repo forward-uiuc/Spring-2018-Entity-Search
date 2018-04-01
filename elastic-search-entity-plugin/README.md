@@ -20,6 +20,55 @@ For query parsing and clustering, look into ClusteringAction.java in
 ```
 https://github.com/forward-uiuc/Spring-2018-Entity-Search/blob/master/elastic-search-entity-plugin/src/main/java/org/entitysearch/elasticsearch/ClusteringAction.java
 ```
+Query parsing example: 
+```
+Given query - #hardware #software memory memory
+Ouput query -
+GET entity_lucene_doc/_search?
+{
+  "query": {
+    "span_near": {
+      "clauses": [
+        {
+          "field_masking_span": {
+            "query": {
+              "span_term": {
+                "_entity_general_hardware_begin": "oentityo"
+              }
+            },
+            "field": "text"
+          }
+        },
+        {
+          "field_masking_span": {
+            "query": {
+              "span_term": {
+                "_entity_software_begin": "oentityo"
+              }
+            },
+            "field": "text"
+          }
+        },
+        {
+          "span_term": {
+            "text": "memory"
+          }
+        },
+        {
+          "span_term": {
+            "text": "memory"
+          }
+        }
+      ],
+      "slop": 10,
+      "in_order": false
+    }
+  }
+}
+
+```
+Clustering means that similar entity instances are gathered, scored and scores aggregated.
+
 Configure project properties in:
 ```
 /src/main/config 
