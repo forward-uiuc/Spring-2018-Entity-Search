@@ -1,4 +1,4 @@
-# Elastic Search Analysis Plugin for Entity Layout Info
+# Elastic Search Analysis Plugin for Entity Layout Info (Updating this README)
 
 
 This is a plugin to enable multiple entity search and clustering on elastic search, for any data with annotated entities (works both for apple dataset and new academia dataset.), indexed in elastic search. 
