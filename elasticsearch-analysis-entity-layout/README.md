@@ -1,54 +1,55 @@
-# Elastic Search Analysis Plugin for Entity Layout Info (Updating this README)
+# Elastic Search Analysis Plugin for Entity Layout Info
 
+## Intro
+This plugin allows us to index entities' visual positions on the page in ElasticSearch. It is particularly useful for entity-semantic document search because very often relative or absolute positions of entities are useful to describe a page of interest. For example, professor homepages can be described as pages where emails, phone numbers are visually near a photo, and they appear inside the top one third of the page.
 
-This is a plugin to enable multiple entity search and clustering on elastic search, for any data with annotated entities (works both for apple dataset and new academia dataset.), indexed in elastic search. 
+Essentially, the idea is inject layout information to term during the annotation process (by adding that info as a suffix for a term separated by a delimiter, e.g., "oentityo|15"), and then read that info to override offset values of terms. By doing so, we basically cast default offset values of terms into their layout offset. To enable this, we create an analysis plugin to create a customized tokenizer called "layout_tokenizer", which can read injected-layout information for term.
+
 For more details and structure of plugins in elastic search see this - 
 https://www.elastic.co/guide/en/elasticsearch/plugins/current/index.html
 Information is provided for different kinds of plugins – discovery, analysis, mapper , ingest and store plugin. Also, information is given on how to develop and maintain the plugins.
-Install:
+
+## Install
 To install the plugin:
-Go to the plugin folder and run the following commands on windows (*for linux and mac remove the .bat extension)
+Go to the plugin folder and run the following commands on linux or mac machine (if you use a windows machine, please find the way to install ES plugins on internet):
+
+First, we need to compile the code:
 ```
-.\gradlew.bat clean assemble
-Then go to the folder where you have installed elastic search and go to bin 
-Run following commands – (*ignore .bat extension for linux and mac)
-.\elasticsearch-plugin.bat remove elasticsearch-carrot2
-.\elasticsearch-plugin.bat install file:///[[path to elastic search plugin folder]]\elastic-search-entity-plugin\build\distributions\elasticsearch-carrot2-5.6.1.zip
+mvn package -DskipTests
+mvn clean package -DskipTests
 ```
 
-Modify code:
-For query parsing and clustering, look into ClusteringAction.java in
-[[elastic search plugin folder]]/ src/main/java/org/entitysearch/elasticsearch/ClusteringAction.java
-Configure project properties in:
+Then, we need to remove the plugin if beeing installed previously:
 ```
-/src/main/config 
-```
-Run:
-After installing the plugin in elastic search instance it can be accessed from kibana or web interface (Other sample queries on web interface).
-From kibana use queries like:
-```
-GET /entity_search_cs_departments/_search_with_clusters?
-{  "search_request" :
- {
-  "query": "#professor mining " ,    
-  "size":100
-   }
-}
+path-to-elasticsearch-5.6.1/bin/elasticsearch-plugin remove elasticsearch-analysis-entity-layout
 ```
 
-Algorithms: 
-1.  Convert given query into elastic search format. 
-2.  Retrieve docs elastic search
-3.  Find entity instances in docs (Do post processing)
-4.  Score and rank the entity outputs
-  a.  Proximity based scoring is implemented for queried entities and context words
-  b.  Results for all occurrences of the entity globally are added, to take frequency into account
-5.  Send results to web interface
-6.  Limit retrieved relevant doc number to100 (configurable)
-7.  Considered context window to reduce relevant entities, it faster than previous version, need to use interval tree to make it better. 
+And finally install the plugin:
+```
+path-to-elasticsearch-5.6.1/bin/elasticsearch-plugin install file://path-to-plugin/target/releases/elasticsearch-analysis-entity-layout-5.6.1.zip
+```
 
+## Extend code
+
+If you want to modify the code, you need to compile/install the plugin and restart ElasticSearch.
+
+The logic is mainly in [EntityLayoutTokenizer.java](https://github.com/forward-uiuc/Spring-2018-Entity-Search/blob/master/elasticsearch-analysis-entity-layout/src/main/java/org/forward/entitysearch/entitylayoutanalysis/EntityLayoutTokenizer.java) and the tokenizer is registered in [AnalysisEntityLayoutPlugin.java](https://github.com/forward-uiuc/Spring-2018-Entity-Search/blob/master/elasticsearch-analysis-entity-layout/src/main/java/org/forward/entitysearch/entitylayoutanalysis/AnalysisEntityLayoutPlugin.java)
+
+## Run
+After installing the plugin in elastic search instance, now you can use a customized tokenizer called "layout_tokenizer"
+```
+"xpos_entity_analyzer": {
+          "type": "custom",
+          "tokenizer": "layout_tokenizer",
+          "filter": [
+            "lowercase",
+            "delimited_payload_filter",
+             "keep_entity_word"
+          ]
+        }
+```
 
 Future work:
-1.  Better clustering provided the expansion rules for name of professor and other entities
-2.  Incremental results in interface, better user experience.
-3.  Go deep into elastic search to make this plugin a part of the search system. And ensure our fundamentals assumptions are satisfied from search engine itself. 
+1.  Test this plugin with big annotated dataset. Now, it is tested with only a toy dataset.
+2.  Explore how to fundamentally increase the number of offsets for each term, so we can have multiple types of offsets for different terms.
+3.  Explore how to allow users query jointly on multiple types of offsets for each term, which is similar to what R-Tree does for spacial data.
