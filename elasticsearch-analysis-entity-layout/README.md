@@ -7,8 +7,8 @@ https://www.elastic.co/guide/en/elasticsearch/plugins/current/index.html
 Information is provided for different kinds of plugins – discovery, analysis, mapper , ingest and store plugin. Also, information is given on how to develop and maintain the plugins.
 Install:
 To install the plugin:
-```
 Go to the plugin folder and run the following commands on windows (*for linux and mac remove the .bat extension)
+```
 .\gradlew.bat clean assemble
 Then go to the folder where you have installed elastic search and go to bin 
 Run following commands – (*ignore .bat extension for linux and mac)
@@ -24,16 +24,18 @@ Configure project properties in:
 /src/main/config 
 ```
 Run:
-```
 After installing the plugin in elastic search instance it can be accessed from kibana or web interface (Other sample queries on web interface).
 From kibana use queries like:
+```
 GET /entity_search_cs_departments/_search_with_clusters?
 {  "search_request" :
  {
   "query": "#professor mining " ,    
   "size":100
    }
-}```
+}
+```
+
 Algorithms: 
 1.  Convert given query into elastic search format. 
 2.  Retrieve docs elastic search
