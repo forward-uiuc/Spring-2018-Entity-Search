@@ -17,16 +17,19 @@ npm install
 
 ## How to start
 At the folder containing this README:
-```cd backend
+```
+cd backend
 npm start &
 ```
 
 * If listen locally (localhost:8080):
-```cd frontend
+```
+cd frontend
 npm run dev
 ```
 * If listen publicly (0.0.0.0:8080):
-```cd frontend
+```
+cd frontend
 npm start &
 ```
 
@@ -35,9 +38,11 @@ npm start &
   * Clear the cache, or use Incognito mode, or switch to another browser. Will fix this issue soon.
 * reror EADDRINUSE:::xxxx means the port xxxx is in use (there is already a running server process)
   * To see if there is node/nodemon process running: 
-```aux ps | grep node
+```
+aux ps | grep node
 ```
   * To kill other node processes:
-```killall node
+```
+killall node
 ```
   * Now you should be able to start servers normally.
