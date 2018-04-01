@@ -52,3 +52,4 @@ Future work:
 1.  Better clustering provided the expansion rules for name of professor and other entities(academic dataset)
 2.  Incremental results in interface, better user experience.
 3.  Go deep into elastic search to make this plugin a part of the search system. And ensure our fundamentals assumptions are satisfied from search engine itself. 
+4. Even after using context window, the plugin is slow in post processing. Faster than version 1 though. Need to invert on offset of entity and add interval tree for faster processing. 
