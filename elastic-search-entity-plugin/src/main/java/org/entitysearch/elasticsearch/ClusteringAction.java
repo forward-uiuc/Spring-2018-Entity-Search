@@ -1,6 +1,6 @@
-package org.entitysearch.elasticsearch;
+package org.carrot2.elasticsearch;
 
-import static org.entitysearch.elasticsearch.LoggerUtils.emitErrorResponse;
+import static org.carrot2.elasticsearch.LoggerUtils.emitErrorResponse;
 import static org.elasticsearch.action.ValidateActions.addValidationError;
 import static org.elasticsearch.rest.RestRequest.Method.POST;
 import static org.elasticsearch.rest.RestRequest.Method.GET;
@@ -83,7 +83,9 @@ public class ClusteringAction
         ClusteringAction.ClusteringActionRequestBuilder> {
     /* Action name. */
     public static final String NAME = "clustering/cluster";
-
+    public static  ArrayList<String> category = new ArrayList<String>();
+    public static  ArrayList<String> allterms = new ArrayList<String>();
+    public static Integer window_size = 0;
     /* Reusable singleton. */
     public static final ClusteringAction INSTANCE = new ClusteringAction();
 
@@ -144,8 +146,8 @@ public class ClusteringAction
             }
 
             try (XContentParser parser = XContentFactory.xContent(source).createParser(xContentRegistry, source)) {
-                // TODO: we should avoid reparsing search_request here 
-                // but it's terribly difficult to slice the underlying byte 
+                // TODO: we should avoid reparsing search_request here
+                // but it's terribly difficult to slice the underlying byte
                 // buffer to get just the search request.
                 Map<String, Object> asMap = parser.mapOrdered();
                 Map<String, Object> searchRequestMap = (Map<String, Object>) asMap.get("search_request");
@@ -154,19 +156,21 @@ public class ClusteringAction
                     if (this.searchRequest == null) {
                         searchRequest = new SearchRequest();
                     }
-                    String[] tokens = ((String)searchRequestMap.get("query")).split(DELIMITER);
+                    String[] tokens = (((String)searchRequestMap.get("query")).trim().replaceAll(" +", " ")).split(DELIMITER);
                     boolean flag = false;
-                    if(searchRequestMap.get("type")!=null && ((String)searchRequestMap.get("type")).equals("d_document")) {
+                    if(searchRequestMap.get("type")!=null && ((String)searchRequestMap.get("type")).equals("e_document")) {
                         flag = true;
                         searchRequestMap.remove("type");
                     }
                     searchRequestMap.put("query", new HashMap<String, Object>());
+                    searchRequestMap.put("size", searchRequestMap.get("size"));
                     HashMap<String, Object> query = (HashMap<String, Object>)searchRequestMap.get("query");
                     query.put("span_near", new HashMap<String, Object>());
                     List<HashMap<String, Object>> hashMapArray = new ArrayList<>();
                     int i = 0;
                     for(String token:tokens) {
-                        if(token.charAt(0)=='#') {
+                        if(token.length()>1 && token.charAt(0)=='#' ) {
+                            window_size = window_size++;
                             token = token.substring(1);
                             HashMap<String, Object> hashMapElement = new HashMap<String, Object> ();
                             hashMapElement.put("field_masking_span", new HashMap<String, Object>());
@@ -175,24 +179,26 @@ public class ClusteringAction
                             HashMap<String, Object> queryH = (HashMap<String, Object>) fieldMaskingSpan.get("query");
                             queryH.put("span_term", new HashMap<String, Object>());
                             HashMap<String, Object> spanTerm = (HashMap<String, Object>) queryH.get("span_term");
-                            if(flag)
-                                spanTerm.put(token + "_begin", "oentityo");         
-                            else
-                                spanTerm.put(token, "oentityo");                           
+                            spanTerm.put("_entity_"+ token + "_begin", "oentityo");
+                            category.add(token); //for multiple category
+                            allterms.add(token);
                             fieldMaskingSpan.put("field", "text");
-                            hashMapArray.add(hashMapElement);                           
+                            hashMapArray.add(hashMapElement);
                         }
-                        else {
+                        else if (token.length()>1 )  {
                             HashMap<String, Object> hashMapElement = new HashMap<String, Object> ();
                             hashMapElement.put("span_term", new HashMap<String, Object>());
                             HashMap<String, Object> spanTerm = (HashMap<String, Object>) hashMapElement.get("span_term");
                             spanTerm.put("text", token);
+                            allterms.add(token);
                             hashMapArray.add(hashMapElement);
                         }
                     }
                     ((HashMap<String, Object>) query.get("span_near")).put("clauses", hashMapArray);
-                    ((HashMap<String, Object>) query.get("span_near")).put("slop", 7);
-                    System.out.println(searchRequestMap);
+                    ((HashMap<String, Object>) query.get("span_near")).put("slop", 10);
+                    ((HashMap<String, Object>) query.get("span_near")).put("in_order", false);
+                    //System.out.println(searchRequestMap);
+                    //GSon searchRequestMapJSON = new Gson().toJson(searchRequestMap)
                     XContentBuilder builder = XContentFactory.contentBuilder(XContentType.JSON).map(searchRequestMap);
                     XContentParser searchXParser = XContentFactory.xContent(XContentType.JSON)
                             .createParser(xContentRegistry, builder.bytes());
@@ -218,7 +224,7 @@ public class ClusteringAction
             ActionRequestValidationException validationException = null;
             if (searchRequest == null) {
                 validationException = addValidationError("No delegate search request",
-                                                         validationException);
+                        validationException);
             }
 
             ActionRequestValidationException ex = searchRequest.validate();
@@ -285,7 +291,7 @@ public class ClusteringAction
         }
 
         public ClusteringActionRequestBuilder setSource(BytesReference content,
-                                                NamedXContentRegistry xContentRegistry) {
+                                                        NamedXContentRegistry xContentRegistry) {
             super.request.source(content, xContentRegistry);
             return this;
         }
@@ -336,51 +342,340 @@ public class ClusteringAction
                 throws IOException {
             if (searchResponse != null) {
                 searchResponse.innerToXContent(builder, ToXContent.EMPTY_PARAMS);
-            }   
-
-            SearchHit[] hits = searchResponse.getHits().getHits();
-            HashMap<String, List<SearchHit>> hm = new HashMap<>();
-
-            for(SearchHit hit : hits) {
-                String entityContent = (String)hit.sourceAsMap().get("entityContent");
-                List<SearchHit> ls = hm.getOrDefault(entityContent, new ArrayList<SearchHit> ());
-                ls.add(hit);
-                hm.put(entityContent, ls);
             }
+            
+            SearchHit[] hits = searchResponse.getHits().getHits();
+            
+        
+
+
+            HashMap<String, List<SearchHit>> hm = new HashMap<>();
+            Map<String,Double> doc_prox = new HashMap<String,Double>();
+
+            long startTime = System.currentTimeMillis();
+            
+            
+            for(SearchHit hit : hits) {
+                HashMap<String, ArrayList<String>> hashMapCategory = new HashMap<String, ArrayList<String>> ();
+                String text=(String)hit.sourceAsMap().get("text");
+                for(String s : category)//list of entity categories to search
+                {
+                   
+                       ArrayList<String> arr = new ArrayList<String> ();
+                       arr.add((String)hit.sourceAsMap().get("_entity_"+s+"_begin"));
+                       arr.add((String)hit.sourceAsMap().get("_entity_"+s+"_end"));
+                       hashMapCategory.put(s,arr);//append text of these two entity types
+                }
+
+                int begin = -1;
+                int end = -1;
+                int i = 0;
+                //int j =0;
+                int count =0;
+                String [] textContent=text.split(" ");
+                StringBuffer re = new StringBuffer(); 
+
+                HashMap<String, ArrayList<String>> hash_category_re = new HashMap<String, ArrayList<String>> ();
+                HashMap<String, ArrayList<Integer>> hash_category_re_begin_index = new HashMap<String, ArrayList<Integer>> ();    
+                for (String k : category)
+                {
+                       
+                        count =0;
+                       String strb = (String)hit.sourceAsMap().get("_entity_"+k+"_begin");
+                       String stre = (String)hit.sourceAsMap().get("_entity_"+k+"_end");
+                       
+                       String[] strb_split = strb.split(" ");
+                       String[] stre_split = stre.split(" ");
+
+                       int strb_len = strb_split.length;
+                       int stre_len = stre_split.length ;
+                       int multiple_entity = 0;
+                       for(int j=0 ;j<strb_len;j++)
+                       {
+                            if (strb_split[j].startsWith("oentityo"))
+                            {
+                                count++;
+                            }
+                       }                            
+                            int last_i = 0;
+                            int last_j = 0;
+                            for (int m =0 ; m < count ; m++)
+
+                            {
+                                 
+                                    for( i=last_i; i < strb_len; i++)
+                            
+                                   {     
+                                       if(strb_split[i].startsWith("oentityo"))
+                                        {   
+                                            begin = i;//-m;
+                                            last_i=i+1;
+                                         
+                                            break;
+                                        }
+
+                                   }
+                                   for( i=last_j; i<stre_len; i++)
+                                   {    
+                                       if(stre_split[i].startsWith("oentityo") )
+                                        {
+                                           end = i ;// -m;
+                                           last_j =  i+1;
+                                           break;
+                                       }
+                                   } 
+                                   StringBuffer sb=new StringBuffer();
+                                   for( int r=begin; r<=end; r++)
+                                   {
+                                        if(begin==end)
+                                        {
+                                            sb.append(textContent[r]);
+                                        }
+                                        else
+                                        {
+                                            if(sb.length()==0)
+                                            {
+                                                sb.append(textContent[r]);
+                                            }
+                                            else
+                                            {
+                                                sb.append(" ").append(textContent[r]);
+                                            } 
+                                            
+                                        }           
+                                    }
+                                   
+                                    ArrayList<String> tmp_list =hash_category_re.getOrDefault(k, new ArrayList<String> ());// order will be fixed category wise
+                                    ArrayList<Integer> tmp_list_index =hash_category_re_begin_index.getOrDefault(k, new ArrayList<Integer> ());// order will be fixed category wise
+                                    
+                                    String tmp_str = sb.toString();
+                                   
+                                    if("".equals(tmp_str))
+                                    {
+                                        continue;
+                                    }
+                                    tmp_list.add(sb.toString());
+                                    tmp_list_index.add(last_i-1);
+                                    
+                                    hash_category_re.put(k,tmp_list);
+                                    hash_category_re_begin_index.put(k,tmp_list_index);
+
+                                
+                            }
+                       
+                       
+                
+                }//category end
+  
+                    ArrayList<String> entity_combo = new ArrayList<String>(); 
+                    ArrayList<String> prev = new ArrayList<String>();
+                    //System.out.println("cat size " + category.size());
+                    for (String cat : category)
+                    {
+                        if(hash_category_re.containsKey(cat))
+                        {
+                            prev.add(cat);
+                            if (entity_combo.size() == 0)
+                            {
+                                for (int j =0;j<hash_category_re.get(cat).size();j++)
+                                {
+                                    if(hash_category_re.get(cat).get(j).replaceAll(" ","") =="" )
+                                        continue;
+                                    else if (hash_category_re.get(cat).get(j).replaceAll(",","") =="" )
+                                        continue;
+                                    else     
+                                        entity_combo.add(new String(hash_category_re.get(cat).get(j)));
+
+                                }
+                            
+                            }
+                            else
+                            {
+                                ArrayList<String> copy = new ArrayList<String>(entity_combo.size());
+                                
+                                for(String p : entity_combo) {
+                                    copy.add(new String(p));
+                                }
+
+                                if (hash_category_re.get(cat).size() > 1 )
+                                {
+                                   for (int j =1;j<hash_category_re.get(cat).size();j++)
+                                    {
+
+                                        entity_combo.addAll(copy);
+                                        
+                                    }
+                                }      
+                                
+                                for (int j = 0,m=0;j<entity_combo.size();j++)
+                                {
+                                    String tmp = entity_combo.get(j);
+                                    if(tmp.replaceAll(",","") == "")
+                                        continue;
+                                    if(tmp=="")
+                                        continue;
+                                    //check context window here
+                                    // slop + number entity = window size
+                                    String[]  context = new String[]{tmp};
+                                    if (tmp.contains("|") )
+                                             context = tmp.split("|");    
+                                    //        String[]  context = new String[]{tmp};
+                                    // for(int z=0 ;z < context.length ; z++)
+                                    // {
+                                    //     System.out.println(" c val = " + context[z] +" "+tmp);
+                                    // }
+                                    // System.out.println("contexstr "+context.length+" \n"+Arrays.toString(context) +"\n\nlength "+context.length);
+                                    int start = 9999999;
+                                    int termination = -1;
+                                    for (int n = 0; n < context.length;n++)
+                                    {
+                                            if(hash_category_re_begin_index.get(prev.get(n)).get(hash_category_re.get(prev.get(n)).indexOf(context[n])) < start)
+                                                start = hash_category_re_begin_index.get(prev.get(n)).get(hash_category_re.get(prev.get(n)).indexOf(context[n]));
+                                            if(hash_category_re_begin_index.get(prev.get(n)).get(hash_category_re.get(prev.get(n)).indexOf(context[n])) > termination)
+                                                termination = hash_category_re_begin_index.get(prev.get(n)).get(hash_category_re.get(prev.get(n)).indexOf(context[n]));
+                                    }   
+                                    if(hash_category_re_begin_index.get(cat).indexOf(hash_category_re.get(cat).get(m)) < start)
+                                                start = hash_category_re_begin_index.get(cat).indexOf(hash_category_re.get(cat).get(m));
+                                    if(hash_category_re_begin_index.get(cat).indexOf((hash_category_re.get(cat).get(m))) > termination)
+                                                termination = hash_category_re_begin_index.get(cat).indexOf(hash_category_re.get(cat).get(m));
+
+                                    if(termination - start  > window_size)
+                                    {
+                                        m = (m+1) % hash_category_re.get(cat).size() ;
+                                    }    
+                                    tmp = tmp.concat("|"+hash_category_re.get(cat).get(m));
+                                    entity_combo.set(j,tmp);
+                                    m = (m+1) % hash_category_re.get(cat).size() ;
+                                }
+
+                            }
+
+                        }
+                    }
+                       
+                for (int m=0;m<entity_combo.size();m++)
+                {   
+                    String entityContent =entity_combo.get(m).toString();
+                    if (entityContent.replaceAll(",","") == "")
+                        continue;
+                  
+                    List<SearchHit> ls = hm.getOrDefault(entityContent, new ArrayList<SearchHit> ());
+                    ls.add(hit);
+                    hm.put(entityContent, ls);
+                }
+                
+                
+                ArrayList<String> keywords =  allterms;
+                keywords.removeAll(category);// get score along with keywords. reduce pass to keywords
+                for (String p : hm.keySet())
+                {       String key = p;
+                       
+                       int start = 1000000;
+                       String strb = "";
+                       int termination = -1;
+                       p = p.replaceAll("|","");
+                       
+                       String[] term_tmp = p.split(" ");
+                       ArrayList<String> terms = new ArrayList<String>(Arrays.asList(term_tmp));
+                       terms.addAll(keywords);
+
+                       
+                       strb = (String)hit.sourceAsMap().get("text");
+                       
+                       
+                       int strb_len = strb.split(" ").length;
+                       String[] strb_split = strb.split(" ");
+                       
+                       for(i=0; i< strb_len; i++)
+                       {
+                           if(terms.contains(strb_split[i]))
+                               if (start > i)
+                                start = i;
+                               if (termination< i)
+                                 termination = i;
+                            
+                       }
+                       
+                       if ( terms.size() > 1  )
+                            if (termination != start)
+                                doc_prox.put(hit.getId() +"+"+key , 1.0/(termination-start));
+                            else
+                                doc_prox.put(hit.getId()+"+"+key , 10.0); 
+                        else 
+                            doc_prox.put(hit.getId()+"+"+key , 1.0);
+                }
+
+
+
+
+
+
+
+
+
+            }//end hit
+            long endTime = System.currentTimeMillis();
+
+            System.out.println("Total execution time processing hits: " + (endTime - startTime) );
+            
+            
+
+            
 
             List<List<String>> list = new ArrayList<>();
+            
+            Map<String,Double> cluster_score = new HashMap<String,Double>();
+            startTime = System.currentTimeMillis();
             for(String name : hm.keySet()) {
                 List<String> cur = new ArrayList<>();
                 List<SearchHit> hl = hm.get(name);
                 cur.add(name);
-                for(SearchHit h: hl) 
-                    cur.add(String.valueOf(h.getId()));
-                list.add(cur);     
+                double tmp_score =0;
+                for(SearchHit h: hl)
+                {    cur.add(String.valueOf(h.getId()));
+                     tmp_score +=doc_prox.get(h.getId()+"+"+name);
+                }
+                list.add(cur);
+                cluster_score.put(name, tmp_score);
             }
 
             Collections.sort(list, new Comparator<List<String>>(){
                 public int compare(List<String> a, List<String> b) {
-                    return b.size() - a.size();
+             
+
+                    return (int) (cluster_score.get(b.get(0))*100000  ) - (int) (cluster_score.get(a.get(0))*100000);
                 }
             });
 
             builder.startArray(Fields.CLUSTERS);
+        
 
             for(List<String> ls : list) {
                 builder.startObject();
                 builder.field("name", ls.get(0));
+                
+                builder.field("score", cluster_score.get(ls.get(0)));
+                
                 builder.startArray("document");
                 for(int i = 1; i < ls.size(); i++ ){
                     builder.startObject();
                     builder.field("id", ls.get(i));
                     builder.endObject();
+                 
                 }
                 builder.endArray();
                 builder.endObject();
             }
 
+            endTime = System.currentTimeMillis();
+            System.out.println("Total execution time after hits: " + (endTime - startTime) );
+
+
+
             builder.endArray();
-            return builder;
+            category.clear();
+            allterms.clear();
+            return builder;// send opbject to builder to cluster
         }
 
         @Override
@@ -430,11 +725,11 @@ public class ClusteringAction
                                          IndexNameExpressionResolver indexNameExpressionResolver,
                                          NamedXContentRegistry xContentRegistry) {
             super(settings,
-                  ClusteringAction.NAME,
-                  threadPool,
-                  actionFilters,
-                  indexNameExpressionResolver,
-                  transportService.getTaskManager());
+                    ClusteringAction.NAME,
+                    threadPool,
+                    actionFilters,
+                    indexNameExpressionResolver,
+                    transportService.getTaskManager());
             this.searchAction = searchAction;
         }
 
@@ -470,7 +765,6 @@ public class ClusteringAction
                 Settings settings,
                 RestController controller) {
             super(settings);
-
             controller.registerHandler(POST, "/" + NAME, this);
             controller.registerHandler(POST, "/{index}/" + NAME, this);
             controller.registerHandler(POST, "/{index}/{type}/" + NAME, this);
@@ -489,8 +783,8 @@ public class ClusteringAction
             }
 
             // Contrary to ES's default search handler we will not support
-            // GET requests with a body (this is against HTTP spec guidance 
-            // in my opinion -- GET requests should be URL-based). 
+            // GET requests with a body (this is against HTTP spec guidance
+            // in my opinion -- GET requests should be URL-based).
             if (request.method() == GET && request.hasContent()) {
                 return channel -> emitErrorResponse(channel, logger,
                         new IllegalArgumentException("Request body was unexpected for a GET request."));
@@ -517,7 +811,7 @@ public class ClusteringAction
                     break;
 
                 default:
-                    throw org.entitysearch.elasticsearch.Preconditions.unreachable();
+                    throw org.carrot2.elasticsearch.Preconditions.unreachable();
             }
 
             // Dispatch clustering request.

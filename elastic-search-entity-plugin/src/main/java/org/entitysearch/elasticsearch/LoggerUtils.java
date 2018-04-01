@@ -1,4 +1,4 @@
-package org.entitysearch.elasticsearch;
+package org.carrot2.elasticsearch;
 
 import org.apache.logging.log4j.Logger;
 import org.elasticsearch.rest.BytesRestResponse;

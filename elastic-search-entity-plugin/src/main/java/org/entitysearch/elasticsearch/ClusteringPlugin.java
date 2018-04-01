@@ -1,6 +1,6 @@
-package org.entitysearch.elasticsearch;
+package org.carrot2.elasticsearch;
 
-import org.entitysearch.elasticsearch.ClusteringAction.TransportClusteringAction;
+import org.carrot2.elasticsearch.ClusteringAction.TransportClusteringAction;
 import org.elasticsearch.action.ActionRequest;
 import org.elasticsearch.action.ActionResponse;
 import org.elasticsearch.client.Client;

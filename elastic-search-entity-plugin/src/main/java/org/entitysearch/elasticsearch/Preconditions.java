@@ -1,4 +1,4 @@
-package org.entitysearch.elasticsearch;
+package org.carrot2.elasticsearch;
 
 /* */
 final class Preconditions {
