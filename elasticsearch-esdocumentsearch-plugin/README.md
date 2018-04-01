@@ -149,6 +149,20 @@ PUT /entity_lucene_dinv_new_analysis/
 }
 ```
 
+## Run
+With the plugin, you can run a query as below (with a new request handler _es_document_search):
+
+```
+GET /entity_search_cs_departments/_es_document_search?
+{
+  "search_request":{
+    "query": "@near ( #course #number )",
+    "size" : 1000,
+    "explain" : true
+  } 
+}
+```
+
 ## To understand the code
 
 The plugin is action plugin, which means it extends Elasticsearch’s runtime action by adding a customized RESTful endpoint called _es_document_search.
