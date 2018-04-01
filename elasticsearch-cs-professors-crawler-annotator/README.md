@@ -2,7 +2,9 @@
 
 #### Crawler for Top 50 Computer Science University departments in the USA
 
-Crawls Computer Science departments of top 50 universities in the USA. Recognizes and types the entities as professor, topic, course, journal, sponsor_agency, conference, money, email, phone, zipcode, date, year, course_number, number, conference_acronym using a combination of bag of words, regular expressions and named entity recognition techniques.
+Crawls Computer Science departments of top 50 universities in the USA. Recognizes and types the entities as professor, topic, course, journal, sponsor_agency, conference, money, email, phone, zipcode, date, year, course_number, number, conference_acronym using a combination of bag of words, regular expressions, crowd-sourced knowledge base and named entity recognition techniques.
+
+Specifically, for recognizing professor names, we used a crowd-sourced list of two thousand professors in the US and generated variants of the name to improve the recall such that a name FirstName MiddleName(s) LastName could be one of FirstName LastName, FirstInitial. LastName, FirstInitial LastName, FirstName MiddleInitial(s). LastName, FirstName MiddleInitial(s) LastName etc.
 
 # Example Document
 
@@ -28,3 +30,7 @@ The annotator would generate the following annotation for elastic search server.
 ```
 
 The annotation is used for both entity search and entity semantic document search.
+
+### Citation
+
+1. [CommonCrawl](http://commoncrawl.org)
