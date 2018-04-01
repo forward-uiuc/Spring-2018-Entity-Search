@@ -1,0 +1,260 @@
+[
+  {
+    "id": "CC-MAIN-2018-09",
+    "name": "February 2018 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2018-09/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2018-09-index"
+  },
+  {
+    "id": "CC-MAIN-2018-05",
+    "name": "January 2018 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2018-05/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2018-05-index"
+  },
+  {
+    "id": "CC-MAIN-2017-51",
+    "name": "December 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-51/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-51-index"
+  },
+  {
+    "id": "CC-MAIN-2017-47",
+    "name": "November 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-47/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-47-index"
+  },
+  {
+    "id": "CC-MAIN-2017-43",
+    "name": "October 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-43/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-43-index"
+  },
+  {
+    "id": "CC-MAIN-2017-39",
+    "name": "September 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-39/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-39-index"
+  },
+  {
+    "id": "CC-MAIN-2017-34",
+    "name": "August 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-34/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-34-index"
+  },
+  {
+    "id": "CC-MAIN-2017-30",
+    "name": "July 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-30/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-30-index"
+  },
+  {
+    "id": "CC-MAIN-2017-26",
+    "name": "June 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-26/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-26-index"
+  },
+  {
+    "id": "CC-MAIN-2017-22",
+    "name": "May 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-22/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-22-index"
+  },
+  {
+    "id": "CC-MAIN-2017-17",
+    "name": "April 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-17/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-17-index"
+  },
+  {
+    "id": "CC-MAIN-2017-13",
+    "name": "March 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-13/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-13-index"
+  },
+  {
+    "id": "CC-MAIN-2017-09",
+    "name": "February 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-09/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-09-index"
+  },
+  {
+    "id": "CC-MAIN-2017-04",
+    "name": "January 2017 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2017-04/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2017-04-index"
+  },
+  {
+    "id": "CC-MAIN-2016-50",
+    "name": "December 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-50/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-50-index"
+  },
+  {
+    "id": "CC-MAIN-2016-44",
+    "name": "October 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-44/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-44-index"
+  },
+  {
+    "id": "CC-MAIN-2016-40",
+    "name": "September 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-40/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-40-index"
+  },
+  {
+    "id": "CC-MAIN-2016-36",
+    "name": "August 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-36/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-36-index"
+  },
+  {
+    "id": "CC-MAIN-2016-30",
+    "name": "July 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-30/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-30-index"
+  },
+  {
+    "id": "CC-MAIN-2016-26",
+    "name": "June 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-26/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-26-index"
+  },
+  {
+    "id": "CC-MAIN-2016-22",
+    "name": "May 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-22/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-22-index"
+  },
+  {
+    "id": "CC-MAIN-2016-18",
+    "name": "April 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-18/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-18-index"
+  },
+  {
+    "id": "CC-MAIN-2016-07",
+    "name": "February 2016 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2016-07/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2016-07-index"
+  },
+  {
+    "id": "CC-MAIN-2015-48",
+    "name": "November 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-48/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-48-index"
+  },
+  {
+    "id": "CC-MAIN-2015-40",
+    "name": "September 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-40/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-40-index"
+  },
+  {
+    "id": "CC-MAIN-2015-35",
+    "name": "August 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-35/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-35-index"
+  },
+  {
+    "id": "CC-MAIN-2015-32",
+    "name": "July 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-32/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-32-index"
+  },
+  {
+    "id": "CC-MAIN-2015-27",
+    "name": "June 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-27/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-27-index"
+  },
+  {
+    "id": "CC-MAIN-2015-22",
+    "name": "May 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-22/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-22-index"
+  },
+  {
+    "id": "CC-MAIN-2015-18",
+    "name": "April 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-18/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-18-index"
+  },
+  {
+    "id": "CC-MAIN-2015-14",
+    "name": "March 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-14/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-14-index"
+  },
+  {
+    "id": "CC-MAIN-2015-11",
+    "name": "February 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-11/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-11-index"
+  },
+  {
+    "id": "CC-MAIN-2015-06",
+    "name": "January 2015 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2015-06/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2015-06-index"
+  },
+  {
+    "id": "CC-MAIN-2014-52",
+    "name": "December 2014 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2014-52/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2014-52-index"
+  },
+  {
+    "id": "CC-MAIN-2014-49",
+    "name": "November 2014 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2014-49/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2014-49-index"
+  },
+  {
+    "id": "CC-MAIN-2014-42",
+    "name": "October 2014 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2014-42/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2014-42-index"
+  },
+  {
+    "id": "CC-MAIN-2014-41",
+    "name": "September 2014 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2014-41/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2014-41-index"
+  },
+  {
+    "id": "CC-MAIN-2014-35",
+    "name": "August 2014 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2014-35/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2014-35-index"
+  },
+  {
+    "id": "CC-MAIN-2014-23",
+    "name": "July 2014 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2014-23/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2014-23-index"
+  },
+  {
+    "id": "CC-MAIN-2014-15",
+    "name": "April 2014 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2014-15/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2014-15-index"
+  },
+  {
+    "id": "CC-MAIN-2014-10",
+    "name": "March 2014 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2014-10/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2014-10-index"
+  },
+  {
+    "id": "CC-MAIN-2013-48",
+    "name": "Winter 2013 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2013-48/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2013-48-index"
+  },
+  {
+    "id": "CC-MAIN-2013-20",
+    "name": "Summer 2013 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2013-20/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2013-20-index"
+  }
+]

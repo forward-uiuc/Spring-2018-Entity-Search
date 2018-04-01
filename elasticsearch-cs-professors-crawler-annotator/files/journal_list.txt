@@ -1,0 +1,864 @@
+Academy of Information and Management Sciences Journal
+Access
+Access: critical perspectives on communication, cultural and policy studies
+ACM Computers in Entertainment
+ACM Computing Surveys
+ACM Journal of Computer Documentation
+ACM Transactions on Algorithms
+ACM Transactions on Applied Perception
+ACM Transactions on Architecture and Code Optimization
+ACM Transactions on Asian Language Information Processing
+ACM Transactions on Autonomous and Adaptive Systems
+ACM Transactions on Computational Logic
+ACM Transactions on Computer - Human Interaction
+ACM Transactions on Computer Systems
+ACM Transactions on Database Systems
+ACM Transactions on Design Automation of Electronic Systems
+ACM Transactions on Embedded Computing Systems
+ACM Transactions on Graphics
+ACM Transactions on Information and System Security
+ACM Transactions on Information Systems
+ACM Transactions on Internet Technology
+ACM Transactions on Knowledge Discovery from Data
+ACM Transactions on Mathematical Software
+ACM Transactions on Modeling and Computer Simulation
+ACM Transactions on Multimedia Computing Communications and Applications
+ACM Transactions on Programming Languages and Systems
+ACM Transactions on Sensor Networks
+ACM Transactions on Software Engineering and Methodology
+ACM Transactions on Speech and Language Processing
+ACM Transactions on Storage
+ACM Transactions on the Web
+Acta Automatica Sinica
+Acta Cybernetica
+Acta Informatica
+Adaptive Behavior: animals, animats, software agents, robots, adaptive systems
+Advanced Robotics
+Advances in Artificial Neural Systems
+Advances in Computational Sciences and Technology
+Advances in Engineering Software
+Advances in Mathematics of Commmunications
+Advances in Modeling and Analysis C
+Advances in Modelling and Analysis B: Signals, Information, Data, Patterns
+Advances in Modelling and Analysis. A: General Mathematical and Computer Tools
+AI and Society: the journal of human-centered systems and machine intelligence
+AI Communications: the European journal on artificial intelligence
+AI Magazine
+Algorithmica: an international journal in computer science
+American archivist
+Annals of Mathematics and Artificial Intelligence
+Annals of Operations Research
+Annual Review of Information Science and Technology
+Applicable Algebra in Engineering Communication and Computing
+Applied Artificial Intelligence: an international journal
+Applied Intelligence
+Applied Mathematics and Information Sciences
+Applied Numerical Analysis and Computational Mathematics
+Applied Numerical Mathematics
+Applied Ontology
+Applied Soft Computing
+Archival Issues
+Archival Science
+Archivaria
+Archives and Manuscripts
+Archives of Computational Methods in Engineering
+Archives of Control Sciences
+Archives: Journal of the British Records Association
+Arkiv, samhlle och forskning
+Ars Combinatoria
+Artificial Intelligence
+Artificial Intelligence and Law
+Artificial Intelligence in Medicine
+Artificial Intelligence Review: an international survey and tutorial journal
+Artificial Life
+Artificial Life and Robotics
+Asia-Pacific Journal of Operational Research
+Asian Journal of Information Technology
+Aslib Proceedings: new information perspectives
+ASOR Bulletin
+Australasian Journal of Combinatorics
+Australasian Journal of Information Systems
+Australasian Public Libraries and Information Services
+Australian Academic and Research Libraries
+Australian Journal of Intelligent Information Processing Systems
+Australian Library Journal
+Automated Software Engineering
+Automatic Control and Computer Sciences
+Autonomous Agents and Multi-Agent Systems
+Autonomous Robots
+Behavior Research Methods
+Behavioral and Brain Sciences
+Behavioral and Social Sciences Librarian
+Behaviour and Information Technology
+Behavioural Processes
+BMC Bioinformatics
+BMC Medical Informatics and Decision Making
+Bulletin of Applied Computing and Information Technology
+Bulletin of Informatics and Cybernetics
+Bulletin of the European Association for Theoretical Computer Science
+Business Intelligence Journal
+Business Process Management Journal
+Cahiers de Psychologie Cognitive
+Campus Wide Information Systems
+Canadian Journal of Information and Library Science
+Cataloging and Classification Quarterly
+Chicago Journal of Theoretical Computer Science
+Cognition
+Cognitive Development
+Cognitive Psychology
+Cognitive Science
+Cognitive Science Quarterly
+Collection Building
+Collection Management
+College and Research Libraries
+Combinatorica: an international journal on combinatorics and the theory of computing
+Combinatorics, Probability and Computing
+Communications in Information and Systems
+Communications in Information Literacy
+Communications in Statistics: Simulation and Computation
+Communications of the Association for Information Systems
+Communications of the IBIMA
+Communications of the ICISA
+Communications of the IIMA
+Complex Systems
+Complexity
+Complexity International
+Computational Complexity
+Computational Intelligence
+Computational Linguistics
+Computational Statistics
+Computational Statistics and Data Analysis
+Computer
+Computer Animation and Virtual Worlds
+Computer Communications
+Computer Communications Review
+Computer Graphics Forum: the international journal of the Eurographics Association
+Computer Languages, Systems and Structures
+Computer Networks
+Computer Physics Communications
+Computer Science - Research and Development
+Computer Science Education
+Computer Speech and Language
+Computer Standards and Interfaces
+Computer Supported Cooperative Work: the journal of collaborative computing
+Computer Systems Science and Engineering
+Computer Vision and Image Understanding
+Computers and Electrical Engineering
+Computers and Electronics in Agriculture
+Computers and Graphics - UK
+Computers and Industrial Engineering
+Computers and Mathematics with Applications
+Computers and Security
+Computers and Structures
+Computers in Biology and Medicine
+Computers in Higher Education Economics Review
+Computers in Human Behavior
+Computers in Industry
+Computing
+Computing in Science and Engineering
+Concurrency and Computation: Practice and Experience
+Congressus Numerantium: a conference journal on numerical themes
+Connection Science: journal of neural computing, artificial intelligence, and cognitive research
+Constraints
+Contemporary Management Research: an international journal
+Control and Cybernetics
+Corpus Linguistics and Linguistic Theory
+Cryptologia: a quarterly journal devoted to all aspects of cryptology
+Current Bioinformatics
+Cybernetics and Systems
+D-Lib Magazine
+Data and Knowledge Engineering
+Data Base for Advances in Information Systems
+Data Mining and Knowledge Discovery
+Data Science Journal
+Decision Support Systems
+DESIDOC Journal of Library and Information Technology
+Design, Codes and Cryptography
+Digital Creativity
+Digital Evidence and Electronic Signature Law Review
+Digital Forensics, Security and Law. Journal
+Digital Investigation
+Digital Policy, Regulation and Governance (was Info)
+Digital Scholarship in the Humanities (was Literary and Linguistic Computing: the journal of digital scholarship in the humanities)
+Discrete Event Dynamic Systems
+Discrete Mathematics
+Discrete Mathematics and Theoretical Computer Science
+Discussiones Mathematicae. Graph Theory
+Displays
+Distributed and Parallel Databases
+Distributed Computing
+East Asian Library Journal
+Education for Information
+Education Libraries Journal
+Egyptian Computer Science Journal
+El Profesional de la Informacion
+Electronic Commerce Research
+Electronic Commerce Research and Applications
+Electronic Communication Law Review: legal aspects of paperless communication
+Electronic Journal of Information Systems Evaluation
+Electronic Journal of Knowledge Management
+Electronic Journal of Organizational Virtualness
+Electronic Markets
+Electronic Notes in Discrete Mathematics
+Electronic Notes in Theoretical Computer Science
+Electronic Transactions on Artificial Intelligence
+Empirical Software Engineering: an international journal
+Engineering Applications of Artificial Intelligence
+Engineering Intelligent Systems for Electrical Engineering and Communications
+Enterprise Information Systems
+Enterprise Modelling and Information Systems Architectures
+Environmental Modeling and Assessment
+Estudios Biblicos
+European Journal of Information Systems
+European Journal of Operational Research
+Evidence Based Library and Information Practice
+Evolutionary Computation
+Evolutionary Intelligence
+Expert Systems with Applications
+Expert Systems: the journal of knowledge engineering
+First Monday
+Formal Aspects of Computing: applicable formal methods
+Formal Methods in System Design
+Foundations and Trends in Information Retrieval
+Foundations and Trends in Theoretical Computer Science
+Foundations of Computational Mathematics
+Fundamenta Informaticae
+Future Generation Computer Systems: the international journal of grid computing: theory, methods and applications
+Fuzzy Sets and Systems
+Government Information Quarterly: an international journal of information technology management, policies, and practices
+Graphical Models
+Graphs and Combinatorics
+Health Informatics Journal
+Health Information and Libraries Journal
+Higher Order and Symbolic Computation
+Human IT:  Journal of information technology studies as a human science
+Human-Computer Interaction
+IAENG International Journal of Computer Science
+IBIS
+IBM Journal of Research and Development
+IBM Systems Journal
+Identity in the Information Society
+IEEE - ACM Transactions on Computational Biology and Bioinformatics
+IEEE ACM Transactions on Networking
+IEEE Annals of the History of Computing
+IEEE Computer Graphics and Applications
+IEEE Distributed Systems Online
+IEEE Intelligent Systems
+IEEE Internet Computing
+IEEE Journal of Biomedical and Health Informatics (was IEEE Transactions on Information Technology in Biomedicine)
+IEEE MultiMedia Magazine
+IEEE Pervasive Computing
+IEEE Robotics and Automation magazine
+IEEE Security and Privacy Magazine
+IEEE Software
+IEEE Transactions on Computers
+IEEE Transactions on Dependable and Secure Computing
+IEEE Transactions on Education
+IEEE Transactions on Evolutionary Computation
+IEEE Transactions on Fuzzy Systems
+IEEE Transactions on Image Processing
+IEEE Transactions on Information Forensics and Security
+IEEE Transactions on Information Theory
+IEEE Transactions on Knowledge and Data Engineering
+IEEE Transactions on Medical Imaging
+IEEE Transactions on Mobile Computing
+IEEE Transactions on Multimedia
+IEEE Transactions on Neural Networks and Learning Systems (was IEEE Transactions on Neural Networks)
+IEEE Transactions on Parallel and Distributed Systems
+IEEE Transactions on Pattern Analysis and Machine Intelligence
+IEEE Transactions on Professional Communication
+IEEE Transactions on Reliability
+IEEE Transactions on Robotics
+IEEE Transactions on Services Computing
+IEEE Transactions on Software Engineering
+IEEE Transactions on Systems, Man and Cybernetics, Part A: Systems and Humans
+IEEE Transactions on Systems, Man and Cybernetics, Part B: Cybernetics
+IEEE Transactions on Systems, Man and Cybernetics, Part C: Applications and Reviews
+IEEE Transactions on Very Large Scale Integration Systems
+IEEE Transactions on Visualization and Computer Graphics
+IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences
+IEICE Transactions on Information and Systems
+IET Computer Vision
+IET Computers and Digital Techniques
+IET Information Security
+IET Software
+IETE Journal of Research
+Image and Vision Computing
+Indilinga: African journal of indigenous knowledge systems
+Industrial Management + Data Systems
+Industrial Robot
+InfoComp
+INFOR: Information Systems and Operational Research
+Informaa Quarterly
+Informatica
+Informatica didactica
+Informatica: journal of computing and informatics
+Informatics for Health and Social Care
+Informatics in Education
+Informatics In Primary Care
+Information and Communications Technology Law
+Information and Computation
+Information and Management
+Information and Organization
+Information and Records Management Annual
+Information and Software Technology
+Information Development: the international journal for librarians, archivists and information specialists
+Information Economics and Policy
+Information Fusion
+Information Management (was The Information Management Journal)
+Information Management and Computer Security
+Information Processing and Management
+Information Processing Letters
+Information Research: an international electronic journal
+Information Resources Management Journal
+Information Retrieval
+Information Sciences
+Information Security Journal: a Global Perspective
+Information Security Technical Report
+Information Services and Use
+Information Systems
+Information Systems and e-Business Management
+Information Systems Control Journal
+Information Systems Education Journal
+Information Systems Frontiers: a journal of research and innovation
+Information Systems Journal: an international journal promoting the study and practice of information systems
+Information Systems Management
+Information Systems Research
+Information Technologies and International Development
+Information Technologist
+Information Technology and Disabilities
+Information Technology and Libraries
+Information Technology and Management
+Information Technology and People
+Information Technology for Economics and Management
+Information Technology in Hospitality
+Information Technology Journal
+Information Technology Management
+Information Technology, Learning, and Performance Journal
+Information Visualization
+Information, Communication and Society
+Information, Knowledge, Systems Management
+Informing Science: international journal of an emerging transdiscipline
+Informs Journal on Computing
+Innovations in Teaching and Learning in Information and Computer Sciences
+Integrated Computer Aided Engineering
+Intelligent Automation and Soft Computing
+Intelligent Data Analysis
+Intelligent Systems in Accounting, Finance and Management
+Interacting with Computers
+InterActions: UCLA journal of education and information studies
+Interactive Multimedia Electronic Journal of Computer Enhanced Learning
+Interdisciplinary Journal of Information, Knowledge, and Management
+Interfaces
+InterJournal
+Interlending and Document Supply
+International Information and Library Review
+International Journal for Infonomics
+International Journal of Ad Hoc and Ubiquitous Computing
+International Journal of Advanced Information Technologies
+International Journal of Advanced Intelligence Paradigms
+International Journal of Advanced Media and Communication
+International Journal of Advanced Robotic Systems
+International Journal of Agent Oriented Software Engineering
+International Journal of Applied Cryptography
+International Journal of Applied Decision Sciences
+International Journal of Applied Management and Technology
+International Journal of Applied Mathematics and Computer Sciences
+International Journal of Approximate Reasoning
+International Journal of Artificial Intelligence and Soft Computing
+International Journal of Autonomous and Adaptive Communications Systems
+International Journal of Bioinformatics Research and Applications
+International Journal of Biometrics
+International Journal of Business Data Communications and Networking
+International Journal of Business Information Systems
+International Journal of Business Intelligence and Data Mining
+International Journal of Cases on Electronic Commerce
+International Journal of Cognitive Informatics and Natural Intelligence
+International Journal of Communication Networks and Distributed Systems
+International Journal of Computational and Applied Mathematics
+International Journal of Computational and Numerical Analysis and Applications
+International Journal of Computational Geometry and Applications
+International Journal of Computational Intelligence
+International Journal of Computational Intelligence and Applications
+International Journal of Computational Intelligence Research
+International Journal of Computational Mathematics and Numerical Simulation
+International Journal of Computational Methods
+International Journal of Computer and Information Science and Engineering
+International Journal of Computer Applications in Technology
+International Journal of Computer Mathematics
+International journal of Computer Networks and Communications
+International Journal of Computer Processing of Oriental Languages
+International Journal of Computer Science and Engineering
+International Journal of Computer Science and Network Security
+International Journal of Computer Vision
+International Journal of Computers and Applications
+International Journal of Computers and Their Applications
+International Journal of Computing and Information Sciences
+International Journal of Computing Science and Mathematics
+International Journal of Cooperative Information Systems
+International Journal of Critical Infrastructure Protection
+International Journal of Data Mining and Bioinformatics
+International Journal of Data Warehousing and Mining
+International Journal of Digital Curation
+International Journal of Digital Earth: a new journal for a new vision
+International Journal of Distributed Sensor Networks
+International Journal of e-Business Research
+International Journal of e-Collaboration
+International Journal of Electronic Commerce
+International Journal of Electronic Government Research
+International Journal of Electronic Security and Digital Forensics
+International Journal of Enterprise Information Systems
+International Journal of Foundations of Computer Science
+International Journal of Functional Informatics and Personalised Medicine
+International Journal of Fuzzy Systems
+International Journal of General Systems
+International Journal of Geographical Information Science
+International Journal of Grid and Utility Computing
+International Journal of Healthcare Information Systems and Informatics
+International Journal of High Performance Computing and Networking
+International Journal of High Performance Computing Applications
+International Journal of High Performance Systems Architecture
+International Journal of High Speed Computing
+International Journal of Human Factors Modelling and Simulation
+International Journal of Human-Computer Interaction
+International Journal of Human-Computer Studies
+International Journal of Humanoid Robotics
+International Journal of Hybrid Intelligent Systems
+International Journal of Image and Graphics
+International Journal of Imaging Systems and Technology
+International Journal of Information and Communication Technology
+International Journal of Information and Communication Technology Education
+International Journal of Information and Computer Security
+International Journal of Information and Decision Sciences
+International Journal of Information and Management Sciences
+International Journal of Information and Operations Management Education
+International Journal of Information and Systems Sciences
+International Journal of Information Management
+International Journal of Information Quality
+International Journal of Information Security
+International Journal of Information Security and Privacy
+International Journal of Information Systems and Supply Chain Management
+International Journal of Information Technology
+International Journal of Information Technology and Decision Making
+International Journal of Information Technology and Management
+International Journal of Information Technology and the Systems Approach
+International Journal of Information Technology and Web Engineering
+International Journal of Information Technology Education
+International Journal of Innovative Computing and Applications
+International Journal of Intelligent Defence Support Systems
+International Journal of Intelligent Information and Database Systems
+International Journal of Intelligent Information Technologies
+International Journal of Intelligent Systems
+International Journal of Intelligent Systems Technologies and Applications
+International Journal of Intelligent Technology
+International Journal of Internet and Enterprise Management
+International Journal of Internet Protocol Technology
+International Journal of Internet Science
+International Journal of Internet Technology and Secured Transactions
+International Journal of Interoperability in Business Information Systems
+International Journal of IT Standards and Standardization Research
+International Journal of Knowledge and Learning
+International Journal of Knowledge Management
+International Journal of Knowledge Management Studies
+International Journal of Law and Information Technology
+International Journal of Man-Machine Studies
+International Journal of Management and Systems
+International Journal of Medical Engineering and Informatics
+International Journal of Medical Informatics
+International Journal of Metadata Semantics and Ontologies
+International Journal of Mobile Communications
+International Journal of Mobile Network Design and Innovation
+International Journal of Modelling and Simulation
+International Journal of Modelling, Identification and Control
+International Journal of Network Management
+International Journal of Neural Systems
+International Journal of Parallel Programming
+International Journal of Parallel, Emergent and Distributed Systems
+International Journal of Pattern Recognition and Artificial Intelligence
+International Journal of Pervasive Computing and Communications
+International Journal of Quantum Information
+International Journal of Reliability and Applications
+International Journal of Robotics Research
+International Journal of Satellite Communications and Networking
+International Journal of Security and Networks
+International Journal of Semantic Computing
+International Journal of Services and Standards
+International Journal of Simulation and Process Modelling
+International Journal of Smart Home
+International Journal of Social Humanistic Computing
+International Journal of Software Engineering and Knowledge Engineering
+International Journal of Systems Science
+International Journal of Technology and Human Interaction
+International Journal of Technology Policy and Law
+International Journal of Technology, Knowledge and Society
+International Journal of the Computer, the Internet and Management
+International Journal of Uncertainty, Fuzziness and Knowledge Based Systems
+International Journal of Virtual Technology and Multimedia
+International Journal of Wavelets, Multiresolution and Information Processing
+International Journal of Web and Grid Services
+International Journal of Web Based Communities
+International Journal of Web Engineering and Technology
+International Journal of Web Information Systems
+International Journal of Web Services Research
+International Journal of Wireless and Mobile Computing
+International Journal on Artificial Intelligence Tools
+International Journal on Digital Libraries
+International Journal on Semantic Web and Information Systems
+International Journal on Software Tools for Technology Transfer
+International Review of Information Ethics
+International Technology Management Review
+International Transactions in Operational Research
+Internet Reference Services Quarterly
+Internet Research
+Inverse Problems in Science and Engineering
+Issues in Informing Science and Information Technology
+Issues in Science and Technology Librarianship
+Izvestiya Vysshikh Uchebnykh Zavedenii
+Jisuanji Xuebao
+JITTA: an information systems journal
+Journal of Advanced Computational Intelligence and Intelligent Informatics
+Journal of Algorithms
+Journal of Algorithms and Computational Technology
+Journal of Applied Logic
+Journal of Applied Mathematics and Computing
+Journal of Applied Non Classical Logics
+Journal of Applied Systems Studies: methodologies and applications for systems approaches
+Journal of archival organisation
+Journal of Artificial Evolution and Applications
+Journal of Artificial Intelligence Research
+Journal of Automata, Languages and Combinatorics
+Journal of Automated Reasoning
+Journal of Autonomic and Trusted Computing
+Journal of Behavioral Decision Making
+Journal of Cases on Information Technology
+Journal of Cellular Automata
+Journal of Chemical Information and Modeling
+Journal of Combinatorial Designs
+Journal of Combinatorial Mathematics and Combinatorial Computing
+Journal of Combinatorics
+Journal of Community Informatics
+Journal of Computational Analysis and Applications
+Journal of Computer and System Sciences
+Journal of Computer and Systems Sciences International
+Journal of Computer Assisted Learning
+Journal of Computer Information Systems
+Journal of Computer Science and Technology
+Journal of Computer Security
+Journal of Computer-Mediated Communication
+Journal of Computers
+Journal of Computing and Information Technology
+Journal of Conceptual Modeling
+Journal of Cryptology
+Journal of Database Management
+Journal of Decision Systems
+Journal of Digital Forensic Practice
+Journal of Digital Information
+Journal of Digital Information Management
+Journal of Discrete Mathematical Sciences and Cryptography
+Journal of Documentation
+Journal of Education for Library and Information Science
+Journal of Educational Computing Research
+Journal of Electronic Commerce Research
+Journal of Electronic Imaging
+Journal of Enterprise Information Management
+Journal of Experimental Algorithmics
+Journal of Experimental and Theoretical Artificial Intelligence
+Journal of Field Robotics
+Journal of Functional and Logic Programming
+Journal of Functional Programming
+Journal of Global Information Management
+Journal of Global Information Technology Management
+Journal of Graph Theory
+Journal of Grid Computing
+Journal of Group Theory
+Journal of Health Communication: international perspectives
+Journal of Heuristics
+Journal of Informatics Education and Research
+Journal of Information and Knowledge Management
+Journal of Information and Optimization Sciences
+Journal of Information Communication and Ethics in Society
+Journal of Information Ethics
+Journal of Information Information Technology and Organizations
+Journal of Information Literacy
+Journal of Information Privacy and Security
+Journal of Information Processing
+Journal of Information Science
+Journal of Information Science and Engineering
+Journal of Information Science and Technology
+Journal of Information System Security
+Journal of Information Systems and Small Business
+Journal of Information Systems and Technology Management
+Journal of Information Systems Education
+Journal of Information Technology
+Journal of Information Technology and Tourism
+Journal of Information Technology Case and Application Research
+Journal of Information Technology Education
+Journal of Information Technology in Agriculture
+Journal of Information Technology in Construction
+Journal of Information Technology Management
+Journal of Information Warfare
+Journal of Information, Law and Technology
+Journal of Informetrics
+Journal of Intelligent and Fuzzy Systems
+Journal of Intelligent and Robotic Systems: theory and applications
+Journal of Intelligent Information Systems
+Journal of Intelligent Systems
+Journal of Interconnection Networks
+Journal of Interlibrary Loan Document Delivery and Electronic Reserve
+Journal of International Technology and Information Management
+Journal of Internet Technology
+Journal of Knowledge Management
+Journal of Knowledge Management Practice
+Journal of Law and Information Science
+Journal of Librarianship and Information Science
+Journal of Library Administration
+Journal of Library Metadata
+Journal of Location Based Services
+Journal of Logic and Computation
+Journal of Machine Learning Research
+Journal of Management Information Systems
+Journal of Mathematical Cryptology
+Journal of Mathematical Imaging and Vision
+Journal of Medical Internet Research
+Journal of Medical Systems
+Journal of Mobile Multimedia
+Journal of Molecular Graphics and Modelling
+Journal of Multimedia
+Journal of Multiple-Valued Logic and Soft Computing
+Journal of Network and Computer Applications
+Journal of Network and Systems Management
+Journal of Object Technology
+Journal of Organizational and End User Computing: the international journal of information user management
+Journal of Organizational Computing and Electronic Commerce
+Journal of Parallel and Distributed Computing
+Journal of Programming Languages
+Journal of Research and Practice in Information Technology
+Journal of Robotics and Mechatronics
+Journal of Satisfiability, Boolean Modeling and Computation
+Journal of Scholarly Publishing
+Journal of Scientific Computing
+Journal of Simulation
+Journal of Software
+Journal of Software Engineering
+Journal of Software Engineering and Applications
+Journal of Software: Evolution and Process (was Journal of Software Maintenance and Evolution: research and practice)
+Journal of Supercomputing
+Journal of Symbolic Computation
+Journal of Systemics, Cybernetics and Informatics
+Journal of Systems and Information Technology
+Journal of Systems and Software
+Journal of Systems Architecture
+Journal of Telecommunications and Information Technology
+Journal of the ACM
+Journal of the American Medical Informatics Association
+Journal of the Association for Information Science and Technology (was Journal of the American Society for Information Science and Technology)
+Journal of the Association of Information Systems
+Journal of the Brazilian Computer Society
+Journal of the Japanese Society of Computational Statistics
+Journal of the Medical Library Association
+Journal of the Operational Research Society
+Journal of the Society of Archivists
+Journal of Theoretical and Applied Electronic Commerce Research
+Journal of Theoretical and Applied Information Technology
+Journal of Ubiquitous Computing and Intelligence
+Journal of Universal Computer Science
+Journal of Universal Knowledge Management
+Journal of Virtual Reality and Broadcasting
+Journal of Visual Languages and Computing
+Journal of Visualization
+Journal of Web Librarianship
+Journal of Web Semantics
+Journal on Educational  Resources in Computing
+Journal on Numerical Methods and Computer Applications
+Knowledge and Information Systems
+Knowledge Engineering Review
+Knowledge Management Research and Practice
+Knowledge Organization: international journal devoted to concept theory, classification, indexing, and knowledge representation
+Knowledge-Based Systems
+Language Learning and Development
+Language Resources and Evaluation
+Law Library Journal
+Learned Publishing
+LIBER Quarterly: the journal of European research libraries
+Libraries and the Cultural Record: exploring the history of collections of recorded knowledge
+Library and Archival Security
+Library and Information Research
+Library and Information Science
+Library and Information Science Research
+Library Collections Acquisitions and Technical Services
+Library Hi Tech
+Library Management
+Library Philosophy and Practice
+Library Resources and Technical Services
+Library Resources and Technical Services
+Library Review
+Library Technology Reports: expert guides to library systems and services
+Library Trends
+Libres: Library and Information Science Research Electronic Journal
+Libri: international journal of libraries and information services
+Linear Algebra and Its Applications
+LMS Journal of Computation and Mathematics
+Logical Methods in Computer Science
+Machine Graphics and Vision: international journal
+Machine Learning
+Machine Translation
+Machine Vision and Applications: an international journal
+Malaysian Journal of Computer Science
+Malaysian Journal of Library and Information Science
+Management Science
+Match: Communications in Mathematical and in Computer Chemistry
+Mathematical and Computer Modeling of Dynamical Systems
+Mathematical and Computer Modelling
+Mathematical Methods of Operations Research
+Mathematical Modelling and Applied Computing (MMAC)
+Mathematical Structures in Computer Science
+Mathematics and Computers in Simulation
+Mathematics in Computer Science
+Mathematics of Computation
+Mathematics of Operations Research
+Methodology and Computing in Applied Probability
+Minds and Machines: journal for artificial intelligence, philosophy and cognitive sciences
+MIS Quarterly
+MIS Quarterly Executive: a research journal dedicated to improving practice
+Mobile Information Systems
+Moscow University Computational Mathematics and Cybernetics
+Multiagent and Grid Systems
+Multimedia Systems
+Multimedia Tools and Applications
+Natural Language Engineering
+Netnomics
+Networks
+Neural Computation
+Neural Computing and Applications
+Neural Network World
+Neural Networks
+Neural Processing Letters
+Neurocomputing
+New Generation Computing: computing paradigms and computational intelligence
+New Library World: charting new developments
+New Mathematics and Natural Computation
+New Review of Academic Librarianship
+New Review of Hypermedia and Multimedia
+New Review of Information Behaviour Research
+New Review of Information Networking
+New Technology, Work and Employment
+New Zealand Library and Information Management Journal
+OCLC Systems and Services: international digital library perspectives
+Olympiads in Informatics
+Online Information Review
+Online: exploring technology and resources for information professionals
+Open Systems and Information Dynamics
+Operations Research
+Optimization Methods and Software
+OR Insight
+Orana
+ORiON
+Parallel Computing
+Parallel Processing Letters
+Pattern Analysis and Applications
+Pattern Recognition
+Pattern Recognition Letters
+Perception
+Performance Evaluation
+Personal and Ubiquitous Computing
+Pervasive and Mobile Computing
+Portal: libraries and the academy
+Presence
+Program: electronic library and information systems
+Programming and Computer Software
+Publishing Research Quarterly
+Quantum Information Processing
+RAIRO - Theoretical Informatics and Applications
+RAIRO Operations Research
+Random Structures and Algorithms
+Real Time Imaging
+Real Time Systems: the international journal of time critical computing systems
+Records Management Journal
+Reference and User Services Quarterly
+Reference Services Review: reference and instructional services for libraries in the digital age
+Requirements Engineering
+Research Evaluation
+Research on Language and Computation
+Research Strategies
+Restaurator: international journal for the preservation of library and archival material
+Review of Business Information Systems
+Robotica
+Robotics and Autonomous Systems
+Robotics and Computer Integrated Manufacturing
+Ruanjian Xuebao
+Scan (Ryde)
+Scandinavian Journal of Information Systems
+School Libraries Worldwide
+School Library Media Research
+Science of Computer Programming
+Scientometrics: an international journal for all quantitative aspects of the science of science, communication in science and science policy
+Security and Communication Networks
+Serials Review
+Service Oriented Computing and Applications
+SIAM Journal on Computing
+SIAM Journal on Discrete Mathematics
+SIAM Journal on Scientific Computing
+SIGCSE Bulletin Inroads
+Simulation Modelling Practice and Theory
+Simulation: transactions of the Society for Modeling and Simulation International
+Social Science Computer Review
+Social Science Information: information sur les sciences sociales
+Soft Computing
+Software and System Modeling
+Software Process Improvement and Practice
+Software Quality Journal
+Software Testing, Verification and Reliability
+Software: Practice and Experience
+South African Computer Journal
+South African Journal of Information Management
+South African Journal of Library and Information Science
+Speech Communication
+Statistics and Computing
+Synergy
+Systemic Practice and Action Research
+Systems Engineering
+Technical Services Quarterly
+Telematics and Informatics
+Text Technology: the journal of computer text processing
+The African Journal of Information Systems
+The Computer Journal
+The Electronic Journal of Academic and Special Librarianship
+The Electronic Journal of Information Systems in Developing Countries
+The Electronic Library: the international journal for the application of technology in information environments
+The Information Society
+The International Arab Journal of Information Technology
+The International Journal of Learning
+The International Journal of Virtual Reality
+The Journal of Academic Librarianship
+The Journal of Information Systems
+The Journal of Logic and Algebraic Programming
+The Journal of Strategic Information Systems
+The Journal of the Institute of Telecommunications Professionals
+The Journal on Information Technology in Healthcare
+The Library Quarterly
+The Library: the transactions of the Bibliographical Society
+The Reference Librarian
+The Serials Librarian: the international journal of continuing print and electronic resources
+The Turnbull Library Record
+The Visual Computer
+The VLDB Journal
+Theoretical Computer Science
+Theory and Practice of Logic Programming
+Theory of Computing
+Theory of Computing Systems
+Transactions in GIS
+Transactions on Emerging Telecommunications Technologies (was European Transactions on Telecommunications)
+Trends in Cognitive Sciences
+TUGboat
+Universal Access in the Information Society: international journal
+User Modeling and User Adapted Interaction
+VINE: The Journal of Information and Knowledge Management Systems
+Virtual Reality
+VLSI Design
+Web Intelligence and Agent Systems: an international journal
+Webology
+Wireless Communications and Mobile Computing
+Wireless Networks: the journal of mobile communication, computation and information
+Wireless Personal Communications: an international journal
+Wirtschaftsinformatik
+World Wide Web

@@ -1,0 +1,406 @@
+Computer programming
+Introduction to Programming
+Introduction to Programming Logic
+Object-oriented programming
+Dynamic programming
+Algorithms
+Introduction to algorithms
+Programming Languages
+Theory of programming languages
+Compilers and language theory
+Procedure Oriented Programming
+DirectX
+OpenGL
+Shell Scripting
+Python
+pyOpenGL
+JavaScript
+jQuery
+PHP/MySQL
+Ruby
+Java
+Introduction_to_Programming_in_Java
+Java tutorial
+Web_programming,_an_example
+Objective-C
+C++
+.NET
+Assembly
+VHDL
+Software/Application engineering
+Software project management
+Databases
+Modelling
+User interfaces
+Software testing
+Software quality assurance test
+Service Oriented Architecture
+Multimedia
+Computer Graphics Programming
+Graphics Programming (Real Time)
+Information theory
+Data compression
+Data structures
+Information security
+Cryptography
+Information Management
+Information Science
+Networking
+Wireless systems
+Information security
+Cryptography
+Client/Server and other types of communication
+Server administration
+Data Management
+Server content : Files and Databases
+Databases
+Algorithms
+Introduction to algorithms
+Numerical Algorithms
+Number Theory
+Introductory Discrete Mathematics for Computer Science
+Computer Engineering (The Art of Making Computers)
+Computer architecture
+Introduction to Computer Architecture
+Service Oriented Architecture
+Electronic Design
+Logic Design
+VHDL
+Processor Architecture
+Data Logic
+Computer Logic
+Statistics
+Graph theory
+Information theory
+Computer Science Theory
+Introductory Discrete Mathematics for Computer Science
+Automata theory
+Complexity theory
+Theory, Logic and Design
+Operating Systems
+Kernel internals 
+Linux
+BSD
+MINIX
+Multimedia
+Graphic design with computers
+Computer-aided Geometric Design
+Artificial intelligence
+Natural Language Processing
+Machine learning
+Applied computer science
+Scientific computing
+Bioinformatics
+Geoinformatics
+Graphic design with computers
+Web Services
+Websites
+Web development
+XML, HTML, XHTML
+JavaScript
+jQuery
+Web_programming,_an_example
+PHP/MySQL
+.NET
+Python
+Ruby
+Web design
+User interfaces
+Web Applets
+Programming Wikidata
+GIS
+Design Physics
+Business process management
+Computational geometry
+Computational linguistics
+Data warehouse
+Digital Libraries
+Formal methods
+Information systems
+Very Small Information Systems
+Nonkilling Technology
+Quantum computing
+Software freedom
+Product software
+Device Utilization
+Parallel computing
+Concurrency and real-time programming
+Pure Mathematics
+Theory of computation
+Algorithms, Data structures
+Programming languages, Compilers
+Computing
+Software engineering
+System architecture
+Topic:Telecommunication, networking
+Databases
+Artificial intelligence
+Computer graphics
+Human–computer interaction
+Computational science
+Mathematical Logic 
+Automata theory 
+Analysis of algorithms 
+Parsing 
+Concurrent computing 
+Requirement analysis 
+Computer architecture 
+Routing 
+Database management systems 
+Automated reasoning 
+Visualization 
+Computer accessibility 
+Artificial life 
+Set Theory 
+Computability theory 
+Algorithm design 
+Interpreters 
+Parallel computing 
+Software design 
+Microarchitecture 
+Network topology 
+Relational Databases 
+Computational linguistics 
+Computer animation
+User interfaces
+ Bioinformatics 
+ Number Theory 
+ Computational complexity theory
+ Computational geometry
+ Procedural programming 
+ Distributed computing 
+ Computer programming 
+ Operating Systems
+ Cryptography
+ Structured query language 
+ Computer vision 
+ Image processing
+ Wearable computer 
+ Cognitive science 
+ Graph Theory 
+ Object-oriented programming 
+ Multiprocessing 
+ Formal methods 
+ Transaction processing 
+ Evolutionary computation 
+ Ubiquitous computing 
+ Computational chemistry 
+ Type Theory 
+ Functional programming 
+ Grid computing 
+ Software testing 
+ Database indexes 
+ Expert systems 
+ Virtual reality
+ Computational neuroscience 
+ Category Theory 
+ Logic programming 
+ Concurrency control
+ Software development process
+ data mining
+ Machine learning 
+ Computational physics 
+ Numerical Analysis  
+ Programming paradigms
+ Natural language processing 
+ Numerical analysis 
+ Robotics
+ Symbolic computation
+ Combinatronics  
+ Information Theory  
+ Boolean algebra
+Intro Computing: Engrg & Sci
+Little Bits to Big Ideas
+Intro Computing: Non-Tech
+Intro to Computer Science
+Software Design Studio
+Discrete Structures
+Freshman Honors
+Underground Unicorn Seminar
+Ethical & Professional Issues
+Data Structures
+Computer Architecture
+System Programming
+Programming Studio
+Honors Course
+Numerical Methods I
+Prob & Stat for Computer Sci
+Intro to Algs & Models of Comp
+Special Topics
+Text Information Systems
+Database Systems
+Introduction to Data Mining
+Intro to Combinatorics
+Interactive Computer Graphics
+Progrmg Languages & Compilers
+Programming Language Design
+Operating Systems Design
+Distributed Systems
+Software Engineering II
+Software Engineering II, ACP
+Embedded Systems
+Computer System Organization
+Computer Networking Laboratory
+Communication Networks
+Artificial Intelligence
+Machine Learning
+Numerical Analysis
+Security Laboratory
+Computer Security I
+Computer Security II
+User Interface Design
+Introduction to Bioinformatics
+Tech and Advertising Campaigns
+Algorithms
+Formal Software Devel Methods
+Simulation
+Applied Parallel Programming
+Seminar
+IAT Seminar
+Senior Project I
+Special Topics
+Digital Forensics II
+Digital Forensics II
+Digital Forensics II
+Applied Machine Learning
+Advanced Data Management
+Data Mining Principles
+Advanced Distributed Systems
+Parallel Computer Architecture
+Advanced Computer Networks
+Computer Vision
+Machine Learning in NLP
+Numerical Methods for PDEs
+Human-Computer Interaction
+Extremal Graph Theory
+Randomized Algorithms
+Methods of Combinatorics
+Computational Complexity
+Algorithmic Genomic Biology
+Approximation Algorithms
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Advanced Seminar
+Text Mining Seminar
+Special Topics
+Special Topics
+Advance Bioinformatics
+Social Sensing
+Applied Cloud Computing
+Compilers
+Introduction to Electronics
+Introduction to Computing
+ECE 110 Merit Section
+Seminar
+Introduction to Electric and Electronic Circuits
+Electric and Electronic Circuits Laboratory
+Analog Signal Processing
+Topics in Analog Circuits and Systems
+Computer Systems & Programming
+Individual Study
+Techniques for Engineering Decisions
+Digital Signal Processing
+Digital Signal Processing Lab
+Probability with Engineering Applications
+Probability in Engineering Lab
+Ethics and Engineering
+Introduction to ECE Technology & Management
+Fields and Waves I
+Power Circuits and Electromechanics
+Green Electric Energy
+Semiconductor Devices
+Electronic Circuits
+Electronic Circuits Laboratory
+Fields and Waves II
+Intro to Algs & Models of Comp
+Digital Systems Laboratory
+Computer Systems Engineering
+Advanced Digital Projects Laboratory
+Honors Project
+Individual Study in ECE Problems
+Special Topics in ECE
+Electronic Music Synthesis
+Applied Parallel Programming
+Computer Organization and Design
+Biomedical Instrumentation
+Biomedical Instrumentation Laboratory
+Biosensors
+Introduction to Image and Video Processing
+Security Laboratory
+Digital Signal Processing Laboratory
+Computer Security I
+Computer Security II
+Distributed Systems
+Electric Machinery
+Computer Networking Laboratory
+Communication Networks
+Physics and Modeling of Semiconductor Devices
+IC Device Theory & Fabrication
+Senior Design Project Laboratory
+Introduction to Artificial Intelligence
+Advanced Microwave Measurements
+Wireless Communication Systems
+Antennas
+Digital Communications
+Logic Synthesis
+Optical Remote Sensing
+Introduction to Robotics
+Biomedical Ultrasound Imaging
+Formal Software Development Methods
+Nanotechnology
+Analog IC Design
+Control Systems
+Robot Dynamics and Control
+Introduction to Optimization
+Introduction to Numerical Analysis
+Advanced Engineering Math
+Photonic Device Laboratory
+Senior Research Project
+Special Topics in ECE
+LEDs and Solar Cells
+Data Science & Analytics
+Data Science & Analytics
+Optical Design of Imaging Syst
+Network Sci.: Dynamics & Flow
+Smartphone Computing and Applications
+Silicon Integrated Photonics
+Senior Thesis
+Graduate Seminar
+ECE Colloquium
+Vector Space Signal Processing
+Control System Theory & Design
+Analysis of Nonlinear Systems
+Random Processes
+Computational Electromagnetics
+Statistical Learning Theory
+Advanced Signal Integrity
+Computer Vision
+Optimum Control Systems
+Digital Imaging
+Detection and Estimation Theory
+Modern Light Microscopy
+Power System Dynamics and Stability
+Computational Complexity
+MOS Device Modeling & Design
+Grad Seminar in Special Topics
+Seminar: Antennas, Electromagnetics & Coherent Optics
+Seminar: Bioacoustics
+Seminar: Power Systems
+Seminar: Speech
+Mathematical Models of Language
+Master's Project
+Individual Study in ECE
+Adv Memory & Storage Systems
+Wireless Networks & Mobile Sys
+Geometric Control Theory
+Adv Memory & Storage Systems
+Thesis Research

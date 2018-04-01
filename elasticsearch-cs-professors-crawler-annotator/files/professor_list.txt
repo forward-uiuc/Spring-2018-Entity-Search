@@ -1,0 +1,10118 @@
+C Clifton
+T. Kahveci
+Chaudhuri K
+Lenwood S Heath
+H Gunawi
+Chaudhuri S
+A G Parameswaran
+Issac Scherson
+M Wellman
+O'Brien J
+K Karahalios
+Feifei Li
+J J Ja'
+McDermott D
+Satinder S. Baveja
+E. Ipek
+T Murali
+Jinxiang Chai
+Overton M
+Han Shen
+S Mishra
+Alper Ungor
+L. Williams
+Ethan K. Bassett
+M. Carey
+Dorsey J
+Xianghong J Zhou
+Josep Torrellas
+L Schubert
+M. Franklin
+J McLurkin
+Kingsford C
+L Si
+P Valiant
+D Porter
+M. Fischer
+L Anthony
+F. Li
+Ken Koedinger
+B R Donald
+Efros A
+Peter Bartlett
+Kevin Knight
+G Fischer
+G. Agha
+Hao Chen
+Xianghong Zhou
+Harfoush K
+Tao Xie
+Manocha D
+Richard A Kemmerer
+T. Murali
+Swastik Kopparty
+E. Szemeredi
+Kang G Shin
+T. Sumner
+V. Paxson
+Cristina Lopes
+J. Carlis
+Varshney A
+C Manning
+Igor Markov
+Amenta N
+K Mulmuley
+Judy Olson
+M Sarrafzadeh
+Babai L
+Grigorescu E
+Rebecca Wright
+Shin K
+Seltzer M
+Benjamin Lok
+R C Nelson
+Gao J
+J A Bagnell
+Gleich D
+D Stotts
+Ruzzo L
+A Nenkova
+M Agrawala
+Smith N
+M. Zahran
+A Meyer
+Michael Dillencourt
+K Boyer
+Eric Van Wyk
+Hamann B
+Klein P
+R. Bonneau
+K Srinivasan
+Rad T
+Varela C
+Klein D
+Pollack M
+M. Cafarella
+Y. Ahmad
+J. Rehg
+N Feamster
+D Tatar
+B T Loo
+G Miller
+W D Gropp
+Y Shi
+Munmun De Choudhury
+Russell Taylor
+N Medvidovic
+Condie T
+C Jr.
+T Dillig
+Jeffrey Bigham
+M. Kifer
+T S Parikh
+S. Weirich
+M. Mahmoody
+Geambasu R
+Sorin Lerner
+J Criswell
+Salvatore Stolfo
+H Pfister
+Charless Fowlkes
+D'Mello S
+Kemafor Ogan
+E. Cohen
+Timothy Brown
+R Majumdar
+Simha Sethumadhavan
+Patrick Eugster
+J Kender
+Rehg J
+Hyesoon Kim
+Moshkovitz D
+R Govindan
+Fussell D
+Vincent W Freeh
+Samir Das
+Balkcom D
+E G Sirer
+R. Campbell
+Juan Gilbert
+A. Richa
+H Wang
+P. Chen
+D. Wallach
+Mahadev Satyanarayanan
+David A. Forsyth
+B. Hartmann
+Keith D Cooper
+Charalampos Papamanthou
+VanLehn K
+Jia Deng
+J. Lange
+L. Cox
+Subbarao Kambhampati
+R. Govindan
+Remo Rohs
+J Stankovic
+D Eppstein
+Alberto Apostolico
+Martin Tompa
+Chandra Sekhar Chekuri
+R Piskac
+Bonnie A Berger
+R A Dusseau
+T. Reps
+P A Dinda
+P Gader
+P Drineas
+Bernard Chazelle
+Y. Choi
+B. Bhattacharjee
+Y. Choe
+N. Ayanian
+J B Graber
+Andrew Kahng
+T. Schmid
+Lane A. Hemaspaandra
+S. Irani
+Z. Li
+V. Srikumar
+Olof Widlund
+Brenna D Argall
+Y. Shi
+Jon Weissman
+Ombao H
+Apostolico A
+L K Nakhleh
+Jur v.d. Berg
+Santosh Pande
+A Gottlieb
+Geijn R
+R. Dick
+Sandy Irani
+James Allan
+John (Jack) Sampson
+Charles V. Loan
+Philip Levis
+E. Do
+G. Gibson
+D ( Yao
+Rada Mihalcea
+Amelia C. Regan
+S. Arora
+D E Atkins
+V Narayanan
+D Xu
+D Gifford
+Levis P
+H. Esmaeilzadeh
+L Watson
+J. Hockenmaier
+Lenoir T
+Kalogerakis E
+M Kifer
+David Gifford
+A. Eisenberg
+W. Johnson
+M Dyer
+Douglas DD II
+A Vahdat
+S. Davidson
+Barbara J. Grosz
+Jiebo Luo
+B Liblit
+T R Ioerger
+L. Smarr
+B Raj
+Anna Karlin
+Dana Pe'er
+Tim T Chen
+Kfoury A
+J. Tsitsiklis
+Utts J
+Kotz D
+Benjamin Goldberg
+Weirich S
+Mikhail Atallah
+Steve Tanimoto
+J. Laird
+Rohs R
+K A Yelick
+David Evans
+Ruzica Piskac
+H. Kautz
+Snoeren A
+B Recht
+Raluca M. Gordan
+Heckerman D
+Lysyanskaya A
+S Lerner
+James Aspnes
+Luca Trevisan
+Jeffrey RN Forbes
+M. Chi
+M Bender
+J. Freire
+Itsik G Pe'er
+Doeppner T
+Ming Huang
+R. Korf
+David O'Hallaron
+S M Thebaut
+Xuan D
+M. Wellman
+J. Peters
+Astrachan O
+A. Ames
+R. Weiss
+Cousot P
+Guoliang Xue
+A C Regan
+Robby Findler
+A. Helmy
+Raschid L
+D. S. Parker
+E Charniak
+Stanley Eisenstat
+Cristina N. Rotaru
+Zhao B
+Alfred Hero
+A. Milanova
+D. Evans
+A. Antón
+Hector Corrada Bravo
+C Kozyrakis
+Terzopoulos D
+S. Mahadevan
+G. Necula
+C Jung
+J. Pasquale
+Jennifer L Welch
+Grupen R
+C H Wu
+J Li
+R Acharya
+Ji Liu
+A. Gupta
+Raj Acharya
+A Roth
+Robert D Rodman
+P Schroeder
+Ron Alterovitz
+I G Harris
+Young M
+Wei-Tek Tsai
+T. Lenoir
+D. Brumley
+K J Compton
+J Traub
+M Balazinska
+J. Graber
+M Brent
+C J Ribbens
+Young R
+Adam Lopez
+J Nieh
+Chung-Chieh Lee
+Tracy Hammond
+J Caverlee
+Levitt K
+Danfeng (Daphne) Yao
+W. B Croft
+Duncan M Walker
+Z M Mao
+M. Hardwick
+Koedinger K
+Venkateswaran H
+R. Moll
+D. Perlis
+Jonathan Gross
+Jude Shavlik
+L Trevisan
+Allan J
+Agha G
+G. E. Marai
+G. Yang
+L Pitt
+Hollerer T
+Dirk Grunwald
+Changhee Jung
+H. Gunawi
+Gaurav Sukhatme
+D. James
+Patrick Thomas Eugster
+Gregory Welch
+Fox A
+Susan B Davidson
+Padua D
+Fox D
+P Steenkiste
+Manuela Veloso
+Tapan S Parikh
+L Bic
+Ratnasamy S
+J F Traub
+R Tate
+N. Smith
+E Vouga
+Brian Kernighan
+J Laird
+S. Sankaranarayanan
+Donald P. Greenberg
+Malathi Veeraraghavan
+Jacob K. White
+Aravind Srinivasan
+Mohamed Zahran
+Litman D
+Daniel Gillen
+William Richard
+M Horowitz
+Halpern J
+R. Fergus
+Corey T. Franklin
+Sariel H Peled
+G Shakhnarovich
+K. Bekris
+A. Mathur
+J. Erickson
+Erik G Learned-Miller
+A. Sivasubramaniam
+O Cossairt
+David Redmiles
+Todorov E
+Chandrajit Bajaj
+Gordon Kindlmann
+Lucic R
+Aditya Parameswaran
+R Bajcsy
+Stephane Lafortune
+M. Lam
+S. Fahmy
+Thomas Ristenpart
+Kobus Merwe
+Kang G. Shin
+Lori Clarke
+VonAhn L
+G. Vigna
+Gregory H. Wakefield
+S Parthasarathy
+G W Wornell
+John J. Metzner
+T Chen
+Sandiway Fong
+Geiger D
+Eric P. Xing
+C. Kruegel
+Dinitz M
+Chi H Wu
+Ming Y Kao
+Szegedy M
+Geoffrey Voelker
+D Kafura
+John Wawrzynek
+A. Rao
+M. Berzins
+P. Gacs
+Mokbel M
+Ludaescher B
+S Hannenhalli
+Hwa R
+D Kane
+Li P
+Ahamad M
+R. Zabih
+S D'Mello
+Bargteil A
+Li X
+Tomasz Imielinski
+Schliep A
+C Rose
+N Venkatasubramanian
+R Morris
+Valerio Pascucci
+Li F
+Li H
+Li K
+Li J
+Li N
+A. Davis
+Belding E
+D. Gillen
+Michael Bender
+Xiaohui (Helen) Gu
+Schulzrinne H
+Zhuowen Tu
+Mohamed Mokbel
+M. Rahimi
+L Orecchia
+R. Karp
+A. Vardy
+Mark Dredze
+Wozny M
+Leo Mark
+Edmund M. Clarke
+L. Palen
+Susan Rodger
+Borgida A
+Kumar R
+A Apostolico
+Kumar P
+Kumar V
+K. Harfoush
+Esmaeilzadeh H
+Dan Grossman
+E Bozorgzadeh
+C. Peng
+Sen K
+T. Ju
+Sen A
+G. Sussman
+Carl Gunter
+X. Tricoche
+C. Taylor
+Anna R. Karlin
+S Shekhar
+Cappello P
+G Valiant
+Guy Blelloch
+A V Sahakian
+B. Szymanski
+Trevisan L
+John Goldsmith
+Regehr J
+J Byers
+Joe Devietti
+Yann LeCun
+J Hays
+Wasserman L
+Victor Zue
+V. Vapnik
+Robert P Dick
+S Dughmi
+Jeffrey M Siskind
+S Adve
+Tu Z
+Timothy Alden Davis
+M Hauskrecht
+V W Freeh
+N. Pollard
+Joseph J Ja'
+Anne Rogers
+Thomas Griffiths
+D Gillen
+J Demmel
+M. Gini
+K Daniilidis
+M. Minsky
+S Hambrusch
+M Martonosi
+Justine Cassell
+S Weirich
+G Nadathur
+Bryan Ford
+B Childers
+Lussier E
+M Ackerman
+A. Deshpande
+Dan Boneh
+Suman Banerjee
+Dourish P
+Richard Karp
+J H Reif
+Steven M. LaValle
+Matloff N
+D T Blaauw
+Bellare M
+S Micali
+Bernd Hamann
+U Vishkin
+M. Palmer
+Tina Eliassi-Rad
+V. Shoup
+S J Russell
+Shahabi C
+B. Boehm
+Prasanna V
+Hays J
+Sifakis E
+Greg Morrisett
+Ashutosh Saxena
+J. Dorsey
+Alex Aiken
+Xianghong Jasmine Zhou
+S. Smith
+I. Tagkopoulos
+S. Gurumurthi
+Liang P
+M. Balazinska
+A. Datta
+B. Raj
+Rocco A Servedio
+Y Brun
+Armando Fox
+Appavoo J
+Lawrence J
+Dmitri Loguinov
+Timothy Davis
+Mihir Bellare
+Tony Givargis
+N Samatova
+G. Olson
+Kristian Hammond
+P Dinda
+James Anderson
+D. Shah
+S Rixner
+Steven Gortler
+S. Roumeliotis
+L. Song
+Mowry T
+Kelleher C
+Calvin J Ribbens
+Sarita Adve
+Michael Grigoriadis
+Helmy A
+Liu M
+E M Hill
+Sanchez D
+M Dillencourt
+D J Patterson
+J. A Halderman
+Bonnie A. Berger
+Lisa Fleischer
+D Bowman
+K. Hammond
+M. O'Donnell
+Stoica I
+Abelson H
+Rosu G
+V Taylor
+A. Efros
+Apostolos Gerasoulis
+E A Fox
+Mulmuley K
+M. Pollack
+Balazinska M
+H. Perros
+Matthew K Farrens
+Chau W. Tseng
+S Cooper
+L Birnbaum
+Patrick Jaillet
+Rabi N Mahapatra
+Tibshirani R
+D. Gifford
+Liu J
+M Honig
+V. Freeh
+Yasutaka Furukawa
+Bala K
+Shree K Nayar
+B. Zhao
+K. Ross
+Patrick T Eugster
+Christopher Stewart
+Schwartz R
+D Song
+E Soloway
+Freire J
+Hirani A
+H. Wang
+Huijia Lin
+D A Patterson
+A Cline
+D P Siewiorek
+B. Loo
+C. Papadimitriou
+S Brookes
+B. Lok
+B Sturmfels
+Samatova N
+Robert Bryant
+Singer Y
+R Han
+J Olson
+E Ipek
+Danfeng (. Yao
+Ahmed Helmy
+A. Sameh
+Bobick A
+Hernando Ombao
+S. Sethumadhavan
+Cash D
+Matthew Turk
+David Parkes
+S. Goodman
+Harry Perros
+James F. Allen
+H Samet
+Arun Venkataramani
+Michael Casey
+R. Fiebrink
+Baral C
+A Davis
+Gerla M
+Kiesler S
+Sharad Mehrotra
+Sanjay Ranka
+David Wood
+M. Sahami
+Vardy A
+G Rosu
+Elaine Cohen
+Piskac R
+V Aleven
+A Lopez
+L Shapiro
+Siegelmann H
+S. Seitz
+Peter J. Downey
+S A Edwards
+G Cao
+C. Clifton
+Gregory Abowd
+David Sturgill
+J. Bagnell
+Parr R
+C.R. Ramakrishnan
+Bor Chang
+Reddy R
+Linda Shapiro
+Eun Jung Kim
+Adam Bargteil
+L. Sha
+Balcan M
+Nancy Amato
+Eva Tardos
+P. Parrilo
+H. Abelson
+Markus Schneider
+Peter K. Allen
+Kevin Jeffay
+Michael Walfish
+S. Mishra
+G. E Marai
+P. Traynor
+C Yuksel
+X Jiang
+L Hollaar
+Randall Berry
+Kevin Almeroth
+V Bafna
+David E. Culler
+Julia Hockenmaier
+S. Istrail
+M. Singh
+M Riedl
+Landay J
+Stefano Soatto
+J. Hays
+Jae Lim
+Chang T Lu
+Bobby ( Bhattacharjee
+Peng Ning
+John (. Sampson
+Humphrey M
+Aiken A
+F. Monrose
+D. Kieras
+M Zahran
+David Gleich
+V Sarkar
+Munindar P Singh
+P. Sivilotti
+J Ousterhout
+Dabbish L
+A Black
+Osterweil L
+G H Wakefield
+Azer Bestavros
+Yaser SA Mostafa
+M Prvulovic
+Subramanian L
+C. Zaniolo
+Srinivas Aluru
+Subramanian D
+J. Simon
+G Kaiser
+Sandeep Gupta
+Joohyung Lee
+E. Todorov
+Maja J Mataric
+T Hollerer
+Sinha P
+Sinha S
+L. Hollaar
+Landon Cox
+S. Savarese
+B Cutler
+R. Rivest
+Brian Levine
+Steven J Gortler
+Cuevas F
+A. Agarwal
+V Vaikuntanathan
+Minlan Yu
+D. Mosse
+Robert P. Dick
+Belongie S
+A. Elmagarmid
+P Sinha
+Naren Ramakrishnan
+Riccardo Bettati
+Seng Ho
+T. Znati
+W. Enck
+Tracey Ho
+L Levin
+Grosz B
+E. Vigoda
+L Raschid
+B Kalantari
+C Henriquez
+A. Sussman
+Keith D. Cooper
+Vern Paxson
+Taylor M
+S Sahni
+Jha S
+J Wiebe
+Harry Xu
+S Jacobson
+Taylor R
+Nadia Heninger
+Smolka S
+Donald Porter
+C Baral
+T. Jebara
+Kang Shin
+Bader D
+D Mosse
+S. Schmidler
+A. Keromytis
+S. Tessaro
+M. Lin
+Robert AVd Geijn
+F. Sha
+B Raphael
+Wierman A
+P D McDaniel
+J Herbsleb
+Alterovitz R
+P Bartlett
+Regev O
+Michael Swift
+David Barrington
+G. Kindlmann
+C Ramakrishnan
+L. Petzold
+C. Liu
+J. Eppinger
+S Dasgupta
+S Krishnamurthi
+R. Katz
+Tobias Hollerer
+Daniel Aliaga
+C. Lin
+Peter Cappello
+F Schneider
+John M. Crummey
+D Atkins
+John A. Board
+Ramin Zabih
+K. Sullivan
+D. Jackson
+Vikram Adve
+A Quinlan
+Tom M Mitchell
+Gerome Miklau
+Karen Liu
+Vadhan S
+Andrew Ng
+S. Chen
+S Baveja
+Jeffrey S Chase
+R. Osuna
+T. Ho
+Yuan Wang
+Riloff E
+T. He
+J. Warren
+M. Bermudez
+Eric Fosler-Lussier
+E. Wyk
+Ronald A Olsson
+M. Mitzenmacher
+Chris Clifton
+R. Adams
+Layne T. Watson
+Lori A. Clarke
+R Jain
+Hellerstein J
+S Venkatasubramanian
+T Abdelzaher
+Drew McDermott
+R Fiebrink
+R Bryant
+Daniel P. Siewiorek
+J Patel
+Theo Benson
+S Das
+D D Sleator
+A. Montgomery
+V. Pascucci
+Warren A.H. Jr.
+Alfonso F. Cardenas
+R. Findler
+Peter A Dinda
+E Nikolova
+J. Hollerbach
+Mark Ackerman
+M D Huang
+J. Foster
+B Mukherjee
+Stewart C
+M Y Kao
+David Dobkin
+P. Chau
+E. Allender
+Gopi Meenakshisundaram
+Shaddin Dughmi
+R. Murphy
+A Kirlik
+Endre Szemeredi
+Stuart Shieber
+Corner M
+B. Goldberg
+J Remmel
+M. Snir
+A. Rountev
+Wai T Fu
+Webb Miller
+M Meyer
+Beichuan Zhang
+Kundaje A
+T. Wies
+B Kuipers
+Kuo J
+Todd Mowry
+P. Shenoy
+Robert D Skeel
+B Nath
+D. Horn
+S Savarese
+Alin Dobra
+Kirk W. Cameron
+S. Muthukrishnan
+A. Guha
+Childers B
+Benjamin M. Marlin
+Nancy Pollard
+C P Rose
+Edward Gehringer
+Scott Shenker
+L. Scott
+Junghoo ( Cho
+Mankoff J
+M. Herlihy
+Eric Allender
+D. Micciancio
+Dan Sheldon
+M J Carey
+K. Munagala
+D. Rose
+M. Grigoriadis
+Stultz C
+O. Etzioni
+Boleslaw Szymanski
+N Ramakrishnan
+Brian L Curless
+Xiaohui ( Gu
+Ronald A. Olsson
+Vivek Srikumar
+Khaled Harfoush
+J. Ja'
+J. Hodgins
+Jordan B. Graber
+M. Goodrich
+Shriram Krishnamurthi
+B. Walker
+Carl Kingsford
+A. Srinivasan
+Gilbert J
+Gilbert E
+Jeffrey R.N. Forbes
+J. Mitchell
+T Barnes
+P. Raghavendra
+C Eastman
+Moses J
+C. Jenkins
+John J Metzner
+J. Hennessy
+A A Dusseau
+Sergey Bratus
+T. Fletcher
+Stephen Cooper
+Jr. W
+Banerjee A
+R P Dick
+Jr. G
+Jr. F
+S Chaudhuri
+Jr. C
+B. Grosz
+Rosenbloom P
+J. Naughton
+Raghavan P
+Silvio Micali
+Y. Liu
+I Markov
+David Mount
+W. Jr.
+Tal G Malkin
+L A Clarke
+G. Fischer
+Wagner R
+T. Brun
+B. Lin
+Webb C. Miller
+Alex Orailoglu
+Martin J. Strauss
+Mehran Sahami
+Ghosal D
+D S Johnson
+R. Taylor
+Edward Felten
+Wagner D
+Gleicher M
+Zia Khan
+Brenna Argall
+E Zegura
+Ing R Chen
+C. Peikert
+Patel S
+Adam Klivans
+Patel K
+Patel J
+N. Yosef
+Vijay Vazirani
+Prabal Dutta
+K Ross
+Xu J
+V Bertacco
+Matthew Caesar
+Rouskas G
+A. Rangarajan
+Lafortune S
+G F II
+Evimaria Terzi
+Rafael Pass
+Nieh J
+W. Aref
+H Elman
+John E. Laird
+C. Guerra
+Hanna Wallach
+R III
+S. Ghandeharizadeh
+Ron Weiss
+D Towsley
+Shyhtsun F. Wu
+J. Reggia
+John Reif
+D S Hirschberg
+Jin-Yi Cai
+T Lai
+Cristina Nita-Rotaru
+Allison Lewko
+D Perreault
+S Goldwasser
+D. Andersen
+P T Eugster
+James Herbsleb
+Kozen D
+Amy Bruckman
+C Jermaine
+Fred Chong
+Hwang K
+D. Jensen
+Kosaraju S
+M G Gouda
+Culler D
+J Abernethy
+Eliezer Gafni
+J. Buhler
+Benjamin C. Pierce
+F Memoli
+S. Patel
+Raluca-Mihaela Gordan
+C C Weems
+S. Kobourov
+K. Anderson
+D Jensen
+Henryk Wozniakowski
+Robert L. Bryant
+Aydin K
+R Schapire
+Sebastian Thrun
+Aiichiro Nakano
+A. Cox
+Ergun Akleman
+Stephen Guy
+Z Kedem
+Carl A Gunter
+Shah D
+Stone P
+Nadathur G
+C Colbourn
+S. Parthasarathy
+E Allender
+M. Maggioni
+Christopher Bystroff
+Roch Guerin
+Chong F
+Zeeshan H Syed
+Gravano L
+P Abbeel
+Chong S
+S Guha
+Daniel A. Jiménez
+Baruah S
+G Rohde
+David A. Bader
+E. Bach
+Mahlke S
+Thrasyvoulos N Pappas
+G Rouskas
+A Shelat
+Richard M Karp
+Mohamed G Gouda
+Arbib M
+Kenneth Birman
+M Caccamo
+Elfar Adalsteinsson
+A. Memon
+Chaoli Wang
+R. Bodik
+S. Navathe
+Claire L Goues
+Grauman K
+Patrick J Flynn
+Anthony D Joseph
+Louis Gomez
+Drineas P
+M Best
+L. Clarke
+E. Bassett
+J. Palsberg
+J. Stankovic
+Chris Dwyer
+B Myers
+Kravets R
+D Joseph
+Karlin A
+A Deutsch
+Kobus vd Merwe
+Daniel S Weld
+Plonus M
+Tapan Parikh
+L. Kale
+T T Chen
+Stoleru R
+Levoy M
+S. Krishnamurthi
+Jordan Boyd-Graber
+Goldman R
+Svetlana Lazebnik
+Carla Schlatter Ellis
+D McLeod
+Kobus Barnard
+H Christensen
+Pingali K
+Tarek F Abdelzaher
+S. Aluru
+S Farsiu
+Ketan Mayer-Patel
+R Pless
+Steven Rudich
+L Heath
+M Jackson
+Wesley Johnson
+E Price
+S K Chang
+M. Levoy
+Tarjan R
+M. Kao
+T. Ng
+Michael Cafarella
+David A Padua
+R Kondor
+Tatar D
+Cardie C
+R Lucic
+Jaakkola T
+Brown C
+S Patterson
+Gracanin D
+M Kellis
+Y. Cao
+Satinder Baveja
+Andrew Lo
+Larry Ruzzo
+Brown R
+Vaikuntanathan V
+Rabi N. Mahapatra
+A F Cardenas
+J Anderson
+C Carothers
+Michael D Smith
+Aditya P. Mathur
+V Pavlovic
+Xu D
+Oussama Khatib
+Xu H
+D. Manocha
+Grant Schoenebeck
+L. Rauchwerger
+D. Kihara
+Chen Y
+Peter Allen
+M Furst
+C Scheidegger
+D. Cox
+Edmund H Durfee
+H. Gupta
+W Wang
+Christos Faloutsos
+M Rappa
+D. Greenberg
+R M Young
+Fabian Monrose
+A. Goel
+A Grama
+Michael Arbib
+Rephael Wenger
+M Mason
+Michael J. Carey
+C. Yap
+K Knight
+Chen T
+Gopalakrishnan G
+Lam M
+S. Seung
+E. Terzi
+J. Rexford
+J Kolodner
+E. Kohler
+Ristenpart T
+Ideker T
+L. Babai
+Crawfis R
+Moses Charikar
+A. Battle
+J Rexford
+D J Sorin
+H V Jagadish
+Neville J
+A Lewko
+Rada Y. Chirkova
+Seda O. Memik
+Fogarty J
+Andreas Klappenecker
+Kuzmanovic A
+Leysia Palen
+Ken Goldberg
+P. Crowley
+Samet H
+J. Hollingsworth
+V. Venkatasubramanian
+S. Heber
+Andrew McGregor
+Benjamin V Durme
+Bob Kessler
+M. E Hoque
+Stankovic J
+Milo Martin
+Victor Vianu
+Marcus M
+M Hearst
+Lerner S
+Richard Lipton
+John M Crummey
+R Katz
+Gloria Mark
+M. Brent
+A Boldyreva
+W Press
+Michael G. Dyer
+B Selman
+E. Paulos
+Z L Zhang
+James Browne
+Eric Brewer
+G Fainekos
+B. Sturmfels
+J. Barlow
+C. Kozyrakis
+Jon Kleinberg
+D. Dill
+Csaba Egyhazy
+Giovanni Vigna
+Yanxi Liu
+H W Shen
+J. Jarvi
+Devika Subramanian
+Jason Eisner
+Kevin R. B. Butler
+Guttag J
+Salman Avestimehr
+E J Kim
+T. Dupont
+J. S Moore
+J Hodgins
+N. Roussopoulos
+Valerie E. Taylor
+N Roman
+M Franklin
+Michael S Waterman
+O. Khatib
+Spooner D
+T. Kohno
+Dennis R Bahler
+E. Shi
+M. Hicks
+J. Bigham
+A Sandu
+Pavol Cerny
+J E Moss
+D. Roberts
+Gross J
+F. Wang
+Manuel E Bermudez
+S. Goldwasser
+L. Kaelbling
+Han R
+G Trajcevski
+A. Wasilewska
+D Chen
+Yung H Lu
+David Jacobs
+Phil Resnik
+L. Levin
+Bruce Walker
+Jaakko Jarvi
+D Plaisted
+John Gilbert
+Y. Singer
+Kishor Trivedi
+Jeff Erickson
+Supowit K
+Kishor S Trivedi
+Bill Tomlinson
+K. Cameron
+Eric Paulos
+Burns R
+C Kelleher
+Emma Brunskill
+E Sacks
+Anastasios Sidiropoulos
+Sara Kiesler
+Katti S
+Majumder A
+S. Zilberstein
+J C Browne
+H. Xi
+P. Dewan
+Jiawei Han
+Mustaque Ahamad
+Charles Van Loan
+Michael Kearns
+Prabhakaran M
+M J Mataric
+Makarychev Y
+Proebsting T
+Nitesh V Chawla
+G Bishop
+Kevin CC Chang
+M Huang
+David Jensen
+Snodgrass R
+U. Acar
+Anant Agarwal
+Freeh V
+S. Vempala
+Simon S Lam
+M. Blanton
+O Etzioni
+Megretski A
+Chowdhury R
+C Stultz
+T. Parikh
+Frederick H. III
+L Ortiz
+Back G
+P. Mavromatis
+Kececioglu J
+E. Anshelevich
+Ruzena Bajcsy
+R. Ladner
+Schwan K
+James Purtilo
+Steven Reiss
+P Beame
+M. Guzdial
+Mueller K
+D A Bowman
+Mueller F
+T. Kraska
+Bermudez M
+Qin F
+Cossairt O
+Verghese G
+Qin H
+Tarek Abdelzaher
+N. Samatova
+Olsson R
+R. Sekar
+Christopher Barrett
+S Kosaraju
+Rus D
+A R Butt
+D. Stott Parker
+James Foley
+Brian Scassellati
+Breaux T
+Butz A
+H Jensen
+Joshua R. Smith
+K Daskalakis
+J H Waldo
+Thebaut S
+V. Pavlovic
+S. Kais
+D. Cash
+C. Re
+Allen P
+M Satyanarayanan
+Sriram Sankaranarayanan
+Ingolf Krueger
+D. Clark
+Tevfik Bultan
+C. Fowlkes
+Nenkova A
+J Hendler
+J. Rossignac
+Henschen L
+W Johnson
+Barton Miller
+T Yu
+Jamie Callan
+Nick McKeown
+A. Blum
+K VanLehn
+S ( Narayanan
+K. Daskalakis
+J. Peir
+Viktor K. Prasanna
+J. Pearl
+Tidor B
+Morteza Rahimi
+C. Caldwell
+Horswill I
+Reyzin L
+J. Widom
+R Eglash
+Radu Sion
+Gortler S
+Steve Zdancewic
+Xianfeng Gu
+R. Nevatia
+L Lee
+Don Norman
+Charles C Weems
+H Park
+August D
+B. Ludaescher
+Aliaga D
+Nicoleta Roman
+H. Siegelmann
+J. Nieh
+Eric Mjolsness
+D. Goldberg
+Betke M
+Kai Li
+J. Sampson
+F Graham
+D. Sorin
+Lee Hollaar
+Laxmikant V. Kale
+Yuille A
+Bindel D
+A. Sahai
+J Berg
+T Funkhouser
+James C Lester
+Tommi Jaakkola
+S Stoller
+Mor H Balter
+E Tardos
+S F Chang
+Lorie Loeb
+Paul Dourish
+A Butz
+A Butt
+X. Jiang
+F. Bustamante
+Jure Leskovec
+Sandhya Dwarkadas
+Garlan D
+Robert '. Cartwright
+Park H
+A Ron
+S Zdonik
+A Rountev
+Eugene Stark
+L. Riek
+H. Christensen
+Satinder S Baveja
+Benjamin C Pierce
+C Johnson
+D B Johnson
+J. Guttag
+Saraf S
+Y. Yue
+A K Mok
+David C. Parkes
+David Cash
+Yaming Yu
+Chellappa R
+M. Viswanathan
+J. Kolter
+David Padua
+M. Horn
+William Enck
+C Sturton
+H. Weatherspoon
+Sturmfels B
+r. choudhury
+Seng T Ho
+Dally B
+B. Dunsmore
+Platzer A
+E Parker
+Ari Requicha
+S Greibach
+Borriello G
+C. Zhai
+David Johnson
+Berzins M
+Robert Skeel
+Ming D. Huang
+L Kale
+P. Schrater
+Michael Bernstein
+Wornell G
+Sudderth E
+Wies T
+Daniel W Goldberg
+William D. Gropp
+Dianne O'Leary
+Grayson M
+D Spielman
+L. Kavan
+L Carloni
+Jack Snoeyink
+Nick Hopper
+Amr E. Abbadi
+K Madduri
+Wesley O Johnson
+Steven Zucker
+Kristy Elizabeth Boyer
+R. Arkin
+K I Joy
+Waterman M
+L. Mark
+S Narayanasamy
+Huijia (. Lin
+J ( Cong
+Kuang R
+R G Osuna
+Kenneth Anderson
+Hector C Bravo
+I Gupta
+Milos Prvulovic
+L. Daniel
+Hoe J
+Riek L
+Devin J Balkcom
+A B Lewko
+N Hardavellas
+G Hager
+S. Gupta
+J. Gross
+Darwiche A
+Tomlinson B
+Jack Wileden
+A. Black
+Claire L. Goues
+Dobkin D
+Harer J
+Eric Xing
+Gelernter D
+S. Zdonik
+D. Teneketzis
+Horace Yuen
+E Bradley
+Ira Kemelmacher-Shlizerman
+J. Doyle
+Watson L
+T Sherwood
+A Ogan
+Borning A
+Saman Amarasinghe
+Baden S
+P. Stone
+Watson B
+Li S. Peh
+Andrew Hilton
+Ben Bederson
+H Ji
+Ballard D
+Parker D
+B. Levine
+R Karp
+N Chawla
+E ( Bozorgzadeh
+J Rehg
+A Jiang
+R. Davis
+W. Snyder
+Peter Chen
+Cho J
+Brewer E
+Y. Agarwal
+S. Sze
+C. Carothers
+E. Gafni
+Ning P
+William G Halfond
+Cho S
+Janet Kolodner
+H. Tufo
+G Wornell
+Heber S
+L. Carter
+J Gallier
+Larry Carter
+Stuart Russell
+D D II
+M. Stilman
+Dong Xuan
+Jessica Hammer
+C. Franklin
+Cohen E
+Bruce Maggs
+Wang-Chien Lee
+Chang T. Lu
+T. Balch
+Boon Thau Loo
+B Ryder
+Michael L. Scott
+Rami Melhem
+Mao Z
+Krintz C
+B D Argall
+K Candan
+Znati T
+S H Sze
+M. Veeraraghavan
+E Eskin
+R Newman
+D. Sturgill
+L. Watson
+Thomas Schmid
+Avrim Blum
+Asuman Ozdaglar
+Jin Cai
+K Chang
+M Rinard
+A Requicha
+Haym Hirsh
+M Kirby
+Gerhard Fischer
+A Prakash
+W. Franklin
+A Hirani
+Yan Liu
+S. Skiena
+Keith Edwards
+Augustin Chaintreau
+Fahmy S
+C Pu
+N Snavely
+Bender M
+Robert L Constable
+T Ioerger
+Lok B
+T E Rad
+Henriquez C
+Shrikanth (.S. Narayanan
+D. Tygar
+R Pass
+B. Lee
+Russ Joseph
+Vishal Misra
+S Ahalt
+D. Zorin
+G. Welch
+Muriel Medard
+Mathur A
+K. Bala
+Manuel A. A. Pérez-Quiñones
+J. Utts
+Shivnath Babu
+S Helal
+Prabhakar B
+Zaniolo C
+J. Board
+Ming Lin
+Prabhakar S
+E. Upfal
+Larry Wittie
+Ran Canetti
+Shang H Teng
+Ing R. Chen
+L VonAhn
+Schapire R
+J S Chase
+Kim S
+Kim T
+Kim H
+Kim J
+Kim M
+P K Agarwal
+John Ousterhout
+Paul D Gader
+Kim E
+Eric F. Lussier
+P Crowley
+Peng C
+D Wang
+K. Mulmuley
+J M Frahm
+R. Pass
+Chen S
+Sahami M
+Guo D
+Samuel King
+Harrison C
+J Stasko
+T Doeppner
+Guo P
+Sanjeev Khanna
+A ( Jiang
+White J
+R Avent
+Andrea LaPaugh
+Johnson W
+M. Ferdman
+Szpankowski W
+D Melkebeek
+Daniel Hsu
+D. Angluin
+B. Snyder
+Csaba J Egyhazy
+J. Waldo
+Concettina Guerra
+Volkan Isler
+Jinyang Li
+L K Schubert
+Bregler C
+Alan Sussman
+Harrison S
+Kishor S. Trivedi
+Thomas L. Porta
+J. Holland
+Rossignac J
+Basole R
+Fred Schneider
+V Subrahmanian
+G. Mark
+Vinod Ganapathy
+G S Sukhatme
+K. Fatahalian
+Ryder B
+W. Feng
+Sussman A
+X. Zhou
+Sussman G
+C. Pu
+R. Cytron
+C Savage
+E Wyk
+J Carroll
+Sing Sze
+John Hannan
+M. Bond
+R. Piskac
+R Kompella
+Susan H. Rodger
+Brian Curless
+Emery Berger
+Angelos Keromytis
+Palen L
+D. Lee
+Cristina V. Lopes
+T Lee
+McLeod D
+R Kastner
+Todd Dupont
+Marzullo K
+Ming-Yang Kao
+A. Lastra
+R. Grimm
+Terveen L
+Jordan Graber
+M. Satyanarayanan
+G Blelloch
+DeLiang Wang
+L Gravano
+Furst M
+M. Szegedy
+Bederson B
+Robin R Murphy
+Q Lv
+A. Ihler
+Dylan Shell
+Andrea Richa
+Y. Shoham
+V Tannen
+G. Plaxton
+Janos Simon
+D. Metaxas
+E Mynatt
+J C Hart
+Kwan L. Ma
+Parikh T
+C K Yap
+M. Soffa
+Allen Taflove
+S Ward
+Mary Soffa
+M. Liu
+T Benson
+S Savage
+S. Pande
+Wang C Lee
+Alain J Martin
+Chee K. Yap
+J M Siskind
+James A Fogarty
+James Hays
+M A Bishop
+Ziv Bar-Joseph
+Ellen Zegura
+T Rosing
+R Kuang
+Dan Rubenstein
+Michael Kifer
+Peter Schroeder
+T Bultan
+Roman N
+D. Marinov
+C Chekuri
+Kästner C
+A. Aho
+J. Li
+Rinard M
+Christopher Kruegel
+J. Eisner
+L. Lu
+R. Avent
+P. Downey
+J A Fogarty
+M L Overton
+B C Lok
+M Cafarella
+K. Carley
+J. Welch
+C Papadimitriou
+Y. Yang
+B. A. Prakash
+C Stewart
+H. Wozniakowski
+Levy H
+C Loan
+D Bader
+Gerald II
+M J Cafarella
+Daniel Kifer
+Magda Zarki
+Michael Ferdman
+Ling Liu
+Bach E
+Y. Makarychev
+Philipp Koehn
+Alexander Gray
+J. Kender
+Bharat Bhargava
+J Rojas
+E. Omiecinski
+Petzold L
+A N Choudhary
+S N Kamin
+J. Zahorjan
+Margaret H. Wright
+Andrea A Dusseau
+R. Nagpal
+T. Hinrichs
+T. Mowry
+Benjamin Marlin
+L Babai
+L Blum
+R Scheines
+Debray S
+John Anderson
+D. Kafura
+Saad Y
+A Sivasubramaniam
+Gehrke J
+Eric Wyk
+M Welling
+Deborah Tatar
+Labrinidis A
+K Birman
+D Kriegman
+E. Bozorgzadeh
+G II
+Tracy Anne Hammond
+Schroeder P
+K. Sen
+Oren Etzioni
+Nikolaos Papanikolopoulos
+B Chazelle
+Jason D. Hartline
+R. Alterovitz
+M. Ismail
+Salvatore J Stolfo
+J White
+D. Bitzer
+Chakrabarty K
+Y Zhang
+T Brown
+J Deng
+M Srivastava
+Sclaroff S
+Mahadevan S
+Choudhury M
+Scherlis W
+J. A. Halderman
+Fiebrink R
+David A Bader
+Birman K
+Calvin Lin
+Buster Dunsmore
+R Fujimoto
+T. Conte
+Douglas S Reeves
+Demosthenis Teneketzis
+Steven Gribble
+Howard Elman
+J Meseguer
+S Thrun
+Raj B
+Robert Amant
+N. Ramakrishnan
+L Reyzin
+Raquel Urtasun
+Todd Millstein
+H Molina
+U. Wilensky
+Troyanskaya O
+Lv Q
+R. Gupta
+M. Vouk
+L Daniel
+H Fuchs
+Malik Magdon-Ismail
+S. Stolfo
+Benjamin Snyder
+Jaswinder Singh
+Thomas Porta
+Sheldon H. Jacobson
+Sadik Esener
+J. Bennett
+r choudhury
+E Provost
+S Kane
+Tamara Berg
+J Ye
+I Shlizerman
+Robin H Kravets
+Hong J
+A. Lebeck
+Daniel J Sorin
+Michael Jordan
+Carey M
+Johnson C
+Johnson D
+O'Donnell R
+J. Sun
+Alexander Rakhlin
+Mohamed G. Gouda
+Alfred O Hero
+J. Chuzhoy
+Johnson R
+N Yosef
+O'Donnell M
+W. Croft
+K Liu
+Joseph N. Wilson
+Eisner J
+S Lazebnik
+Maria Balcan
+Anupam Datta
+X Tricoche
+Dong Wang
+Daily S
+Xiao J
+Elman H
+A Doan
+D Aliaga
+John ( Sampson
+Zheng C
+Pless R
+K. Trivedi
+DiSalvo B
+McGregor A
+J. Lafferty
+Shivakant Mishra
+Bartlett P
+Mohseni H
+Cameron K
+Raj Jain
+J. Wawrzynek
+Andrea Thomaz
+D Hirschberg
+A P Mathur
+G Essl
+Szolovits P
+G. Robins
+Rida Bazzi
+Ahmed Sameh
+David C Parkes
+Svetlana Yarosh
+Erez Zadok
+Teofilo Gonzalez
+E. Tardos
+D Yao
+B Bhattacharjee
+Compton K
+Sampath Kannan
+E. Grinspun
+Stephanie Weirich
+Annavaram M
+J Lester
+Grinter B
+Thomas H Cormen
+Andrew McCallum
+Nikolaus Correll
+Rajesh Gupta
+Pen-Chung Yew
+J Aldrich
+G. Meenakshisundaram
+E V Wyk
+Y. LeCun
+Weissman J
+J Snoeyink
+L Peh
+Suchi Saria
+Alexander ( Rakhlin
+D Weld
+V Pascucci
+Insup Lee
+Patrice Koehl
+R Chowdhury
+I. Horswill
+N. Correll
+Fedkiw R
+Leiserson C
+B. Curless
+Seda Ogrenci Memik
+Doug Bowman
+Orecchia L
+Godfrey B
+Manoj M. Prabhakaran
+Joe Warren
+Q. Stout
+Hopcroft J
+Robert Fornaro
+J. Byers
+Vianu V
+J. Abernethy
+C Lin
+Chi H. Wu
+C Liu
+Jennifer Widom
+S Zhu
+A. Hero
+Matta I
+E Tilevich
+J H Holland
+D. Downey
+Shan Lu
+J Selinski
+Alexei ( Efros
+Ness Shroff
+David August
+Hao Li
+D. Norman
+F Shipman
+D S Wallach
+D Gildea
+Schulman L
+Kriegman D
+S. Brookes
+Morris R
+A Lebeck
+Morris J
+S Ho
+Anish Arora
+L. Cranor
+Myers A
+Vincent Aleven
+Myers B
+J Prins
+C. McMillan
+D Geiger
+Goldwasser S
+Clifton C
+Nina Amenta
+R L Constable
+Harry R. Lewis
+Babak Shahbaba
+A. Arvind
+Deborah Joseph
+A. McGregor
+I Foster
+Joseph Konstan
+Tumblin J
+Onur Mutlu
+Roberto Tamassia
+Fabin E Bustamante
+Michael Brent
+L. Fleischer
+Chawla S
+B Liskov
+Rocco Servedio
+A. Tannenbaum
+G Ateniese
+K Salisbury
+A. Willsky
+David V. Horn
+Robin Murphy
+R A Servedio
+Mayur Naik
+L. Subramanian
+K Olukotun
+Y. Mostafa
+S. Swanson
+D Fox
+Golubchik L
+J Hollingsworth
+A Lee
+Majid Sarrafzadeh
+D Panigrahi
+T. Givargis
+J. Knight
+D. Klein
+Vidick T
+Austin T
+E. Lussier
+Goodman S
+L Liu
+Uzi Vishkin
+Vladimir Filkov
+J. Heer
+George Kesidis
+Brian Bailey
+Tsai W
+W Tsai
+J Luo
+Eric P Xing
+Stefan Schaal
+R. Kumar
+Hunter L
+Dechter R
+Gasarch W
+J Warren
+E Omiecinski
+Manolis Kellis
+Joseph Ja' Ja'
+T. Vijaykumar
+K Almeroth
+Hudson S
+Ben Shneiderman
+S. Tanimoto
+Neff M
+L Smarr
+Micali S
+John Stankovic
+Stuart M Shieber
+U. Vishkin
+Feng Qin
+Chandra S. Chekuri
+Moshe Y. Vardi
+M. Hall
+Karthikeyan Sankaralingam
+Herbsleb J
+P. Levis
+Abbeel P
+James F. Kurose
+Lee Coraor
+B Sullivan
+Dutt N
+Sanjoy Dasgupta
+I Essa
+M Stilman
+Cao G
+Mossel E
+J Keyser
+Milos Ercegovac
+Barbara E Engelhardt
+K Agrawal
+T Weninger
+D. Chen
+Cole R
+J Canny
+Gomez L
+Sanmay Das
+P. Indyk
+S. Das
+L Wilcox
+A Nandi
+W. Thompson
+P Keleher
+G N Rouskas
+A. Finkelstein
+F B Jr.
+I. Matta
+J Fortes
+Magdalena Balazinska
+Dieter v. Melkebeek
+Thomaz A
+G Schoenebeck
+Brunvand E
+M. Hauskrecht
+Heer J
+Kalantari B
+Press W
+John A Board
+A. Jiang
+Scott C. Schmidler
+T. Weninger
+P. Eugster
+Konstantinos Daskalakis
+M Bellare
+N. Venkatasubramanian
+David Laidlaw
+Georgios Fainekos
+Yunan Chen
+J. Chase
+D. Blaauw
+B. Mozafari
+Demmel J
+Kevin J Compton
+M Heimdahl
+Z. Joseph
+Barbic J
+Anxiao ( Jiang
+D Wallach
+D Padua
+Bravo H
+D Sontag
+R. Bryant
+M. F. Kaashoek
+Ligett K
+Eric V. Wyk
+Karp R
+T Nguyen
+Lovett S
+Theodore Kim
+J. Seiferas
+Xi Chen
+I Krueger
+Nikos Hardavellas
+James Hoe
+D. Fox
+E. Horowitz
+T Ng
+Kohler E
+Cohen W
+Yong Cao
+Berwick R
+L. R Scott
+Janardan R
+K D Cooper
+J Fogarty
+P. Chrysanthis
+L Fortnow
+G Gu
+Subhash Khot
+A. Rakhlin
+Shi E
+B Lucier
+Serge Belongie
+Yiling Chen
+M. Tambe
+Pu C
+Steenkiste P
+L. Pachter
+C. Dwyer
+S M Bellovin
+P Mohapatra
+Alfred V. Aho
+M. Fredman
+John Knight
+Pappas T
+M. Betke
+H Qin
+Fonseca R
+Jiang A
+R. Snodgrass
+Jiang X
+N. Spring
+D Forsyth
+Steven D Gribble
+A. Gottlieb
+Abhishek Bhattacharjee
+Samir Khuller
+J. Aldrich
+Kastner R
+K Yelick
+Atanas Rountev
+Ira K Shlizerman
+K M Patel
+D Clark
+Weinberger K
+Mauro Maggioni
+P. Abbeel
+S Checkoway
+Alok N Choudhary
+R M Gordan
+Andre van der Hoek
+Xue G
+Emily M Provost
+S. Goldberg
+John Guttag
+L. Zettlemoyer
+Sorin D
+K. Aydin
+Benjamin V. Durme
+Scott Stoller
+B. Liblit
+S. Chong
+G. Trajcevski
+Badr H
+Jan M Frahm
+E Jain
+R. Bianchini
+Devavrat Shah
+Tuba Y. Kahveci
+M. Riedl
+Samuel N Kamin
+S C Zhu
+D. Thuente
+Langeveld M
+D. Culler
+Elaheh ( Bozorgzadeh
+M. Levorato
+Christian Poellabauer
+S. Rodger
+Foley J
+Panda D
+J. Cai
+J M Crummey
+J A Fortes
+N. Chawla
+S Madden
+M. Rinard
+Samuel Kamin
+S. Checkoway
+M Vouk
+Welling M
+Waters B
+H. Kim
+Scheidegger C
+Tardos E
+K. Cooper
+J Gehrke
+J. Strother Moore
+Honig M
+V Vianu
+Kessler B
+D. Parker
+D. Parkes
+J Cong
+Ira Shlizerman
+B Zhang
+Alon Orlitsky
+A. Cardenas
+Teng S
+Mutlu B
+William G. Halfond
+M J Irwin
+Chau W Tseng
+Shashi Shekhar
+A Rakhlin
+P Rogaway
+D. Bader
+S Bringsjord
+Mooney R
+Wojciech Szpankowski
+Nitesh Chawla
+Turk G
+Haddad A
+K C Chang
+Turk M
+P Felzenszwalb
+N Minsky
+Dan Wallach
+J Yang
+Ashwin Machanavajjhala
+Deutsch A
+Ian Horswill
+Rose C
+Diao Y
+Cafarella M
+Rose D
+S Raskhodnikova
+Michael Eisenberg
+A H Haddad
+Y Singer
+B. Godfrey
+Pevzner P
+Jonathan Katz
+David Eppstein
+Oded Regev
+Brenna D. Argall
+Daisuke Kihara
+Jimeng Sun
+K Nahrstedt
+R. Rosenfeld
+Thomas R Ioerger
+Perlin K
+J M Wing
+R. Jain
+T Anderson
+D. Moshkovitz
+Whitaker R
+Qin Lv
+W. Steiger
+Michael Dyer
+Dillig T
+Jenkins C
+Berry R
+R Campbell
+Upfal E
+Eun J. Kim
+M. Rappa
+D. Jiménez
+R Janardan
+J. Su
+K Hammond
+S. Collins
+Dillig I
+X C Cai
+Alfred Weaver
+Aaron Clauset
+A. Varshney
+J R Smith
+J. Hirschberg
+Yechiam Yemini
+N. Shroff
+J Hughes
+A. Gray
+Srini Devadas
+M. Plonus
+A Kittur
+Balakrishnan H
+Martin W
+P Schrater
+S. Ram
+Lai T
+R Gupta
+Karrie Karahalios
+C Lu
+Ming D Huang
+F Pfenning
+J Black
+Li Zhang
+Kaufman A
+S Kannan
+Yemini Y
+Umakishore Ramachandran
+Todd Proebsting
+M. Walfish
+Daniel W. Goldberg
+Hava Siegelmann
+Richard Lucic
+C. Lu
+W. Cook
+R. Lipton
+Mary Irwin
+C. Li
+J Lafferty
+Marina Blanton
+Kohno T
+Mahapatra R
+Berg A
+Berg J
+Neumann U
+J Miller
+Berg T
+Doug Tygar
+Kenneth Ross
+Taflove A
+Xiaohui (. Gu
+C Egyhazy
+James C Browne
+Gary M Olson
+L Zhang
+Blaze M
+Damon L Woodard
+S Memik
+A. Procaccia
+Zhang B
+B. Nardi
+Carla Savage
+S. Blanas
+R Geijn
+G Olson
+Wozniakowski H
+D Batory
+Spielman D
+Ramani Duraiswami
+Lazowska E
+R Osuna
+K Perlin
+Li Z
+David Bindel
+R Martin
+A Sinclair
+J Mankoff
+Dieter v Melkebeek
+Li C
+T Dupont
+S. Peled
+John Carlis
+Schubert L
+Richard Stern
+Spring N
+D. Ballard
+Ricardo Gutierrez-Osuna
+Robert F. Murphy
+William Cook
+Blair Sullivan
+Charniak E
+G. Fainekos
+Stephen Edwards
+E Terzi
+S Banerjee
+R. King
+Mary L. Soffa
+F Quek
+A Deshpande
+Daskalakis K
+P C Yew
+Mohammed Zaki
+D. Radev
+Luis Ceze
+S. Jacobson
+Carter L
+Bryant R
+H. Choset
+Jack Poulson
+Ranjitha Kumar
+Bic L
+Eisenstein J
+J Moses
+A Pavlo
+Shaffer C
+K. Ma
+S Guy
+Hava T. Siegelmann
+R. Constable
+Kevin Butler
+Z. Ives
+Björn Hartmann
+Goldstein S
+L V Kale
+Robert Morris
+Stallmann M
+S Navathe
+P Gacs
+Eugene H Spafford
+Alan L Cox
+Mostafa Ammar
+F Chong
+Jason Hong
+Erik Brunvand
+D Micciancio
+Michael Wellman
+L. Akoglu
+Peter Gacs
+Randall Davis
+D II
+Y Qi
+Guibas L
+Yung-Hsiang Lu
+Istrail S
+J E Gilbert
+J Frahm
+Mark S Ackerman
+Jean Gallier
+M Gerla
+M Stallmann
+K. Barnard
+J. McLurkin
+Hardekopf B
+B Kernighan
+Soundarajan N
+Zhuoqing M Mao
+C Yap
+F. Durand
+L. Ortiz
+U. Vazirani
+R Rohs
+Bowman D
+Abraham H Haddad
+Shekhar S
+Lorenzo Orecchia
+J. Tumblin
+Hsu D
+Schneider F
+Ani Nahapetian
+Hsu L
+A. Yadav
+E. Vouga
+Yang Cao
+T Proebsting
+H Zhou
+Isil Dillig
+S Rao
+Adali S
+S Ram
+R Canetti
+Horn D
+M Parthasarathy
+Heath L
+J Sampson
+Chekuri C
+Minsky N
+Minsky M
+Ganesh Gopalakrishnan
+Richard Snodgrass
+J. Kuo
+S J Gortler
+Ernest A. Emerson
+Paul Gader
+Egecioglu O
+Bonnie Dorr
+D Frost
+Gribble S
+Weaver A
+M. Langeveld
+J Kececioglu
+S Kiesler
+Jennifer L. Welch
+S Suri
+Michael D. Smith
+Benjamin Pierce
+Mazumder P
+Palsberg J
+Chen Ding
+Martha Pollack
+Jelani Nelson
+I Chen
+D. Ghosal
+Nyberg E
+A Berg
+Sing H. Sze
+Findler R
+Wenger R
+Daniel L
+A Meliou
+A Richa
+B. Grinter
+J Ja'
+Jun Yang
+B Durme
+Frost D
+Donald B
+C. Johnson
+Doan A
+Y LeCun
+R Zabih
+Gader P
+Belkin M
+J Hammer
+W. Cohen
+Mount D
+Rupak Majumdar
+S. Shekhar
+R Whitaker
+Benjamin Durme
+Henry Tufo
+Hill M
+Itti L
+Hill E
+Robert Rodman
+Brian P. Bailey
+J Sun
+R Mihalcea
+Rui Kuang
+Frederick Brooks Jr.
+Jacob Eisenstein
+Shigang Chen
+Alexei Efros
+S. Chawla
+T Wenisch
+Robert S Amant
+S Skiena
+R. Graham
+Miranker D
+J Davidson
+Mora F
+B Chang
+L. Golubchik
+N V Chawla
+Martin F Colton
+Lawrence Saul
+Y Furukawa
+P Belhumeur
+James F Kurose
+P. Smyth
+T A Hammond
+Furukawa Y
+Hosking T
+Phillip W. Rogaway
+Christos Kozyrakis
+Aditya G. Parameswaran
+Sun X
+T Balch
+Sun J
+C. Hansen
+D. Gusfield
+Richard Anderson
+Lyle Ungar
+B. Argall
+Jingtao Wang
+M. Freedman
+D Panda
+Erickson J
+Alexander J Hartemink
+Hardavellas N
+Sing H Sze
+Belhumeur P
+Warren A. Hunt Jr.
+Riedl M
+Alexei (. Efros
+Laurel Riek
+Collins M
+W C Lee
+O. Widlund
+D. Sicker
+Collins S
+Collins R
+A. Grama
+D. Sanchez
+P. Koehl
+S T King
+M Veloso
+Zittrain J
+B. Hamann
+A Moore
+N. Max
+V. Williams
+Goel A
+A Krishnamurthy
+Kandemir M
+Peter Stone
+Y. Zhang
+R. III
+K. Ogan
+Shen K
+Shen H
+Richard Martin
+Maggioni M
+S. Memik
+Daniel J. Hsu
+Peter M. Chen
+Christine Neuwirth
+Jayadev Misra
+Stefano Tessaro
+B. DiSalvo
+K. Livescu
+P Li
+Neelam Soundarajan
+Ryan P. Adams
+Cook W
+Naik M
+M A Rahimi
+Pfister H
+A. Chakrabarti
+Aarti Singh
+Robert Wagner
+T Reps
+M. Ercegovac
+L B Pitt
+Nersessian N
+S. Jordan
+Alexander Vardy
+Y Choe
+J. Olson
+L. Reyzin
+Joshua Smith
+M. Erdmann
+A Antón
+R. Mooney
+Joel Moses
+S Lu
+Kremer U
+Davidson J
+B. Nath
+M Strauss
+Ben Y Zhao
+Anderson R
+Salil P. Vadhan
+Chakrabarti A
+Y Cao
+H D III
+Davidson S
+Rodger S
+Shenoy P
+M. Hoque
+Pen C. Yew
+O Khatib
+S. McCamant
+C. Wang
+Koenig S
+Eisenstat S
+P. Medvedev
+Pollard N
+Yevgeniy Dodis
+Prabhat Mishra
+Loguinov D
+Richa A
+S Bratus
+P. Cerny
+R. Harper
+J. Browne
+Farsiu S
+D Gracanin
+A Martin
+Appel A
+Arthur Butz
+D. Atkins
+Alexander (. Rakhlin
+James Cohoon
+L Davis
+R A Kemmerer
+Scott Baden
+Alok Choudhary
+P Cousot
+A. Fox
+D. Stotts
+D. Gildea
+W Weimer
+Luke Olson
+J. Miller
+Tulsiani M
+M Fredman
+Medvedev P
+R. Stevens
+H Tufo
+Mahmoody M
+Memik G
+C Zaniolo
+C Faloutsos
+M Chi
+Scott Cutler
+R. Berwick
+Y Yemini
+Nayar S
+David A Patterson
+J C Hockenmaier
+G Tsudik
+K Levitt
+Michel Cukier
+H Rushmeier
+C. McCune
+S. Gribble
+Wiebe J
+Remzi Arpaci-Dusseau
+Jagadish H
+Yun S Song
+Ji H
+Kobsa A
+Y Agarwal
+Zeeshan Syed
+J M Rojas
+Y Song
+D Kihara
+Zaki M
+Mehrotra S
+B P Bailey
+Madhusudan Parthasarathy
+Impagliazzo R
+A Tannenbaum
+Sekar R
+Alan S. Willsky
+Zheng Zhang
+John E Laird
+Francisco V Cuevas
+Satyanarayanan M
+T G Malkin
+S. Saraf
+Freund Y
+L. Blum
+C. Lopes
+Miikkulainen R
+Meera Sitharam
+H T Siegelmann
+X. Li
+Barbara E. Engelhardt
+Kale L
+Tomas L Perez
+Seelig G
+Sariel Har-Peled
+J Cho
+Hartman J
+Greenwald A
+M. Corner
+Premkumar T. Devanbu
+Jimmy Lin
+Spafford E
+S Davidson
+M. Ammar
+V Misra
+L. Wasserman
+Ja' J
+Mark V Langeveld
+D. Sontag
+M. Blum
+Maggs B
+C. Lee
+Camillo Taylor
+David Zuckerman
+Boyer K
+David Cheriton
+Chang S
+B Tidor
+Helal S
+Rogers A
+Rob Fergus
+Anil Kumar Vullikanti
+Christopher Johnson
+Chang B
+K Ligett
+P Dewan
+Stephen A Edwards
+Y Amit
+Chang K
+Y Amir
+Gary Meyer
+M H Wright
+A. Barr
+Scott L
+R. Bajcsy
+A. Barg
+Mathieu Desbrun
+Best M
+S. Hannenhalli
+Thomas Doeppner
+Amos Ron
+K. Palem
+J A Miller
+S Sclaroff
+Colbourn C
+P. Hudak
+Pitt L
+Mor H. Balter
+Goues C
+Sina Farsiu
+M. Wozny
+S. Guha
+Charles Weems
+U Kremer
+Leana Golubchik
+P. Berman
+L Terveen
+Michael Kazhdan
+D. Samaras
+Margo I. Seltzer
+D Suciu
+Saxena A
+A. Sen
+Meenakshisundaram G
+Danfeng ( Yao
+M T Thai
+Z Popovic
+M Colton
+U Cetintemel
+T. Perez
+He T
+A. Rogers
+P M Chen
+Raymond Mooney
+Alvin R Lebeck
+F. Jahanian
+Jie Gao
+Kung H
+M. Waterman
+Niethammer M
+S. Cooper
+Prasant Mohapatra
+Mike Stilman
+L. Trevisan
+Pande S
+S. Lee
+Risi Kondor
+Erik G.L. Miller
+S Ferrari
+T. Jaeger
+Healey C
+Robert Kleinberg
+Rajeev Balasubramonian
+A Joseph
+J O'Brien
+J. Shi
+J Xiao
+R. Teodorescu
+K Ogan
+R. Pless
+Roeder K
+Milena Mihail
+Deborah Estrin
+E Cohen
+G. Hager
+Crary K
+D Guo
+T Milenkovic
+A Venkataramani
+Tom Henderson
+M. Papaefthymiou
+B Levine
+P. Cappello
+Jonathan C Liu
+B. Donald
+S. Mukherjee
+Junghoo (John) Cho
+P Dasgupta
+Wei Wang
+Guestrin C
+Omiecinski E
+Thain D
+Lucier B
+Fei Li
+J. Foley
+Christina M. Gardner-McCune
+R Wolski
+r r choudhury
+James Reggia
+Pavlovic V
+Cao Y
+Karem Sakallah
+Martin Rinard
+Gupta R
+D. Agrawal
+Yi Wu
+Gustavo Rohde
+Deshpande A
+Akoglu L
+J Su
+D. Wood
+D Perlis
+Debra Goldberg
+T Rad
+P. Winston
+I K Shlizerman
+Canetti R
+L Loeb
+Rabi Mahapatra
+J. Keyser
+Ian G Harris
+D. Reeves
+Yun Song
+Subrahmanian V
+C. Ribbens
+J A Halderman
+S. Jarecki
+Ambuj K Singh
+Song C. Zhu
+Keyser J
+K. VanLehn
+Ronald E Parr
+Alan V. Sahakian
+Gabriel Robins
+Thomas L Porta
+M. Frans Kaashoek
+E Gafni
+Emerson M. Hill
+D Stefankovic
+Cem Yuksel
+M P Singh
+Cranor L
+Sadayappan P
+S. Lu
+Jonathan Zittrain
+A. Meyer
+Naftaly Minsky
+B Nelson
+R Burns
+Bruce Childers
+Peter Szolovits
+E. Soloway
+Sidney D'Mello
+D Cash
+Salil P Vadhan
+B Shahbaba
+Chris Re
+Guruswami V
+S Heber
+R Snodgrass
+J. Remmel
+Grimshaw A
+Munindar P. Singh
+Carothers C
+Mahmut Kandemir
+G Plaxton
+Muntz R
+S. Guy
+Ulrich Kremer
+Frank Shipman
+Jarvi J
+Karahalios K
+M Might
+Yuan F Wang
+R. Klatzky
+A Kahng
+Alan Black
+M. Mintz
+J Dorsey
+E Upfal
+D. Brooks
+Sullivan K
+T. Abdelzaher
+Sullivan B
+K. Skadron
+Sabre Kais
+A Cox
+E Vigoda
+S. R Kosaraju
+Rosenblum M
+J Savage
+Lowenthal D
+B Barsky
+S Soatto
+Phillipa Gill
+James Collofello
+D. Abadi
+Mani Srivastava
+Dan S Wallach
+H. Davulcu
+M. Scott
+Maurice Herlihy
+Manuel A.A.P. Quiñones
+Peled S
+M Turk
+Riesenfeld R
+C. Savage
+M Hill
+Ellis Horowitz
+Manuel Bermudez
+M. Flatt
+Boon T. Loo
+R Alur
+K. Nahrstedt
+K. Roeder
+Allison Bishop Lewko
+David Brooks
+E Akleman
+Hooman Mohseni
+J. Huang
+K. McKeown
+Robert Tarjan
+M Shamos
+Hartmann B
+Kazhdan M
+H. Samet
+Osuna R
+D Jackson
+T Ristenpart
+R. Fedkiw
+B C Vemuri
+M. Wright
+Benjamin Recht
+Jernej Barbic
+R Rao
+R Ram
+H. Stern
+Fan Graham
+W R Franklin
+L. Hemaspaandra
+Scott Mahlke
+Wetherall D
+M Horn
+R Miikkulainen
+Kloeckner A
+Hanan Samet
+Ayanian N
+Laszlo Babai
+Maya Cakmak
+Arnab Nandi
+D. O'Leary
+Randy Avent
+Damon Woodard
+Wang J
+Wang H
+Wang F
+Wang D
+Wang C
+L Hsu
+Robert Kraut
+Gal A
+J Y Cai
+Wang Y
+L Kavan
+Wang W
+Richter G
+S H Teng
+E. Adalsteinsson
+E Belding
+Wright M
+Gregory Hager
+Wright S
+Wright R
+John Hartman
+D Ramanan
+G. Morrisett
+Loan C
+Kenneth Stevens
+S Gurumurthi
+Adalsteinsson E
+Prasun Dewan
+Marschner S
+S. Wu
+Steven Feiner
+Do E
+Ninghui Li
+A Vullikanti
+Dennis McLeod
+Jason Mars
+Oskin M
+Shree Nayar
+Wim Dam
+Facundo Memoli
+Thrasyvoulos N. Pappas
+Kedem Z
+D. Litman
+R. Cartwright
+D. Geiger
+David Perreault
+A Labrinidis
+M Rosenblum
+M Young
+J Morris
+Simon J
+B Waters
+Steven M. Bellovin
+B. Scassellati
+D S Reeves
+Victor Shoup
+R Servedio
+Chris M. Jermaine
+J Misra
+Dan S. Wallach
+Shankar A
+S. Hudson
+Luis Gravano
+F Mueller
+Donald P Greenberg
+Perreault D
+D. Estrin
+S. LaValle
+J Mars
+Fred B. Schneider
+D. Boneh
+Weems C
+A. Nakano
+Ali R Butt
+H Schulzrinne
+Andrzej Ehrenfeucht
+J Carlis
+S Teller
+Jackson D
+Rebecca Hwa
+Hal Daume III
+S Tellex
+Parker E
+Xiaohui Xie
+Seth Goldstein
+Munmun D. Choudhury
+C. Cardie
+M Hardwick
+Chee Yap
+Rocco A. Servedio
+Tim Weninger
+M. Marathe
+Baba C Vemuri
+G R Hayes
+Parkes D
+Daniel A Jiménez
+E. Belding
+S P Vadhan
+M Scott
+Choe Y
+G Hayes
+Andre Hoek
+Wayne Snyder
+III R
+Tanimoto S
+S. Hallgren
+Chris North
+Anna R Karlin
+D. Wetherall
+III F
+III J
+Hager G
+III H
+W. Fu
+Melhem R
+Daniel Gusfield
+T Yeh
+G Back
+K Goldberg
+W. Szpankowski
+Bagnell J
+Cohoon J
+Bazzi R
+V Sarin
+Thomas La Porta
+J Foley
+Sebastian Seung
+Munmun D Choudhury
+F Sha
+Thu Nguyen
+S. Shahriar
+S. Edwards
+Marai G
+Margrit Betke
+M. Choudhury
+A. Klappenecker
+Alistair Sinclair
+Emerson M Hill
+Wai T. Fu
+Issac D Scherson
+Cristina V Lopes
+Rob Miller
+Katherine A. Yelick
+M Bond
+A Wierman
+Alan L. Cox
+M Papaefthymiou
+T. Benson
+Frederick Hennie III
+E Miller
+D. Barrington
+M Dahlin
+Zhuoqing Morley Mao
+Servedio R
+James Morris
+Gregory Wornell
+David AM Barrington
+Jon Doyle
+R Furuta
+B Vemuri
+Karrie G. Karahalios
+J F Allen
+Qi Y
+S. Jagannathan
+Dinesh Manocha
+Randal C Nelson
+McCrickard S
+Deepak Ganesan
+Shacham H
+Simon Lam
+Kane S
+Vigna G
+X J Zhou
+John Aloimonos
+Eric Poe Xing
+P Jaillet
+R Cleaveland
+A Barr
+Jeffrey A Miller
+Kirk Cameron
+A Kloeckner
+Kobus van der Merwe
+D. Johnson
+S Debray
+A Barg
+Valerie E Taylor
+Genesereth M
+S Lafortune
+Sugih Jamin
+G. Miklau
+Yury Makarychev
+S. Sahni
+K. Daniilidis
+J Forbes
+Y Papakonstantinou
+K Anderson
+Emily Mower Provost
+Asanovic K
+M. Sudan
+Milos D. Ercegovac
+C Gunter
+D Horn
+J. M. Rojas
+Joachims T
+E. Sifakis
+Gajos K
+V Pai
+Shyam Gollakota
+Smith J
+H Lewis
+A Rogers
+Lance Fortnow
+K Roeder
+Amr El Abbadi
+Gillian R. Hayes
+Andrew Chien
+Gerald F.D. II
+Lou W
+R N Goldman
+E Zadok
+Rakhlin A
+E A Emerson
+M. Furer
+John Lafferty
+R Fonseca
+Helen Nissenbaum
+M. Ahamad
+S Lovett
+W Richard
+D Xuan
+E Olson
+Si L
+J R Kender
+Gu G
+B Prakash
+J Kim
+D Ghosal
+S. Lafortune
+H Stern
+Barrett C
+Tambe M
+A. Kolla
+Gail E. Kaiser
+Padhraic Smyth
+Gu X
+Christos Papadimitriou
+E Brunvand
+Andrew Myers
+S I Lee
+Zilles C
+Fern M
+Kenneth D. Forbus
+R Rubinfeld
+Jesus Izaguirre
+N. Roman
+Prashant Shenoy
+M. Honig
+II G
+Dongyoon Lee
+Vouk M
+Zeeshan H. Syed
+K E Boyer
+J Allan
+Darko Marinov
+Mladen Vouk
+Alan Barr
+Rexford J
+Richard Ladner
+P. Beame
+W C Lin
+Resnik P
+N Sadeh
+Selim Shahriar
+Alfred V Aho
+Michael D Mitzenmacher
+William R Cook
+Kirlik A
+Lixia Zhang
+H. Zha
+D Thuente
+A Dam
+Sherstov A
+Le Song
+Aaronson S
+P Flynn
+Mona Singh
+R. Cleaveland
+V Guruswami
+Orlitsky A
+Srinivasan A
+Ellen Riloff
+Srinivasan K
+A Agarwal
+Nate Foster
+L Rauchwerger
+D Marinov
+David I Zuckerman
+Foster N
+Mark Horowitz
+A. Kittur
+C Guestrin
+J Bagnell
+Jaillet P
+James R Lee
+A Gal
+Barbara J Grosz
+T Sandholm
+Sandu A
+J. Ye
+Zucker S
+Q Stout
+Chow E
+Harry R Lewis
+B L Curless
+D J Rose
+H Zhang
+D. August
+T F Abdelzaher
+R A Rutenbar
+S Fahmy
+L Nakhleh
+C Kingsford
+C McCune
+Vishkin U
+S. Adve
+Worthy Martin
+Manning C
+Angluin D
+Arvind Arvind
+J Tumblin
+P. Domingos
+R Davis
+B Sanders
+Amitabh Varshney
+J Martin
+M. Grayson
+Gill C
+H Perros
+A. Narayanan
+Chaintreau A
+Papakonstantinou Y
+David Blaauw
+Suresh Venkatasubramanian
+Gill P
+William Peake
+Dutta R
+Song Zhu
+M Mohri
+Samuel Wagstaff
+Satish Rao
+Klemmer S
+J Han
+I Matta
+R. Dutta
+T. Milenkovic
+Georg Seelig
+Yung H. Lu
+Shang H. Teng
+Bor Y.E. Chang
+Jinbo Xu
+Jeffrey Eppinger
+Jacob K White
+Lauren Wilcox
+Raghavendra P
+Horwitz S
+Piotr Berman
+Martin F. Colton
+L Carter
+Raghavendra C
+Chen X
+Tedrake R
+Elaheh Bozorgzadeh
+Dana H Ballard
+L. Bic
+B Donald
+Adam Smith
+Chen J
+S Jamin
+Chen H
+Chen I
+S. Kiesler
+Arvind Narayanan
+Jason Hartline
+H. Park
+Chen D
+Sion R
+Kathleen McKeown
+G Yang
+K. Agrawal
+M Neff
+J Waldo
+Hoffmann H
+Annie Antón
+Dipak Ghosal
+A Varshney
+J. Eliot B. Moss
+Markov I
+Piotr Indyk
+K A McMullen
+L. Ruzzo
+Patrick Winston
+R Chellappa
+D Goldberg
+S. Harrison
+D Farber
+M Casey
+K Supowit
+Kevin RB Butler
+W. Tsai
+Rahul Basole
+Sarita V Adve
+Alan S Willsky
+J. Hannan
+Benjamin Langmead
+Ousterhout J
+H G Molina
+W. Lou
+H Jagadish
+Lawrence Rauchwerger
+Thomas Wies
+M. Balter
+B C Lee
+L Gomez
+William H. Press
+Sahni S
+Paxson V
+T. Jaakkola
+Hardwick M
+C Papamanthou
+A Entezari
+M Blum
+Anil Nirmal Hirani
+Wileden J
+Chuzhoy J
+Roberts D
+John Bennett
+Kondor R
+Walfish M
+M O'Donnell
+Kai Hwang
+L. Terveen
+Alessandro Orso
+Moshe Y Vardi
+Amy Ogan
+Shafrira Goldwasser
+Patrick Hanrahan
+Curless B
+Sangyeun Cho
+Shipman F
+Jones J
+J Carbonell
+T. SE Ng
+Phillip W Rogaway
+Richard E Ladner
+D A Jiménez
+Yan Chen
+G Turk
+Langmead C
+Langmead B
+Witchel E
+W C Miller
+Nakano A
+Kemafor A. Ogan
+Lisa Hsu
+L. Loeb
+Joseph Wilson
+Donald J. Rose
+Michael Young
+F P Mora
+R. Chowdhury
+R Bazzi
+T Lenoir
+Ehrenfeucht A
+S Seung
+Rusinkiewicz S
+V. Prasanna
+J. Shewchuk
+Pieter Abbeel
+Carla S Ellis
+Cardenas A
+Alex Kirlik
+John R Kender
+M. Mokbel
+Samuel Madden
+George Kollios
+Rada Chirkova
+Juan E Gilbert
+Zhiyuan Li
+Andy Pavlo
+D. Farber
+O. Mutlu
+Robert A.V.d. Geijn
+Bertacco V
+Daniel E. Atkins
+C. Shaffer
+Etienne Vouga
+Alfonso F Cardenas
+R Bodik
+A. Sandu
+Gollakota S
+Ramamohan Paturi
+L D Wittie
+K Pingali
+A. Hoek
+M Kim
+Larry Birnbaum
+K Chaudhuri
+R. Riesenfeld
+Oliver Cossairt
+Fusheng Wang
+D. S Parker
+S. Mahlke
+Sven Koenig
+J. Forbes
+J. Stasko
+David B. Johnson
+Franklin W
+Joy K
+Dahlin M
+Huijia (Rachel) Lin
+Arunabha Sen
+R Fedkiw
+Zhong Shao
+V Zue
+S. Kim
+Shi Chang
+Krishna V Palem
+K. Candan
+Phillip Rogaway
+Perros H
+M R Watts
+S. Mitra
+Keleher P
+Premkumar Devanbu
+A. Ogan
+Tai S. Lee
+Kubiatowicz J
+Ing Chen
+Stephen Chong
+N Matloff
+Rahimi M
+Nowick S
+R. Anderson
+Alexander J. Hartemink
+Bradley Lucier
+Cutler S
+Robert Soare
+O'Hallaron D
+Radhika Nagpal
+Cutler B
+S Lam
+A. Berg
+T. Malkin
+T. Henderson
+Jeffrey R. N. Forbes
+John H Holland
+D Brooks
+M. Collins
+T. Gonzalez
+Memoli F
+Y Chen
+R Schwartz
+M Langeveld
+Yixin Chen
+Ferris M
+Amant R
+J I Seiferas
+D Durand
+R H Kravets
+Amit Y
+Jason Flinn
+C. Kingsford
+Swift M
+Rob Rutenbar
+Bestavros A
+A. Gandhi
+Steve Gribble
+Henning Schulzrinne
+Gifford D
+Yalin Wang
+Pettie S
+T Gonzalez
+S. Batzoglou
+M Tambe
+J C Lester
+A R Lebeck
+Greg Frederickson
+S F Wu
+C Li
+Robert Sedgewick
+S T Ho
+Parthasarathy S
+Charles Stewart
+Jon Froehlich
+David Mazieres
+M. Hajiaghayi
+V Rokhlin
+J. Froehlich
+R. Calderbank
+Emily M. Provost
+Xavier Tricoche
+S. Vishwanathan
+R. Young
+B. Ryder
+Gary M. Olson
+Daniel Jackson
+C. Papamanthou
+A. Kuzmanovic
+E Brewer
+Ed Lazowska
+Norman D
+Almeroth K
+X Chen
+Mark Braverman
+R Bianchini
+R Rivest
+David Patterson
+Shieber S
+Meyer M
+Venkatasubramanian V
+Jarek Rossignac
+Venkatasubramanian S
+D Chiarulli
+Smaragdis P
+Venkatasubramanian N
+A Bobick
+Raju Pandey
+Filkov V
+F. Shipman
+Bobby (. Bhattacharjee
+J Hayes
+R Young
+Kai Shen
+Mehryar Mohri
+Rodman R
+Debmalya Panigrahi
+Warren AH Jr.
+Benson T
+Y Choi
+E. Riloff
+J. Callan
+M Szegedy
+Mishra P
+Anderson J
+Anderson K
+Xiaojin Zhu
+C. Ding
+Chris Gniady
+Anderson T
+Adnan Darwiche
+Mishra B
+Keith Cooper
+M Levorato
+Ronald N. Goldman
+T Jaeger
+A. Deutsch
+Magda El Zarki
+X Ma
+Papadimitriou C
+Jain E
+Donald Rose
+K. Liu
+A. Gal
+Li Peh
+S. Heckman
+M Ismail
+Jain R
+Shasha D
+Dennis Kafura
+D A Padua
+Yuan Xie
+Venkat Chandrasekaran
+Hakim Weatherspoon
+Seiferas J
+Tai Sing Lee
+Kasim Candan
+Allen Tannenbaum
+Selinski J
+A Singh
+Essl G
+B Shneiderman
+James Waldo
+David Dill
+Zegura E
+Carolyn P. Rose
+G Miklau
+Feniosky Mora
+P Ning
+K. Hwang
+M. Mohri
+Kahng A
+Bystroff C
+S LaValle
+Kostas Daniilidis
+Silvio Savarese
+R Bettati
+Esener S
+Wallach D
+C. Tseng
+Wallach H
+B. Ford
+Daniel M. Gusfield
+Rada Y Chirkova
+R Nelson
+Takeo Kanade
+Stan Sclaroff
+Sudan M
+A Chaintreau
+C. Gill
+W. Halfond
+Robert D. Skeel
+Sanjoy Baruah
+Z Tu
+Torresani L
+Leah Findlater
+I G Pe'er
+S Schaefer
+C. Umans
+K. Stevens
+Y Tamir
+K Jeffay
+S. Greibach
+K. Goldberg
+Edmund Durfee
+J Erickson
+Bor YE Chang
+Konstan J
+Shaun Kane
+M Annavaram
+R. Rodman
+Teodorescu R
+W. B. Croft
+Layne T Watson
+Porta T
+A. LaPaugh
+O. Astrachan
+R. Rao
+Barzan Mozafari
+B Horn
+Hartemink A
+Jih Peir
+S. Thebaut
+Thorsten Joachims
+Daisy Z Wang
+T. S.E. Ng
+M Plonus
+Michael Freedman
+R. Machiraju
+Elliot Soloway
+Mavromatis P
+Razborov A
+Williams L
+Eugene H. Spafford
+Madhu Sudan
+Sheila Greibach
+Magda E Zarki
+C. Healey
+S. Koenig
+G. Elisabeta Marai
+S. Lovett
+Williams T
+Williams V
+Falko Kuester
+G Ganger
+Williams R
+A. Snoeren
+Selmer Bringsjord
+D. Engler
+E Bertino
+Durfee E
+Kulikowski C
+B Dorr
+D Mount
+E H Durfee
+H. Bravo
+Jeanne Ferrante
+Collberg C
+Hopper N
+Weninger T
+Dunsmore B
+C. Lewis
+Robert Collins
+Alvin R. Lebeck
+Haoqi Zhang
+D. Yarowsky
+David Karger
+Ramesh Govindan
+Forsyth D
+J Hartman
+N Hopper
+G. Xue
+A C Snoeren
+Ungor A
+Radev D
+R Cytron
+Stefanie Tellex
+Jaime Carbonell
+D. Sleator
+D Blaauw
+M. Sarrafzadeh
+S Belongie
+Bertram Ludaescher
+Franklin M
+Seng-Tiong Ho
+Baba C. Vemuri
+Christian Collberg
+Franklin C
+A. Sherstov
+C Kulikowski
+Samuel Buss
+William J Stewart
+Nick Feamster
+Faloutsos C
+Y S Song
+Blair MacIntyre
+Schmid T
+James Fogarty
+Scheines R
+S. Klemmer
+H V. Jagadish
+H Shen
+Wei T. Tsai
+D. Rubenstein
+J. Zico Kolter
+H. Fuchs
+J R Forbes
+B Grinter
+Charles C. Weems
+Michael L Overton
+P. Dinda
+Zahran M
+E Spafford
+J Callan
+K A Ogan
+Vijaykumar T
+Youtao Zhang
+K Weinberger
+T Millstein
+Bertino E
+Vullikanti A
+Dvir Z
+A Sahai
+J. White
+Miodrag Potkonjak
+W T Fu
+M. Atallah
+M. Farrens
+E Lazowska
+Stephen Kobourov
+J S Moore
+B. Kuipers
+J. Eisenstein
+P Allen
+S Zilberstein
+N Pollard
+W Dam
+K. Jeffay
+Yusu Wang
+Lipton R
+L J Schulman
+Yang R. Yang
+Dorr B
+E. Gilbert
+Patterson D
+M. Rosenblum
+M. F Kaashoek
+Richard Vuduc
+Tannen V
+J L Gross
+A. Butz
+Cox L
+Patterson S
+S Vempala
+M Wozny
+Cox D
+Cox A
+A. Butt
+Might M
+Zha H
+D. Ganesan
+L. Pitt
+L. Carloni
+W G Halfond
+David Kriegman
+Yan X
+Reggia J
+N. Zeldovich
+K. Almeroth
+W T Tsai
+S Esener
+choudhury r
+R A Grupen
+Aloysius K. Mok
+Tracy A. Hammond
+R. West
+Webb C Miller
+Caesar M
+Sidiropoulos A
+C. Yuksel
+S. Kosaraju
+Trent Jaeger
+C Peng
+D. Grunwald
+D. Mazieres
+E Grigorescu
+J. Lee
+B. Sullivan
+K Sankaralingam
+N. Hopper
+Brunskill E
+U. Neumann
+Peter K Allen
+R Collins
+F. Kuester
+M. Oskin
+I Tagkopoulos
+L Golubchik
+Joel I Seiferas
+Bassett E
+V. Jojic
+A. Razborov
+Cheriton D
+T A Davis
+Widom J
+C Fowlkes
+Ali Farhadi
+K. Shin
+Michael Watts
+Elizabeth Belding
+M. Braverman
+A McCallum
+Ashok Agrawala
+Chen Li
+M Atallah
+J Spencer
+Timothy A. Davis
+Shuchi Chawla
+I. Stoica
+P. Sadayappan
+V. Ramachandran
+J Lawrence
+B Zhao
+R Arkin
+D. Gleich
+Lee S
+C T Franklin
+D Kifer
+Lee T
+H Kim
+Alexey V Onufriev
+Chenyang Lu
+I. Markov
+Martin Colton
+Lee C
+Lee B
+Elaine Shi
+Deng J
+Lee D
+Lee J
+Daniel S Hirschberg
+Lee H
+Lee L
+E Todorov
+Mutlu O
+Zhuoqing M. Mao
+Lydia Kavraki
+Batzoglou S
+A. Akella
+McMillan C
+My T. Thai
+Chee K Yap
+Mohamed Gouda
+E. Jessup
+McMillan L
+H Xu
+G Borriello
+B E Engelhardt
+R. Williams
+X Liu
+Morteza Amir Rahimi
+Sarrafzadeh M
+H Xi
+F. Pfenning
+Phillips J
+J. Kleinberg
+Milanova A
+David L. Roberts
+C. Chekuri
+Y Freund
+U Vazirani
+B. Póczos
+John Keyser
+Shaw M
+H Lin
+Sudipto Guha
+G. Abowd
+Carlis J
+Durme B
+Munindar Singh
+G M Olson
+D Hoiem
+Derek Hoiem
+James Martin
+T. Ristenpart
+Joe Zachary
+D. Panda
+Clark Barrett
+Mike Kirby
+Christina McCune
+H Liu
+Hoque M
+Kristy E. Boyer
+Pasquale J
+Steven Low
+S Saraf
+A. Dobra
+L Adleman
+Tina Rad
+A Ames
+S. Prabhakar
+Skadron K
+Carla D. Savage
+R Korf
+G. Rohde
+Scott Schaefer
+C. Ramakrishnan
+Baba Vemuri
+R. Sedgewick
+Richard Newman
+B Marlin
+Su J
+Elena Grigorescu
+Fabin E. Bustamante
+Ashok Goel
+A. Hirani
+Su Z
+Peter Scheuermann
+Flynn P
+W Croft
+Breuer M
+E. Clarke
+Lior Pachter
+Emerson Hill
+Subhasish Mitra
+Mihalcea R
+Warren J
+F Kuester
+Caverlee J
+B. Pierce
+R. Collins
+N. Papanikolopoulos
+H. Elman
+Zhaixia Yu
+Val Tannen
+L Xia
+Shenker S
+M. Kellis
+P. Allen
+Zuckerman D
+J Mitchell
+D Samaras
+Issac D. Scherson
+Charles I Jr.
+Elgammal A
+Michael Waterman
+Thrun S
+Cline A
+J. Lopez
+M Sitharam
+Adleman L
+M Overton
+M. Krishnamoorthy
+Siewiorek D
+J. Shavlik
+Calderbank R
+Shoup V
+T. Chen
+D Sanchez
+Leonard Adleman
+T Hammond
+Hal Abelson
+A. Nenkova
+B Berger
+Etzioni O
+Nickolai Zeldovich
+S Batzoglou
+Donald Greenberg
+D Ganesan
+S Bellovin
+Anthony Joseph
+Devin J. Balkcom
+F. Jr.
+Vivek Sarkar
+B. Pardo
+Tomas Lozano-Perez
+Thomas Fletcher
+N Shavit
+G. Richter
+S B Davidson
+B. Chazelle
+Tricoche X
+K Munagala
+K S Trivedi
+Aho A
+M Ercegovac
+A E Abbadi
+P. McDaniel
+Thomas Ioerger
+A Ehrenfeucht
+L. Olson
+Steven M LaValle
+Jih K. Peir
+D. II
+Klaus Mueller
+T. Sandholm
+Randy Katz
+R. Eglash
+Roy H. Campbell
+K. Perlin
+S Sethumadhavan
+Eppstein D
+J Zachary
+T. Cormen
+Allison B Lewko
+S. Saria
+Taylor C
+Roberta Klatzky
+R. Olsson
+John E. Hopcroft
+Sontag D
+Joshua R Smith
+Raluca Gordan
+John Holland
+L Findlater
+Andrea Arpaci-Dusseau
+R. Jhala
+B Y Zhao
+J Davis
+Coraor L
+M Snir
+Randy H. Katz
+M. Might
+Ira K. Shlizerman
+Roger Chamberlain
+Derek W. Hoiem
+B Pierce
+B Loo
+Ananth Grama
+Prins J
+Matthew Farrens
+M Stone
+Aniket Kittur
+T. Yang
+Ben Zhao
+Edward Fox
+E. Sirer
+G Kesidis
+D Comer
+Z. Kedem
+Beki Grinter
+E. Brewer
+Daniel Spielman
+Rajeev Alur
+Vazirani V
+Chung C Lee
+Shwetak Patel
+Vazirani U
+P. Agarwal
+D Yeung
+Krueger I
+Poellabauer C
+Jieping Ye
+Bradley Calder
+G. Sohi
+M Carey
+A. Kundaje
+Tilevich E
+H Chen
+A. Liu
+Matt Mason
+John Tsitsiklis
+Stuart M. Shieber
+Betsy DiSalvo
+M. Cukier
+S. Farsiu
+Aditya Akella
+Richard T. Snodgrass
+Leman Akoglu
+W Franklin
+Joseph Y Halpern
+E Sirer
+A Aho
+Daniel D Sleator
+Xiao C Cai
+D Barrington
+Ellis C
+K D Forbus
+M Kearns
+L. Ungar
+M. Littman
+Stolfo S
+Tyson Condie
+Andrew Moore
+D Parkes
+D Parker
+G Sukhatme
+S. Wagstaff
+Feigenbaum J
+Marco Caccamo
+C. Brown
+B. Horn
+A V Aho
+W. Dam
+Ronald Rivest
+D. Balkcom
+P. Gader
+R. Goldman
+C. North
+Eppinger J
+Kamin S
+Trajcevski G
+Francois Gygi
+C Rotaru
+Johannes Gehrke
+Buss S
+Carla D Savage
+Lester J
+Nau D
+E. Sudderth
+P. Dourish
+R. Paturi
+Yoav Shoham
+R Gordan
+Elmagarmid A
+S Klemmer
+E. Berger
+S. Devadas
+S Reiss
+D. Padua
+A Helmy
+E. Gehringer
+Martin Strauss
+Taylor V
+A Parameswaran
+Cauligi ( Raghavendra
+R. Johnson
+S Sankaranarayanan
+Sturton C
+Naughton J
+S. Amarasinghe
+J C Hoe
+S. Chaudhuri
+Chau Tseng
+John Hollerbach
+David Roberts
+Thomas Vidick
+Chandrasekaran V
+Balter M
+M. Dillencourt
+P Kumar
+Adams R
+Mark Hill
+Majumdar R
+Robert Cartwright
+A. Aiken
+M Goodrich
+L Wasserman
+Karem A Sakallah
+A Rao
+David L. Dill
+D. Yeung
+Bill Dally
+Donald Loveland
+D Wood
+W. Gasarch
+Alexis Battle
+G. Gu
+Hammond K
+M Swift
+Hammond T
+Feamster N
+Stephen M. Thebaut
+Freedman M
+John Zimmerman
+Dam W
+Assaf J. Kfoury
+A Sidiropoulos
+M Lin
+Rao R
+Lebeck A
+A. Yuille
+S. Zdancewic
+Michael J Carey
+Keromytis A
+Clark D
+M Potkonjak
+R. D'Souza
+Omer Egecioglu
+Dam A
+Alex Berg
+A Nakano
+C Wang
+T. Breaux
+Peh L
+L Subramanian
+J. Carrasquel
+Matt Blaze
+Seitz S
+R. Bettati
+Amelie Marian
+J Moore
+Christopher Healey
+Christopher Umans
+Gillian Hayes
+D Rubenstein
+E. Chow
+X Yang
+Lorenzo Alvisi
+J Zittrain
+J Shavlik
+Gordon SN Jr.
+M Erdmann
+Tetali P
+Erin Parker
+Jonathan L Gross
+Rao A
+Huan Liu
+James A. Fogarty
+Irwin M
+Leonard J. Schulman
+Malik J
+Jennifer Welch
+S Nagarakatte
+Lee W
+R Reddy
+R. Fujimoto
+Carla Ellis
+Haeberlen A
+Anil N Hirani
+Ryan Kastner
+Paul Valiant
+Michael Ferris
+Beame P
+Michael Taylor
+Michael J Cafarella
+Dyer M
+R ' Cartwright
+K Carley
+Chris C. Burch
+Ram S
+Ram R
+Datta A
+Jack C Wileden
+Daniel Siewiorek
+Charles I. Jr.
+Russell S
+Lee A
+N Amato
+D Evans
+Rohde G
+Seung S
+D X Xuan
+M Wright
+M Balcan
+Margaret Wright
+C. Kruskal
+Gaurav S Sukhatme
+A Hero
+Michael Neff
+Lorenzo Torresani
+Osman Balci
+R. Amant
+J. Hendler
+H Siegelmann
+Kevin Chen-Chuan Chang
+Lee I
+S Hallgren
+Ethan Katz-Bassett
+E. Kim
+L. Torresani
+Daniel A. Spielman
+V Shoup
+Nissenbaum H
+I. Harris
+Liblit B
+S. Rao
+Song Y
+Seng T. Ho
+P Mazumder
+Prvulovic M
+M Humphrey
+David A. Mix Barrington
+Song L
+K. Pruhs
+Song D
+F F Li
+Ketan M. Patel
+Chau-Wen Tseng
+Dennis Bahler
+Barg A
+J. Kececioglu
+Gropp W
+Susan Hohenberger
+Joseph Distefano III
+A. Sahakian
+Robert Kass
+A. Krishnamurthy
+J. Selinski
+S Pande
+M Grayson
+Lewko A
+Thomas H. Cormen
+Wm. Franklin
+D. Ramanan
+Ping Li
+Jignesh Patel
+Monrose F
+Michael Fischer
+Ernest Allen Emerson
+T Kohno
+Michael Bond
+L. Si
+F. Mueller
+David Stotts
+J E Hopcroft
+H Badr
+L. Zhang
+Yeung D
+Emily Provost
+R Joseph
+Abdelzaher T
+Ye Xia
+Tamassia R
+Shi-Kuo Chang
+Richard A. Lucic
+Zimmerman J
+J Hannan
+Sarkar V
+R Sion
+Aldrich J
+Tom Anderson
+B A Prakash
+M Pop
+Gusfield D
+A Guha
+Sahai A
+Mark D Hill
+Silvia Ferrari
+R. Brown
+Alexander Barg
+J. Siskind
+L. Rademacher
+A Hilton
+Kennet I. Joy
+Jeffrey Forbes
+Joel I. Seiferas
+Su I. Lee
+Wim v Dam
+M Krishnamoorthy
+Krishna V. Palem
+Malkin T
+Lopez A
+Samaras D
+Khan Z
+Khosla P
+Gunter C
+Sariel Peled
+C Caldwell
+Waldo J
+Douglas Thain
+T Roughgarden
+Tim Kraska
+Olson L
+Sunil Prabhakar
+Olson J
+Olson E
+Olson G
+M. Potkonjak
+Devin Balkcom
+Durand D
+Durand F
+Patrick D McDaniel
+Chase J
+Roni Rosenfeld
+E Paulos
+Wenisch T
+J Wileden
+Vuduc R
+Zdancewic S
+J. Savage
+Robert L. Constable
+Larry D. Wittie
+Adrian Sandu
+Tapan S. Parikh
+Tony Jebara
+J. Purtilo
+M Palmer
+D. Shell
+A. Veidenbaum
+Mohapatra P
+J Smith
+Jordan M
+Jeff Heer
+Yue Y
+A. Wierman
+Agrawal D
+Agrawal G
+Rezaul Chowdhury
+A J Martin
+George Verghese
+Jordan S
+I. Rhee
+Agrawal K
+Braverman V
+W J Stewart
+Ribbens C
+J Forlizzi
+A Klivans
+Dhabaleswar K( Panda
+Eric Gilbert
+T. N. Vijaykumar
+K Aydin
+Zhi L Zhang
+Walid Aref
+Pearl J
+D. Loveland
+Ernest Davis
+P Downey
+Ying Wu
+M Kazhdan
+A. Venkataramani
+S. Dow
+R Geambasu
+Alan K Cline
+Daniel P. Huttenlocher
+Lubomir Bic
+John Kender
+J. A( Bagnell
+James H. Waldo
+Alfred Aho
+D Lee
+Pedro Domingos
+S. Venkatasubramanian
+J C Wileden
+Porter A
+Browne J
+Porter D
+My Thai
+Christian Kästner
+Ceze L
+J Allen
+Regan A
+A Lastra
+Hirschberg D
+Hirschberg J
+Guido Gerig
+Stephen Lu
+Sheldon D
+John H. Hartman
+Shaundra Daily
+A Greenwald
+V Syrotiuk
+M Dredze
+G S Jr.
+M Balter
+Martin Berzins
+A Smith
+Vladimir Pavlovic
+Y Dodis
+Carroll J
+C. Jung
+Shih F Chang
+Sonia Fahmy
+S Mehrotra
+R. Melhem
+Eun J Kim
+B Póczos
+D K Panda
+C Goues
+Fleischer L
+I R Chen
+Gerig G
+Y Zhou
+I. Davidson
+M. Humphrey
+E Roberts
+S Wagstaff
+Snavely N
+Feniosky P Mora
+Kwan Ma
+S. Lerner
+Balasubramonian R
+Hui Zhang
+I Pe'er
+Gunawi H
+C Healey
+H. Hirsh
+M. Neff
+Palmer M
+James Lester
+Kevin Chang
+Y Wang
+Fei Sha
+Lenhart K Schubert
+Dawn Song
+W Feng
+S. Stoller
+P Indyk
+Alan K. Cline
+Barzilay R
+M Breuer
+S Kobourov
+Machiraju R
+B. Aditya Prakash
+Saria S
+Dasgupta S
+Jose Meseguer
+Wenjing Lou
+A Schliep
+Orso A
+O. Troyanskaya
+Daniel A Spielman
+Bringsjord S
+D Greenberg
+Jan Frahm
+Shapiro L
+M. Medard
+Gevorg Grigoryan
+Mukkai Krishnamoorthy
+Zoran Popovic
+John Hart
+Andrea Dusseau
+Anselmo Lastra
+S Low
+C Atkeson
+Leonard J Schulman
+Karem A. Sakallah
+Michael T. Goodrich
+Jih K Peir
+Bhargava B
+Noah Snavely
+J ( Sampson
+Edward A. Fox
+W Fu
+K. Shen
+A. Haddad
+G Sapiro
+Halderman J
+Razeghi M
+Cleaveland R
+A. Weaver
+D Yarowsky
+Jason Ernst
+Eakta Jain
+Roth D
+Dey T
+Kenneth Supowit
+Forbus K
+C. Hoffmann
+Dey A
+L Saul
+Tellex S
+G Agha
+J Poulson
+Randal Burns
+Rosenfeld R
+Yisong Yue
+John P Hayes
+Brian Barsky
+B Mishra
+A. Kobsa
+Steurer D
+Christopher M Brown
+G. Medioni
+William Halfond
+V. Kumar
+Richard W
+L. Heath
+Kilian Weinberger
+J. Carbonell
+Alok N. Choudhary
+Zilberstein S
+D Subramanian
+Martonosi M
+Benjamin Van Durme
+T Kahveci
+M E Hoque
+M S Waterman
+Christina M.G. McCune
+R Impagliazzo
+Donald F Towsley
+H Hoffmann
+D Johnson
+H. Jagadish
+Zorin D
+D. Dobkin
+Robert S. Amant
+Michael Rappa
+L Petzold
+J. Fortes
+D Kozen
+Aaron Bobick
+J. Aspnes
+Christina MG McCune
+J Cai
+D Brumley
+P Gill
+Ellen Do
+Steven M Bellovin
+W Cook
+G Jr.
+Chad Jenkins
+Dexter Kozen
+Layne Watson
+D Tullsen
+J Torrellas
+David Gelernter
+John H. Holland
+David S. Johnson
+T Starner
+Lewis H
+A K Singh
+A Agrawala
+Lewis C
+Z. Zhang
+Ben Hardekopf
+Holland J
+Carlo Tomasi
+Xiangyu Zhang
+R Goldman
+Ketan M Patel
+S V Adve
+Lazebnik S
+Poulson J
+C. Gunter
+Ranjit Jhala
+Daniel Sanchez
+Dodis Y
+Hearst M
+Matthew A Bishop
+V Braverman
+J. Kolodner
+Shavlik J
+Cooper K
+Ackerman M
+T S Lee
+H Levy
+Steven Nowick
+Wayne Hayes
+R Guerin
+Amarasinghe S
+M. Meyer
+R Sedgewick
+William Freeman
+D. Kozen
+S Jagannathan
+N. Nersessian
+Ding C
+Henry Levy
+Norman S. Matloff
+M Marcus
+Duraiswami R
+Orailoglu A
+Y Wu
+Dow S
+D Engler
+Tom M. Mitchell
+Gerald Sussman
+S. Patterson
+G. Frederickson
+A. Kahng
+M. Gerla
+Yang J
+Todd A. Brun
+Yang G
+Yang Y
+Yang X
+Joseph F Traub
+Y Ahmad
+Yang T
+P Shenoy
+Yeh T
+Jyh Liu
+Ng T
+Mohammad Mahmoody
+D Bindel
+Ng A
+Baveja S
+M. Pop
+Jacobo Carrasquel
+Katherine A Yelick
+H. Zhang
+S Zdancewic
+Dana Angluin
+E. Parker
+J. Herbsleb
+J. Nelson
+B Noble
+Waibel A
+Aviel Rubin
+Gonzalez T
+Andre Platzer
+E. Xing
+S. Avestimehr
+Ron Eglash
+E. Bertino
+R. Hwa
+Manuel E. Bermudez
+A Mathur
+C. Sturton
+J Guttag
+Pedro Felzenszwalb
+Brooks D
+Jessuca Utts
+Póczos B
+Anthony L
+S. Ferrari
+A. Appel
+S Devadas
+R Berry
+Chris Peikert
+Aref W
+Kaur J
+L Ungar
+Joseph Traub
+J. Reif
+Shree K. Nayar
+A Dobra
+J Hong
+Bekris K
+M Genesereth
+J Appavoo
+Jagannathan S
+Hudak P
+A. Roth
+E Grinspun
+D. Roth
+A. Hartemink
+A. Kirlik
+Nahrstedt K
+S R Kosaraju
+S Rudich
+Leonard B Pitt
+Pai V
+Lars Arge
+R Ladner
+David Chiang
+C. Bregler
+Michael S. Waterman
+Jonathan C. Liu
+Sarpeshkar R
+Casimir Kulikowski
+Stark E
+P. Tetali
+M. Swift
+G Abowd
+Zhaojun Bai
+S. Rudich
+Endert A
+Khuller S
+Michael Overton
+R. M Young
+V Vapnik
+Z. Yu
+S Basu
+Stewart W
+S. Esener
+A. Elgammal
+Prakash B
+A N Hirani
+Andrew Appel
+J. Wilson
+S. Kambhampati
+I. Lee
+X. Xie
+Stanley C. Eisenstat
+Heather Zheng
+Berthold Horn
+Mitzenmacher M
+Srebro N
+E. Jain
+David Horn
+P. Valiant
+A Bestavros
+D A Forsyth
+R Duraiswami
+F III
+D Hsu
+S Peled
+S Harrison
+L. Guibas
+C Neuwirth
+D. Porter
+M G Dyer
+G. Rosu
+Kunal Agrawal
+Weatherspoon H
+M Mihail
+M Bishop
+Stefan Savage
+Steinberg L
+Eun Kim
+D Z Wang
+Mark Van Langeveld
+E K Bassett
+Matthew Stone
+Donald Bitzer
+D. Tatar
+Aaron Ames
+Shih-Fu Chang
+Donald Patterson
+Kevin J. Compton
+J Reif
+M Kao
+Peter Downey
+S. Schaefer
+Ian Harris
+Gregory Shakhnarovich
+Sarita V. Adve
+Hilton A
+Bonnie Berger
+Robert St. Amant
+L. Shapiro
+D. Guo
+B. Tidor
+L. Valiant
+N Ayanian
+I. Essa
+Wei-Chung Lin
+Paris Smaragdis
+T Vijaykumar
+Aloysius Mok
+P. Li
+Frederick III
+Kolter J
+Clayton Lewis
+Patrick J. Flynn
+M Prastawa
+K. Asanovic
+Joel Seiferas
+Mark Goldberg
+Gallier J
+R. Stern
+Venkataramani A
+S. Savage
+L E Kavraki
+A. Nandi
+A. Lopez
+Requicha A
+G. Bejerano
+Douglas Sicker
+I Lee
+Rushmeier H
+Murali T
+T Mowry
+E Adalsteinsson
+Trevor Mudge
+Joseph J. Ja'
+Fortes J
+R P Adams
+Changxi Zheng
+Max Welling
+Scott Hudson
+Ronitt Rubinfeld
+L Tang
+R. Stoleru
+M. Quiñones
+Terzi E
+Caccamo M
+J Wing
+Argall B
+McLurkin J
+C. Colbourn
+Richard Brown
+Kulis B
+J Srivastava
+A Ozdaglar
+Teneketzis D
+X. Chen
+Samuel T King
+N Srebro
+Thuente D
+Z. Syed
+James Landay
+J Zahorjan
+J. Maurice Rojas
+Risto Miikkulainen
+Maja Mataric
+Allender E
+Laxmikant Kale
+A U Shankar
+Peter Dinda
+D Roberts
+Karl N Levitt
+William GJ Halfond
+Stoller S
+C. Scheidegger
+Zhai C
+Marathe M
+Abadi D
+J. Z Kolter
+Harry Lewis
+Scott Schmidler
+Voelker G
+M Collins
+H Esmaeilzadeh
+Weld D
+Ranka S
+Callan J
+Ann Eisenberg
+V Filkov
+Laura Dabbish
+L. Anthony
+A ( Efros
+Steve Harrison
+K Sakallah
+W H Press
+Vincent Freeh
+Andreas Kloeckner
+L. McMillan
+S. Ho
+G E Marai
+D O'Hallaron
+Xiaodong Zhang
+L Coraor
+F Monrose
+Tracey C. Ho
+Bart Selman
+Medard M
+A. Arora
+Paul S Rosenbloom
+K Grauman
+J. Hammer
+Kao M
+J. E.B. Moss
+M Taylor
+J. Hoe
+Y Yue
+L Hemaspaandra
+P. Belhumeur
+Tarek F. Abdelzaher
+Livny M
+Boneh D
+Bobby Bhattacharjee
+S McCrickard
+C. Collberg
+Tom Mitchell
+Nancy M. Amato
+Malik Ismail
+Richard DeMillo
+C Riesbeck
+Chi-Haur Wu
+Gaurav S. Sukhatme
+Alexandros Labrinidis
+Koehn P
+Cristina Rotaru
+O. Cossairt
+Matthew Might
+Khatib O
+B. Prakash
+Sakallah K
+Srikumar V
+Shih F. Chang
+F H III
+O. Balci
+R Rodman
+Sumner T
+Tiffany Barnes
+B Engelhardt
+K. Compton
+David Steurer
+R Cartwright
+Joan Feigenbaum
+Amit Chakrabarti
+Benjamin C Lok
+N. McKeown
+M Betke
+Ramamoorthi R
+Barlow J
+Torrellas J
+John Hughes
+William J. Stewart
+Y Yu
+W A Jr.
+D Abadi
+P W Rogaway
+D. Wang
+Stein C
+Nevatia R
+J. Deng
+M. Belkin
+N. Navab
+Jun Xu
+Shrikanth (S Narayanan
+R L Bryant
+Mudge T
+C Burch
+Vapnik V
+Danny Chen
+Eleazar Eskin
+M. Tompa
+G. Ateniese
+Redmiles D
+Reppy J
+F Jr.
+Kevin Compton
+R Soare
+B Langmead
+Kraut R
+D. Redmiles
+Hirsh H
+V Srikumar
+W. Griswold
+Richard A. Kemmerer
+Seth Pettie
+H. Lewis
+K. Knight
+Lui Sha
+D Isaacson
+Kemafor A Ogan
+Daniel Goldberg
+J Gilbert
+Ariel Procaccia
+Vincent W. Freeh
+Shubhangi Saraf
+A Orso
+William Steiger
+Oard D
+David E. Kieras
+R. Skeel
+W. Lloyd
+J. Caverlee
+K. Levitt
+Aditya Mathur
+K R Butler
+Nenad Medvidovic
+Nicolau A
+C Dovrolis
+Kristen Grauman
+M Reiter
+Joseph F. Traub
+M. Smith
+A. U Shankar
+Zhi Zhang
+Andruid Kerne
+D E Culler
+X Sun
+C. Rose
+Papaefthymiou M
+Yu M
+Laidlaw D
+Yu Z
+P Raghavan
+Yu Y
+Cauligi Raghavendra
+Flatt M
+Avi Silberschatz
+Margaret Martonosi
+Yu T
+Egyhazy C
+P. Yew
+L. Kavraki
+Tasdizen T
+A V Onufriev
+Steve Skiena
+Hovav Shacham
+Y. Saad
+Mary L Soffa
+Daniel P Huttenlocher
+K. Srinivasan
+Kempe D
+M. Cakmak
+S Kambhampati
+Nir Yosef
+Leonidas Guibas
+M. Taylor
+Munmun Choudhury
+M Berzins
+Xiaohui Gu
+Jeffay K
+D Roth
+Juliana Freire
+A. Kloeckner
+Larry Davis
+D. Shasha
+Mazieres D
+P Yew
+Peter Wonka
+Dill D
+Tao Yang
+Fong S
+D. Tullsen
+Alexander J Smola
+A Lo
+G Robins
+L Osterweil
+Mario Gerla
+Carolyn Penstein Rose
+Michael L. Overton
+Babu S
+H Abelson
+M Charikar
+S Seitz
+Christopher M. Brown
+Shi K Chang
+D Shell
+Anand Sivasubramaniam
+N Dutt
+W Gray
+Levorato M
+Prastawa M
+Shi J
+Ramana Kompella
+R Nevatia
+Carlo Zaniolo
+Hannan J
+M Hicks
+Shi Y
+F. Cuevas
+A Sussman
+D Sheldon
+Gary Miller
+Guha A
+Gerasoulis A
+Dwarkadas S
+C M McCune
+David Bader
+K Pruhs
+Richard Fujimoto
+L T Watson
+J Feigenbaum
+E. Brunvand
+C S Chekuri
+M. Arbib
+Pachter L
+Sing-Hoi Sze
+M. Livny
+Bernd Sturmfels
+Sacks E
+A. Orso
+Martin R
+J Hockenmaier
+T Jaakkola
+A. Chien
+A LaPaugh
+Fredman M
+R Rutenbar
+Martin A
+Klivans A
+D. Heckerman
+S Marschner
+K. Chaudhuri
+Martin J
+Martin M
+S. VN Vishwanathan
+R. Reddy
+Dongning Guo
+S. Katti
+A Silberschatz
+S Shenker
+Greg Ganger
+M Eisenberg
+Gerard Richter
+W Steiger
+S. Ward
+Franz M
+David E Kieras
+G Reinman
+D. Patterson
+D C Parkes
+Michael Dahlin
+R. Tibshirani
+E Emerson
+J. Malik
+I. Krueger
+Alexei (Alyosha) Efros
+B D Sullivan
+A Kerne
+Shang Teng
+K Merwe
+David Heckerman
+Blelloch G
+G. II
+Charles Colbourn
+Aleven V
+W Lin
+Y. Furukawa
+D. Walker
+P J Downey
+Gordon Jr.
+R. Kemmerer
+D J Balkcom
+Amr E Abbadi
+Mohammad Hajiaghayi
+P. Resnik
+G Necula
+E Kim
+Luis Ortiz
+A. Hilton
+McCune C
+Ronald Parr
+R. Tedrake
+Prem Kumar
+Schneider M
+Weixiong Zhang
+Todd A Brun
+Wyk E
+J. Harer
+James Lee
+C. Wu
+C Weems
+Guohong Cao
+B Maggs
+Mohri M
+Horowitz E
+K. Sankaralingam
+V.S. Subrahmanian
+Stuart Kurtz
+Horowitz M
+Arkin R
+Levine B
+Barry Boehm
+D Miranker
+Eli Tilevich
+Divyakant Agrawal
+L Williams
+Aloimonos J
+Steve Collins
+Kaiser G
+Robert Pless
+J. Gao
+Battle A
+C Lewis
+D'Souza R
+Amy Greenwald
+Venkatesan Guruswami
+Kurt VanLehn
+A Darwiche
+Wei C. Lin
+Tim-Ting Chen
+Charles Leiserson
+R. Daley
+William Thompson
+G. Borriello
+Henderson T
+Nitesh V. Chawla
+R King
+S. King
+Eli Upfal
+Linda Petzold
+Koller D
+Craig Henriquez
+S Swanson
+G Seelig
+K. Patel
+Arvind
+A. Bhattacharjee
+Gill Bejerano
+Kyla A McMullen
+D. Yao
+Choudhary A
+C Leiserson
+J Wang
+R. Soare
+M Quiñones
+R. Urtasun
+B. Bederson
+Kobourov S
+J. Han
+Fabin Bustamante
+F Qin
+Scott Aaronson
+Eric Nyberg
+Brian Nelson
+A. Singh
+David A. Patterson
+James McLurkin
+Yadav A
+S. Kane
+I. Shlizerman
+Michael Goodrich
+Kane D
+C. Langmead
+Roy Campbell
+X Gu
+D. Comer
+L Henschen
+V K Prasanna
+L Itti
+R. Kass
+N Smith
+Amr Abbadi
+G Gopalakrishnan
+Daniel Weld
+Eric Lussier
+II D
+C. Stultz
+Gibson G
+James C Hoe
+Quinlan A
+S Thebaut
+John Lange
+R. Wang
+Jarecki S
+S J Stolfo
+M D Smith
+David Culler
+M Minsky
+K. Pingali
+T Znati
+Roth A
+Jojic V
+Brian P Bailey
+C. Leiserson
+R. Rutenbar
+Ugur Cetintemel
+Crummey J
+Hohenberger S
+Paul Barford
+Jim Davis
+C. Gomes
+Arvind Krishnamurthy
+S Patel
+Kevin Fu
+Roberts E
+Jeffrey Hollingsworth
+W Stewart
+A. Schliep
+R. Kuang
+B. Shneiderman
+Melkebeek D
+Rojas J
+S. Reiss
+G. Seelig
+Rojas M
+Dragomir Radev
+Dina Katabi
+Sha F
+Bai Z
+Patrick G Traynor
+Sha L
+Christensen H
+S H Edwards
+James A. Jones
+Bond M
+L Cranor
+J. Kaur
+Koushik Sen
+E. Hill
+Jose A Fortes
+Edwin Olson
+E Xing
+Chris M Jermaine
+David Plaisted
+N. Hardavellas
+I. Gupta
+J. Collofello
+Patrick Cousot
+R. Basole
+R Tamassia
+H Wozniakowski
+Shoham Y
+Y. Dodis
+Munagala K
+Vladimir Jojic
+Uri Wilensky
+G Karypis
+G. Tsudik
+Alexandra Boldyreva
+Chris Hoffmann
+Mynatt E
+D M Brooks
+Wawrzynek J
+Khanna S
+Yury Polyanskiy
+A. Vahdat
+Gouda M
+Jacobs D
+Anthony D. Joseph
+Peter Belhumeur
+Tal G. Malkin
+Pruhs K
+Jermaine C
+K L Ma
+S. Buss
+N Amenta
+Chris Manning
+A Elgammal
+Alan Willsky
+J. Ferrante
+V Adve
+J Pasquale
+K. Bowyer
+R DeMillo
+Jeff Trinkle
+S Rusinkiewicz
+Assaf J Kfoury
+M Gouda
+Ricardo Osuna
+Lillian Lee
+D V Horn
+L Iftode
+John Board
+Frank Dellaert
+M Ernst
+D. Hsu
+V. Gruev
+Ramesh Sitaraman
+T. Nguyen
+A. Katsaggelos
+J Neville
+R. Bazzi
+Jason D Hartline
+J Zimmerman
+Alan Montgomery
+M Rojas
+Kuipers B
+A. Shelat
+D Dobkin
+Christopher G. Healey
+Wilson J
+Tseng C
+Deva Ramanan
+John Carroll
+M Farrens
+J Siskind
+J. Hayes
+C Hoffmann
+M Mitzenmacher
+E. Gun Sirer
+Milos D Ercegovac
+W. Miller
+M Desbrun
+C. Bajaj
+K G Karahalios
+Dhabaleswar K (DK) Panda
+Shamos M
+Yuan-Fang Wang
+Wojciech Matusik
+L Sha
+Purtilo J
+Frederick H III
+Tsitsiklis J
+B Lok
+Xiao-Chuan Cai
+M Zarki
+A Ng
+Javier Lopez
+Shlomo Zilberstein
+T. Mitchell
+F Bustamante
+R. Newman
+M V Langeveld
+Fornaro R
+Hector C. Bravo
+E. Stark
+Andersen D
+J. Mars
+Rauchwerger L
+D O'Leary
+Jonathan Liu
+Aggelos Katsaggelos
+S Avestimehr
+C Gill
+Peir J
+C Barrett
+Rutenbar R
+Leonid Reyzin
+Veloso M
+Ron A
+A K Vullikanti
+Neuwirth C
+Christopher G Healey
+Haryadi Gunawi
+M. Ferris
+David B Johnson
+Ian Davidson
+M Vardi
+Moll R
+D. Frost
+M. Shaw
+P Koehl
+P Koehn
+Jensen D
+Julia C. Hockenmaier
+Jensen H
+Gene Tsudik
+Edmund M Clarke
+L. Hunter
+Perez T
+N Max
+M Franz
+Luis Rademacher
+J Goldsmith
+R. Kastner
+T. Pappas
+C. Dyer
+T. M. Murali
+Ibrahim Matta
+L S Heath
+Mark Guzdial
+Barnard K
+Daniel E Atkins
+M Tulsiani
+Pinaki Mazumder
+L Guibas
+Joseph III
+Stephen H. Edwards
+Wittie L
+L. Nakhleh
+T L Williams
+Anxiao (. Jiang
+Xifeng Yan
+A Wasilewska
+G. Nadathur
+M Sahami
+Wm. R Franklin
+Plaxton G
+J Aloimonos
+John Harer
+R. Kraut
+Grossman D
+W Aref
+Hartline J
+Eric Bach
+Dasgupta P
+T Kanade
+Sayan Mukherjee
+Narayanasamy S
+F Li
+P. Scheuermann
+Kamesh Munagala
+Zadok E
+Michael D. Mitzenmacher
+N Correll
+A. Moore
+A Keromytis
+K P Birman
+Lo A
+Comer D
+R Berwick
+A. Quinlan
+Thomas Conte
+M Lam
+Evans D
+L Riek
+H Davulcu
+F Dellaert
+Schmidler S
+X. Yan
+Necula G
+Selman B
+Hockenmaier J
+Patrick G. Traynor
+S Khuller
+T. Bultan
+Jeannette M. Wing
+Honglak Lee
+B Tomlinson
+J Kleinberg
+J. Hellerstein
+Felzenszwalb P
+C. Poellabauer
+Rosing T
+Kwan-Liu Ma
+Berman P
+K. Ligett
+D L Dill
+Zhi L. Zhang
+George N. Rouskas
+R. Lathrop
+D Spooner
+J. Carroll
+Carrasquel J
+Eitan Grinspun
+Berman F
+Sanders B
+M Dinitz
+Zhi-Li Zhang
+R West
+H Li
+M. Goldberg
+M Mataric
+Crovella M
+Seshan S
+J Doyle
+P Tetali
+T Tasdizen
+R. Grishman
+S. Feiner
+Yuen H
+Hanna M Wallach
+D S Parker
+Barbara Engelhardt
+S. Narayanasamy
+Arvind A
+Mars J
+Tullsen D
+Peter Steenkiste
+A Cardenas
+T Condie
+Z. Bai
+Aditya P Mathur
+S Collins
+David E Culler
+D James
+Adve S
+Douglas Clark
+Adve V
+Doug A Bowman
+Zach Ives
+R Dechter
+Chandra Krintz
+Madden S
+A Gray
+Seymour Goodman
+Sicker D
+D Litman
+Daniel M Gusfield
+M Ferdman
+Janyce Wiebe
+T. Rad
+Nath B
+Alexander J. Smola
+N Immerman
+J Lee
+J. Leskovec
+S. V.N. Vishwanathan
+Yousef Saad
+R Melhem
+Matthew Bishop
+Amol Deshpande
+K. Fu
+A Majumder
+N Zeldovich
+Ihler A
+Yaoyun Shi
+Chirkova R
+Zdonik S
+M Grigoriadis
+Abernethy J
+Daniel Sleator
+R Freeman
+H Shacham
+R. Balasubramonian
+J Seiferas
+D Gusfield
+Robert Constable
+R. Muntz
+Bajcsy R
+Samuel T. King
+Jose Fortes
+Bhuvan Urgaonkar
+Littman M
+M. Mozer
+Laxmikant V Kale
+T. Starner
+Violet Syrotiuk
+Y. Polyanskiy
+Yejin Choi
+Y Shoham
+Georg Essl
+Y R Yang
+J Moss
+Peters J
+Jeffrey M. Siskind
+Roger King
+R. Kravets
+Sethumadhavan S
+Matthew Grayson
+Ziv Joseph
+Srinivasan Seshan
+Lingjia Tang
+S Sinha
+M Maggioni
+B Miller
+N Papanikolopoulos
+Ross K
+Hart J
+I Stoica
+A. Gerasoulis
+Aloysius K Mok
+Ming Kao
+Jyh C.(. Liu
+Green M
+K Marzullo
+C Tomasi
+J Palsberg
+A. Labrinidis
+B Krishnamachari
+J. Anderson
+R Kravets
+Grama A
+Liviu Iftode
+J. Singh
+Dennis Shasha
+Skeel R
+P Szolovits
+Jeannette Wing
+J. Andrew (Drew) Bagnell
+G Andrews
+T. Condie
+J. Kubiatowicz
+Chris Callison-Burch
+William Griswold
+R S Amant
+Eugene Charniak
+Y Makarychev
+J Utts
+Dick R
+L Pachter
+Daniel Sorin
+X Zhou
+Bachmair L
+E Mjolsness
+Charles Loan
+LeCun Y
+T Williams
+Gomes C
+Ateniese G
+R. Fonseca
+Sneha Kasera
+Heninger N
+K. McMullen
+Y Liu
+Y Yang
+Low S
+Donald Chiarulli
+Injong Rhee
+C Barnes
+H. Hoffmann
+C R Das
+R Muntz
+Lane Hemaspaandra
+P Khosla
+M A Quiñones
+Bryan Pardo
+R. Kalia
+Raskhodnikova S
+Vohra R
+B. Engelhardt
+Eric F Lussier
+N. Shavit
+S. Hambrusch
+B. Lucier
+W. Lee
+I Dillig
+L Cox
+Ion Stoica
+Frank Pfenning
+Barnes C
+A. Mok
+Craig Caldwell
+Barnes T
+Randy Freeman
+Manuel Blum
+Sleator D
+Bruce Donald
+D. Terzopoulos
+Scassellati B
+Ames A
+R. Wright
+D Lowenthal
+B ( Bhattacharjee
+J Bigham
+Goldberg S
+Ravi Janardan
+Stephen Brookes
+Goldberg D
+Alexander Schliep
+Goldberg B
+B. Kessler
+Godmar Back
+Dana Nau
+Goldberg M
+Pankaj Agarwal
+Goldberg K
+J. Hartline
+Seyoung Kim
+David L Dill
+Welch G
+Welch J
+Zhu X
+B Scassellati
+Jason Lawrence
+T. Imielinski
+T. Sherwood
+Francisco V. Cuevas
+R Johnson
+Abowd G
+Bennett J
+Christopher Brown
+Pen Yew
+A Sameh
+L. Iftode
+X. Zhang
+A. Ehrenfeucht
+J. Mankoff
+Jason Nieh
+V Gruev
+J Vitek
+K. Heller
+J. Cho
+Katherine Heller
+Henry Fuchs
+Y. Freund
+L. Findlater
+K. Weinberger
+Vijaykrishnan Narayanan
+R Sekar
+Norman Sadeh
+Ramakrishnan C
+P. Hanrahan
+Adam Porter
+Matthew K. Farrens
+Ramakrishnan N
+B. Langmead
+Tate R
+A Haddad
+S Goldstein
+X. Yang
+R Riesenfeld
+Gygi F
+R. Servedio
+Davis A
+Davis E
+L. Arge
+Thompson W
+Davis L
+Michael Hicks
+Chien A
+Davis T
+M. Yannakakis
+Tomas Perez
+M. Kazhdan
+Rob Johnson
+Michael Wozny
+Tadayoshi Kohno
+J. Kim
+T. M Murali
+H Kung
+K. Boyer
+R. Barua
+Alexander Nicolau
+J M Hellerstein
+Michael Erdmann
+T Griffiths
+L. Hsu
+L R Scott
+S Daily
+T Pappas
+R Chamberlain
+Nelson Max
+Stilman M
+Paul D. Gader
+Shahbaba B
+Quentin F. Stout
+Pankaj K Agarwal
+Schaefer S
+Gordan R
+Montgomery A
+Milenkovic T
+J Landay
+D P Huttenlocher
+M. Jackson
+Badri Nath
+Efrat A
+Ethan K Bassett
+Monica Lam
+A Memon
+Guy S
+P. Rosenbloom
+F B Schneider
+Hasan Davulcu
+Narayanan S
+S M LaValle
+Dan Suciu
+Chris C Burch
+Alexander (Sasha) Rakhlin
+G. Agrawal
+Sahakian A
+Tufo H
+Mozer M
+E. Durfee
+H. Levy
+J. Liu
+A Lysyanskaya
+Kyla McMullen
+D Tygar
+Anil N. Hirani
+Yannakakis M
+M Hoque
+C N Rotaru
+R Cole
+J. Lim
+W Gropp
+J. Lin
+Larry Wasserman
+Vinod Vaikuntanathan
+J. Cassell
+Dieter Melkebeek
+O Astrachan
+D Loveland
+Thomas F. Wenisch
+H Hirsh
+Wang C. Lee
+D. Karger
+John Black
+D Manocha
+L Mark
+Sheldon Howard Jacobson
+C Ding
+Snyder B
+Alexander Ihler
+Frank Mueller
+S Prabhakar
+Frederick B. Jr.
+D Angluin
+Shavit N
+X. Sun
+Donald J Rose
+Parthasarathy M
+M. Jordan
+Sankaranarayanan S
+Karger D
+A. Karlin
+R. Ostrovsky
+J E Laird
+Ben Watson
+Robert Murphy
+Rakesh Vohra
+Savarese S
+Jason Cong
+H Weatherspoon
+Gopalan Nadathur
+Soare R
+J Singh
+M. Parthasarathy
+Carla S. Ellis
+Rogaway P
+J. Forlizzi
+Wilensky U
+D Jacobs
+Singh A
+Mary J Irwin
+D. McDermott
+Christopher Lee
+C I Jr.
+E. Roberts
+Singh J
+Singh M
+Ming Y. Kao
+P. Flynn
+Moore A
+Hinrichs T
+Moore J
+B Szymanski
+M Caesar
+Clyde Kruskal
+Vouga E
+Huang M
+Pizer S
+Huang J
+Paul Schrater
+P T Devanbu
+G Sohi
+K Bala
+Moshe Vardi
+Lenore Blum
+M. Fern
+Valiant P
+Miron Livny
+J Kolter
+S. Pettie
+R Williams
+M. Bellare
+Hannenhalli S
+Ana Milanova
+G Frederickson
+Valiant G
+P. Khosla
+Valiant L
+Mikhail Belkin
+J. Davis
+C Langmead
+D. Xu
+E Hill
+Quiñones M
+J Eisner
+Dean Tullsen
+J Barlow
+Wai-Tat Fu
+Lydia E. Kavraki
+D R Bahler
+Gordon S.N. Jr.
+C Bregler
+W Martin
+W v Dam
+J. Phillips
+J. Moss
+P Hanrahan
+Santosh Nagarakatte
+S. Wright
+J F Canny
+Richard R. Muntz
+E P Xing
+M. Tulsiani
+J Hellerstein
+D. Rus
+L. Peh
+Caitlin Kelleher
+M. Niethammer
+Yuan F. Wang
+Panayotis Mavromatis
+J. Gehrke
+D. Weld
+J D III
+D. Lowenthal
+Eglash R
+Martin J Strauss
+Hammer J
+T Conte
+Collin Stultz
+I. Dillig
+A Goel
+S Schmidler
+M. Mason
+Chuck Hansen
+P Cerny
+S Ranka
+Peter M Chen
+Mats Heimdahl
+Scherson I
+Amelia C Regan
+Giuseppe Ateniese
+S Chong
+X Zhu
+M. Shamos
+M Blanton
+C. Guestrin
+Patrick Flynn
+L. Henschen
+H Gupta
+R M Karp
+Benjamin C Lee
+D. Perreault
+Erik Miller
+Anita Wasilewska
+Taesoo Kim
+Claire Le Goues
+D v Melkebeek
+Douglas S. Reeves
+Eddie Kohler
+Jih-Kwon Peir
+D Moshkovitz
+B. Kulis
+E. Mjolsness
+Choset H
+M. Annavaram
+Lafferty J
+Yang Yang
+Daniel Atkins
+J Halderman
+Marvin Minsky
+R Kemmerer
+Mukherjee B
+Roy H Campbell
+J Reppy
+I.V. Ramakrishnan
+Parameswaran A
+Mukherjee S
+Marc Snir
+M Martin
+E Durfee
+P G Traynor
+B A Barsky
+Milos Hauskrecht
+M. Vardi
+Greg Andrews
+D. Cheriton
+D Ballard
+Grigoriadis M
+S Kurtz
+Norman Matloff
+R Barzilay
+Y Diao
+S. Hohenberger
+B. Selman
+Donald J Patterson
+M Cakmak
+V. Rokhlin
+Goodrich M
+Black J
+L Ruzzo
+Anna Gal
+Yao D
+R Miller
+Vivek Sarin
+Stout Q
+Black A
+M Ferris
+K Stevens
+Barbara Grosz
+Agrawala A
+S. Micali
+Agrawala M
+Charikar M
+Maria Gini
+P Klein
+Jahanian F
+A Dey
+V. Filkov
+B. Hardekopf
+C Shaffer
+T Givargis
+C A Gunter
+H. Shacham
+Emmett Witchel
+romit r choudhury
+D W Hoiem
+Cakmak M
+S. V. N. Vishwanathan
+J. Jones
+J. Martin
+H. Shen
+McMullen K
+Izaguirre J
+Julia C Hockenmaier
+J Shewchuk
+Kevin C.C. Chang
+G Kollios
+Gregory W Wornell
+R. Burns
+J. Halderman
+Ron Cytron
+Pfenning F
+S Goodman
+Warren Jr.
+Larry Peterson
+K. Supowit
+Z. Su
+T. Lai
+K. Li
+A Eisenberg
+S. Jamin
+R Moll
+Doug James
+T M Mitchell
+R Mahapatra
+D. Plaisted
+S Saria
+Paul Debevec
+D Andersen
+S Kais
+Ten HS Lai
+Rob A Rutenbar
+M. Desbrun
+Dupont T
+romit r. choudhury
+K G Shin
+R Kleinberg
+Jason (Jingsheng) Cong
+A. Lee
+A Montgomery
+Devietti J
+Stefankovic D
+G Meyer
+Benjamin Raphael
+R Arora
+Yuanyuan Zhou
+Richard Korf
+Tom Hinrichs
+Freeman W
+R. Freeman
+J. Zachary
+Heckman S
+Snoeyink J
+Y. Zhou
+Steven Seitz
+M Liu
+R Olsson
+Alan Cline
+Sitharam M
+B. Myers
+Alexander Razborov
+Jason (. Cong
+W Peake
+J Lopez
+D. Song
+L S Peh
+Barrington D
+I. Scherson
+S McCamant
+D Chiang
+I D Scherson
+L Arge
+Y. Yu
+Olukotun K
+A. Treuille
+Ju T
+K. Birman
+Ronald Arkin
+P Chrysanthis
+Francis Quek
+S. Nirenburg
+A Abbadi
+M Singh
+Ketan Patel
+T Porta
+Mitchell T
+Medioni G
+Z Khan
+J. Davidson
+M. Marcus
+Andrew Grimshaw
+W Enck
+K Patel
+P Guo
+S. Mehrotra
+J D Kubiatowicz
+S. Bellovin
+S. Sinha
+Wim van Dam
+M D Hill
+P. Jaillet
+Leslie Valiant
+C. Barnes
+Starner T
+D. Nau
+Wei Lin
+Roughgarden T
+Bigham J
+Robert Harper
+Canny J
+E Sudderth
+F. III
+M Fischer
+C. Krintz
+C. Eastman
+M. Hill
+Elkan C
+Lawrence Hunter
+Itsik G. Pe'er
+D Wagner
+Richard Bonneau
+Ferdman M
+Premkumar T Devanbu
+B. Liskov
+Ramakrishnan I
+Gildea D
+John F Canny
+Gandhi A
+M Littman
+Winfree E
+B Goldberg
+Atkeson C
+N. Foster
+Graham F
+Szemeredi E
+E. Zadok
+S Jha
+Tom Yeh
+Kasera S
+M. Breuer
+Griffiths T
+S Baden
+Yoonsuck Choe
+A. Choudhary
+Susan Davidson
+Atallah M
+Bor-Yuh Evan Chang
+S Heckman
+P Scheuermann
+L. Osterweil
+Martha Kim
+B. Raphael
+X ( Gu
+Graham R
+W Lou
+Raphael B
+Kuester F
+M. Best
+M. Reiter
+P Sivilotti
+D. Joseph
+M Oskin
+S. Rusinkiewicz
+H Wallach
+A Treuille
+Clarke E
+Feng W
+Clarke L
+Valeria Bertacco
+Chris Harrison
+I Rhee
+S Hudson
+S. Khot
+Leon Osterweil
+J Phillips
+F. Qin
+Jeffrey A. Miller
+Corey Franklin
+Davis J
+Chi Wu
+Dillencourt M
+E. Olson
+A. Platzer
+Bejerano G
+C Stein
+Steve Homer
+Beverly Sanders
+D. McLeod
+John F. Canny
+Pradeep Khosla
+T H Lai
+M. Rojas
+Davis R
+Krishnamachari B
+S Smolka
+Shrivastava A
+J. Hong
+J. Srivastava
+L. Itti
+Dana H. Ballard
+T. Hammond
+B. Dally
+Grimm R
+Xi H
+Cyrus Shahabi
+Vivek Pai
+Andries v Dam
+U Neumann
+M. Seltzer
+S Ghandeharizadeh
+Saugata Basu
+S Smith
+D. Batory
+Leonard McMillan
+Kopparty S
+Hansen C
+Yung Lu
+K McKeown
+Rhee I
+R. Michael Young
+Potkonjak M
+P. Ning
+P Cappello
+Margo Seltzer
+S Narayanan
+T. Xie
+B Dunsmore
+James A Jones
+Lenwood S. Heath
+Chrysanthis P
+Noble B
+Atif Memon
+R Dusseau
+Karl Crary
+Arindam Banerjee
+B Grosz
+Flinn J
+Stuart J. Russell
+N M Amato
+P. Koehn
+A. Bestavros
+Kruegel C
+J Lim
+J Lin
+Jeff Huang
+J Liu
+K. Salisbury
+N. Matloff
+Davidson I
+M. Furst
+Ungar L
+D Walker
+Aspnes J
+William H Press
+D. Bowman
+Gerald F. DeJong - II
+Ganger G
+Greg N. Frederickson
+Felten E
+T Davis
+G. Hayes
+Davi Geiger
+Kemmerer R
+Manoj M Prabhakaran
+M. Caccamo
+F. Berman
+H. Chen
+R Calderbank
+Karl N. Levitt
+J. Moses
+A. Joseph
+Hanna M. Wallach
+L Rademacher
+Gaetano Borriello
+C Collberg
+Samuel N. Kamin
+Gail Kaiser
+Ives Z
+Abhi Shelat
+T. Anderson
+Finkelstein A
+Wai Fu
+D. Pe'er
+Robert Schapire
+K Ma
+S. Pizer
+Kamesh Madduri
+Wyatt Lloyd
+Csaba J. Egyhazy
+H Balakrishnan
+E Riloff
+Fred B Schneider
+Alexey V. Onufriev
+Suciu D
+Grigoryan G
+M. Blaze
+Bettati R
+W. Zhang
+R Wagner
+D Blei
+Cartwright R
+Martin Farach-Colton
+Susan Horwitz
+G. Memik
+Bonnie Nardi
+E. Zegura
+K Shin
+D Sturgill
+T. Williams
+D Woodard
+Alan Borning
+Ward S
+E. Akleman
+K Forbus
+D. Zuckerman
+David Thuente
+B Nardi
+R. Barzilay
+Nalini Venkatasubramanian
+Banerjee S
+David Farber
+Benjamin C. Lee
+Alan H Barr
+Garth Gibson
+Yanjun Qi
+Jim Hendler
+K Trivedi
+D H Ballard
+D. Chiarulli
+L Torresani
+Tsudik G
+Reeves D
+Kevin R.B. Butler
+Roumeliotis S
+Charalampos (. Papamanthou
+Gregory H Wakefield
+Gillian R Hayes
+Kompella R
+Edmund Clarke
+Saurabh Sinha
+Atkins D
+A Yuille
+Yuksel C
+W R Cook
+A. Agrawala
+Alain J. Martin
+Ulrich Neumann
+K Bekris
+R Skeel
+M. Mihail
+S Kim
+Peter A. Dinda
+Dieter Fox
+M. Zaki
+Graber J
+David A.M. Barrington
+P Chau
+Krste Asanovic
+Thomas Cormen
+Bajaj C
+V. Vianu
+N. Immerman
+Immerman N
+Ronald Goldman
+S. Smolka
+Alexander Hartemink
+T Joachims
+Anup Rao
+Lisa Anthony
+Erdmann M
+Marti Hearst
+Scott Jordan
+Joseph Pasquale
+J Xu
+Seda O Memik
+C L Goues
+B. Nelson
+Subhash Suri
+Rangarajan A
+S Schaal
+Douglas D. Dankel II
+Mary Lou Soffa
+R. Scheines
+P Rosenbloom
+E Mossel
+Rajeev Ram
+Kernighan B
+Claire Goues
+Onufriev A
+S Dwarkadas
+V. Guruswami
+Tim Roughgarden
+Snyder W
+G Richter
+Robert Daley
+R. Mahapatra
+Yuriy Brun
+Charalampos ( Papamanthou
+M D Dahlin
+R. Han
+Hal Stern
+A v Dam
+A Farhadi
+Nirenburg S
+Laurie Williams
+J. Smith
+J Simon
+Constable R
+D Redmiles
+J Heer
+Ipek E
+J Izaguirre
+A. Meliou
+P Pevzner
+Jonathan Shewchuk
+Ras Bodik
+J. Flinn
+B. Calder
+C Wu
+B. Berger
+A. Apostolico
+Sibel Adali
+Henry Hoffmann
+A. Smola
+C. Harrison
+Y Saad
+C Dyer
+Anind Dey
+E Fox
+Michael Collins
+Radu Stoleru
+Quek F
+R Kass
+Hauskrecht M
+Sitaraman R
+K A Sakallah
+L. Bachmair
+D Klein
+David L Roberts
+A Ungor
+S Pettie
+A Grimshaw
+Mor Balter
+J Hollerbach
+M. Veloso
+P Eugster
+L. Gomez
+Cerny P
+Brian L. Curless
+Hanrahan P
+Jianbo Shi
+T. Kanade
+Pete Keleher
+X Xie
+Leskovec J
+Savage S
+W Zhang
+A D Joseph
+E. Witchel
+Barbara Ryder
+W. Gray
+Recht B
+Savage C
+Savage J
+Polyanskiy Y
+Ten Lai
+C Elkan
+Malik M Ismail
+J Hopcroft
+C. Varela
+P. Schroeder
+M. Prabhakaran
+Antón A
+Tim Chen
+Petros Drineas
+Kenneth Perlin
+Michael D Dahlin
+A Platzer
+Guerin R
+Stone M
+Susan H Rodger
+Tracy A Hammond
+Alur R
+Avent R
+G. Kollios
+R Adams
+Yaser S.A. Mostafa
+Domingos P
+Mjolsness E
+B. Bhargava
+Ismail M
+T Kim
+Ryan P Adams
+Umesh Vazirani
+Jose A. Fortes
+K Hwang
+Viktor Prasanna
+M. Casey
+H. Lin
+R Parr
+M Gleicher
+Anna Lysyanskaya
+L McMillan
+H. Liu
+Ioerger T
+Chris Burch
+S. Tellex
+Dredze M
+Don Perlis
+L. Alvisi
+S. Teller
+P Debevec
+R N Mahapatra
+Mark S. Ackerman
+R Brown
+Michael O'Donnell
+D. O'Hallaron
+John Criswell
+Guerra C
+Amin Vahdat
+Sinclair A
+S. Babu
+Hajiaghayi M
+J. Ernst
+Hughes J
+Brian Kulis
+B. Marlin
+A. Rubin
+Shachar Lovett
+Pierce B
+David A. Padua
+Scott Rixner
+C. Elkan
+Daniel P Siewiorek
+O Troyanskaya
+Han-Wei Shen
+Katherine Yelick
+Clauset A
+Fu W
+S. Rixner
+S. Eisenstat
+Fu K
+R. Chellappa
+A Ihler
+L. Peterson
+Jung C
+A. Bargteil
+Ian G. Harris
+Jose A.B. Fortes
+Hongyuan Zha
+Z Yu
+A. Kfoury
+Brown T
+B. Bailey
+James Allen
+Wolski R
+R. Parr
+R Klatzky
+Byers J
+Marian A
+I. Ramakrishnan
+D. Panigrahi
+D Patterson
+Andre vd Hoek
+F. Quek
+Gagan Agrawal
+Ostrovsky R
+Prasad Raghavendra
+S H Rodger
+Liu C
+Liu A
+Gray A
+Liu L
+Liu K
+Christopher Dyer
+Liu H
+W Halfond
+T. Mudge
+Gray W
+Glenn Reinman
+Liu Y
+Liu X
+S Wright
+S. Ranka
+Stern H
+Shahram Ghandeharizadeh
+R. Chirkova
+Stern R
+A Porter
+Bobby (Samrat) Bhattacharjee
+Memik S
+S. Thrun
+M D Mitzenmacher
+D. Aliaga
+W. Matusik
+Jeffrey Miller
+B C Pierce
+Sukhatme G
+E. Winfree
+J Trinkle
+Rodrigo Fonseca
+James Jones
+J. Hart
+Hari Balakrishnan
+Paul S. Rosenbloom
+Patrick T. Eugster
+B. Kalantari
+K Crary
+N Shroff
+G. Grigoryan
+B. Recht
+M. Venkitasubramaniam
+C. Weems
+A Procaccia
+North C
+Manijeh Razeghi
+Anshul Kundaje
+Roderic Grupen
+Daniel Stefankovic
+Ronald E. Parr
+Cristina N Rotaru
+Kayvon Fatahalian
+Polo Chau
+Randy H Katz
+S Blanas
+Vipin Kumar
+J Kubiatowicz
+Brumley D
+M T Goodrich
+Greenberg D
+K Koedinger
+H R Lewis
+N M Sadeh
+Nahapetian A
+A ( Rakhlin
+S. Banerjee
+S Babu
+B. Mutlu
+S C Schmidler
+L. Wittie
+T. Hollerer
+Scott A Smolka
+Sofya Raskhodnikova
+Kannan Srinivasan
+Barnabás Póczos
+H.T. Kung
+C Peikert
+Hallgren S
+Karl Levitt
+D. Randall
+M. Agrawala
+R Mooney
+Cai X
+S. Belongie
+S K Feiner
+Katabi D
+T Hinrichs
+Sanjeev Arora
+Shao Z
+G. Back
+Cai J
+D Gelernter
+Imielinski T
+T. Kim
+Robin H. Kravets
+Hai Zhou
+N S Matloff
+N. Medvidovic
+Joseph Y. Halpern
+Francisco Valero-Cuevas
+G Medioni
+Doyle J
+Richard Scheines
+M. Strauss
+Chawla N
+S Baruah
+N Roussopoulos
+Scott Smolka
+Hambrusch S
+Biswanath Mukherjee
+Yaser Mostafa
+Gary Bishop
+Katrina Ligett
+E. Fox
+Z. Mao
+D F Towsley
+Medvidovic N
+A Thomaz
+P Kazanzides
+Peikert C
+M Mahmoody
+T. Roughgarden
+Alvin Lebeck
+Jasleen Kaur
+V. Braverman
+M. Young
+Lam S
+Songwu Lu
+C Potts
+Thai M
+Z. Dvir
+Michael Fredman
+Rui Wang
+J Collofello
+Taieb Znati
+T F Wenisch
+J. Gallier
+Micciancio D
+Kwan L Ma
+John Stasko
+J. Xiao
+G. Andrews
+West R
+E. Price
+D L Roberts
+M Tompa
+M Jordan
+S. R. Kosaraju
+A. Entezari
+S Hohenberger
+Matthew Green
+Kristy E Boyer
+Anhai Doan
+Amelia Regan
+Frederickson G
+S Osher
+D. Durand
+Oliver (S Cossairt
+Alexander Sherstov
+S Arora
+Srinivasan Parthasarathy
+Zhang W
+Hero A
+Jeannette M Wing
+Zhang Y
+Zhang X
+T. Lee
+Zhang Z
+S. Baden
+M F Kaashoek
+E. Charniak
+Schrater P
+Zhang L
+Anil Vullikanti
+Zhang H
+Sariel H. Peled
+Feiner S
+S Teng
+Alexey Onufriev
+Freeman R
+A Smola
+H Bravo
+P Mishra
+Balaji Prabhakar
+Kathleen Carley
+David Forsyth
+Jonathan C.L. Liu
+Vladimir Vapnik
+R A Lucic
+T Malkin
+Krishnamurthy A
+A J Kfoury
+S. Adali
+H. Kung
+Braverman M
+John Sampson
+D Dill
+Wm. R. Franklin
+Cormen T
+Veeraraghavan M
+Brun Y
+Randall D
+A Saxena
+Brun T
+Bahler D
+D Rus
+V. Vaikuntanathan
+A. Smith
+A. Klivans
+Brent Hecht
+B Y Chang
+P. Kumar
+A. Clauset
+S Shahriar
+Su I Lee
+T. Wenisch
+Halfond W
+Allison B. Lewko
+T Hosking
+Rajeev Barua
+T. Joachims
+Tomasi C
+LaPaugh A
+Wenke Lee
+R. Chamberlain
+A. Lewko
+D. Koller
+David Walker
+R D'Souza
+Anxiao Jiang
+Ahalt S
+S Tanimoto
+Grigore Rosu
+Alan V Sahakian
+Winston P
+K. Merwe
+F Wang
+Towsley D
+Farber D
+Hollerbach J
+S C Eisenstat
+Tuomas Sandholm
+Hollaar L
+Jeff Weiss
+Tao Ju
+Rountev A
+Benjamin Kuipers
+L Palen
+David Spooner
+W Szpankowski
+N Navab
+Steven D. Gribble
+T. Porta
+Malik M. Ismail
+R. Tamassia
+A. Bobick
+James Kurose
+C ( Papamanthou
+Li-Shiuan Peh
+Elisa Bertino
+William R. Cook
+Thomas Reps
+R Constable
+R. Vohra
+L. Steinberg
+Donald J. Patterson
+Emerson E
+B. Kernighan
+C Hansen
+Dughmi S
+S Cho
+T. Rosing
+Ambuj K. Singh
+Remzi A Dusseau
+B. Mukherjee
+Fortnow L
+Y Xia
+K Compton
+R Wright
+Indranil Gupta
+R F Murphy
+Tian He
+Jur Berg
+Peterson L
+Jeffrey Chase
+M Schneider
+X. Gu
+Abraham H. Haddad
+J Leskovec
+A Machanavajjhala
+Xianghong J. Zhou
+R Findler
+M E Bermudez
+T Jebara
+Robert A. Van de Geijn
+M Niethammer
+Yew P
+J Cohoon
+C North
+R Sitaraman
+George Rouskas
+Smith S
+R Murphy
+W Gasarch
+Mark Crovella
+O. Egecioglu
+C Shahabi
+Smith A
+Jack Davidson
+Smith M
+S Nirenburg
+A Yadav
+A Rubin
+L. Coraor
+A. Sinclair
+M M Prabhakaran
+Mosse D
+Tina E. Rad
+Kannan S
+M. Yu
+W. Martin
+J. Reppy
+V. Narayanan
+P. Bartlett
+B. Waters
+H. Venkateswaran
+A S Willsky
+E. Mossel
+Russell Impagliazzo
+C. Loan
+Erik Winfree
+Krishnamoorthy M
+Ozdaglar A
+Brian Noble
+P. Sinha
+Matthew A. Bishop
+Plaisted D
+Nagarakatte S
+A Appel
+C Kästner
+A Kfoury
+R. Morris
+Shih Chang
+Westley Weimer
+S. Gortler
+D Koller
+R Fornaro
+Robert Berwick
+Sylvia Ratnasamy
+John Reppy
+S. Homer
+Robert Lewis (Scot) Drysdale III
+M Naik
+G Wakefield
+William Gropp
+Dana Moshkovitz
+K Whitehouse
+Teller S
+Suresh Jagannathan
+L Steinberg
+J Hart
+Juan E. Gilbert
+Aditya G Parameswaran
+Ernst J
+D. Kane
+B. Sanders
+Ernst M
+F. Graham
+Kafura D
+Satish Narayanasamy
+Khot S
+Jonathan Turner
+T. Barnes
+R Machiraju
+Carolyn P Rose
+Lori A Clarke
+Vladimir Braverman
+G. Marai
+M Pollack
+Board J
+Tajana Rosing
+B Kessler
+N McKeown
+Luke Zettlemoyer
+Edward Omiecinski
+Joanne Selinski
+Tracey C Ho
+R Stern
+L. Davis
+C Re
+J Widom
+Kennet I Joy
+A. Ozdaglar
+Guzdial M
+Ramachandran V
+Stephen Wright
+Reif J
+A. Banerjee
+E. Lazowska
+David Kotz
+Golbeck J
+P. Barford
+E Jessup
+Agarwal P
+Misra J
+Machanavajjhala A
+M Rahimi
+Soatto S
+Agarwal Y
+S Gollakota
+Kathleen M. Carley
+Agarwal A
+D Shah
+Somesh Jha
+D. Wagner
+romit roy choudhury
+Hemaspaandra L
+D W Goldberg
+R. Arora
+R Anderson
+R E Parr
+F. Dellaert
+R Wenger
+Lopez J
+Francisco Cuevas
+Kavraki L
+Ambuj Singh
+Keshav Pingali
+Carlos Guestrin
+Z Dvir
+James C. Lester
+P Traynor
+R. Miikkulainen
+Ing-Ray Chen
+K W Cameron
+Brookes S
+Allan Gottlieb
+G Kindlmann
+Kenneth P. Birman
+Elizabeth Mynatt
+M H Balter
+K. Forbus
+P Levis
+R. Furuta
+M Crovella
+J Buhler
+Gafni E
+S Cutler
+Krzysztof Gajos
+K. Sakallah
+L. Saul
+X Cai
+J. Vitek
+R. Miller
+J Konstan
+Dimitris Samaras
+Kleinberg J
+S Mitra
+Merwe K
+Kambhampati S
+Scott M
+N. Heninger
+L Ceze
+G. Reinman
+M. Ehsan Hoque
+A Arvind
+Kleinberg R
+J. Hughes
+F Mora
+T Kraska
+Funkhouser T
+A. Orailoglu
+Lastra A
+C Gomes
+S H Peled
+Chazelle B
+James Rehg
+P. Guo
+Ting Yu
+Ali Butt
+J Wilson
+M Venkitasubramaniam
+Partha Dasgupta
+L Lu
+Elizabeth Bradley
+A. Silberschatz
+Croft W
+Margo I Seltzer
+Zhuoqing Mao
+Sharon Goldberg
+Dana Ballard
+A. Abbadi
+E Stark
+Bultan T
+Joel Spencer
+M. Zarki
+C V Lopes
+P Chen
+Zhendong Su
+A. Shankar
+V. Vazirani
+Dyer C
+David Andersen
+B. A Prakash
+Ghandeharizadeh S
+Chandra Chekuri
+W. Hayes
+Michael Ernst
+Marinov D
+Andries Dam
+F Jahanian
+W Miller
+J A Board
+Robert L Bryant
+D Culler
+Gruev V
+Henrik Jensen
+Pavel Pevzner
+Sorin Istrail
+A. Bruckman
+Kurose J
+G Verghese
+W. Lin
+K Asanovic
+W. Press
+S Yarosh
+C C Lee
+R L III
+Y. Diao
+R Bonneau
+L Wittie
+Z. Rakamaric
+S Eisenstat
+Mark G
+Hendler J
+B Lin
+Tagkopoulos I
+Mark L
+Irfan Essa
+Tai Lee
+X Zhang
+B Walker
+Gul Agha
+A. Sidiropoulos
+S. Schaal
+C Varela
+Gupta S
+Balch T
+Meyer G
+Meyer A
+S. Kurtz
+C Cardie
+Fei-Fei Li
+Gupta A
+E. Davis
+J. Ousterhout
+Su Lee
+Hicks M
+Gupta H
+Gupta I
+Michael Horn
+S. Fong
+Jing Chen
+Daphne Koller
+B Boehm
+A Sherstov
+Y. Song
+J Hartline
+A. Parameswaran
+Ernest A Emerson
+Y. Wu
+Barbara Cutler
+A. Myers
+K Edwards
+Bafna V
+Bishop M
+Bishop G
+Kais S
+Doug A. Bowman
+M Hall
+M L Soffa
+Sheldon Jacobson
+DeMillo R
+Stotts D
+Mark D. Hill
+Larry Smarr
+Michael Franklin
+Lin W
+Wagstaff S
+M. Thai
+S Tessaro
+T. Ideker
+Lin B
+Lin C
+Lin M
+Steven K. Feiner
+Lin H
+Lin J
+A Narayanan
+Liqing Zhang
+Gary Olson
+Blanas S
+Vardi M
+C. Kelleher
+Daisy Z. Wang
+Daniel Gildea
+D Sleator
+Jyh-Charn (Steve) Liu
+Z Joseph
+J. Allan
+K Skadron
+K Mueller
+Himanshu Gupta
+M Seltzer
+Meliou A
+S. Vadhan
+D Metaxas
+Jan-Michael Frahm
+K. Joy
+S Gribble
+Alfonso Cardenas
+Peake W
+Leslie Kaelbling
+M. Srivastava
+P Smaragdis
+Calvin J. Ribbens
+Shneiderman B
+Szymon Rusinkiewicz
+P Parrilo
+Xuxian Jiang
+Jonathan L. Gross
+Yang R Yang
+B Lee
+Sean Hallgren
+W Lee
+A. Vullikanti
+J Pearl
+Scott Smith
+E Davis
+K. Marzullo
+Norman M Sadeh
+Sarah Heckman
+C V Loan
+R E Ladner
+E. Emerson
+Murphy R
+Stephen Checkoway
+C. Raghavendra
+David Wagner
+S Jordan
+T. Millstein
+Ladislav Kavan
+T Brun
+Michael J. Cafarella
+R Taylor
+H. Lee
+Brighten Godfrey
+V. Subrahmanian
+C Taylor
+Yannis Papakonstantinou
+Travis Breaux
+S King
+M Bernstein
+I. Chen
+Anil Hirani
+Zarki M
+N. Amenta
+Andrews G
+P Dutta
+R Ostrovsky
+V Ramachandran
+Carloni L
+Peter N Belhumeur
+Daniela Rus
+Kevin Skadron
+A Onufriev
+Jianxiong Xiao
+Rebecca Fiebrink
+David Isaacson
+Campbell R
+Zhu S
+M Walfish
+James C. Hoe
+Zhu J
+M Watts
+Feniosky Pena-Mora
+J J Metzner
+Marios Papaefthymiou
+Cong J
+J. Kurose
+Philip Guo
+A. Taflove
+Z Shao
+Fei F. Li
+G Cottrell
+M F Colton
+H. Ombao
+J Hoe
+Hector G. Molina
+G Marai
+Bhaskar Krishnamachari
+E Gehringer
+Daniel Jiménez
+Engin Ipek
+Randal C. Nelson
+S O Memik
+V Chandrasekaran
+Ben Y. Zhao
+Y. Tamir
+Joseph D. III
+S. Raskhodnikova
+Strauss M
+Engelhardt B
+J. Landay
+Madhur Tulsiani
+Anshul Gandhi
+Lloyd W
+Calton Pu
+Alon Efrat
+Remzi A. Dusseau
+C. Riesbeck
+Han J
+Tamara Sumner
+Alireza Entezari
+Luo J
+Griswold W
+Arie Kaufman
+V. Chandrasekaran
+E Berger
+T N Pappas
+Adam Wierman
+M S Ackerman
+D. Isaacson
+Sohi G
+S Kasera
+Joseph M Hellerstein
+S. McCrickard
+Marlin B
+P. Mazumder
+Hoffmann C
+Cottrell G
+S Edwards
+Thomas Funkhouser
+B J Grosz
+J Aspnes
+Sridhar Hannenhalli
+Greg Valiant
+Metzner J
+T L Porta
+Shyhtsun Wu
+Aleksandar Kuzmanovic
+I Horswill
+L Clarke
+Camillo J. Taylor
+Yanlei Diao
+C. Ellis
+G Grigoryan
+Sivasubramaniam A
+S. Sclaroff
+D Heckerman
+Eastman C
+Devanbu P
+P Dourish
+Peter J Downey
+Papanikolopoulos N
+S Feiner
+A Fox
+R. Sitaraman
+Han W. Shen
+S Zucker
+Kieras D
+R. Geambasu
+S. Nagarakatte
+E. Nikolova
+Douglas D.D. II
+K Heller
+Michael Best
+R A Geijn
+T Mitchell
+Michael D. Dahlin
+Li S Peh
+Wonka P
+M Razeghi
+Peter Kazanzides
+M. Eisenberg
+Klappenecker A
+M Corner
+William Gasarch
+A Akella
+Narayanan V
+Alex Snoeren
+A. Chaintreau
+T. Tasdizen
+Mason M
+Gerard Medioni
+M. Bernstein
+Robert Grimm
+Narayanan A
+Hal D. III
+T M Murali
+Alexander Veidenbaum
+Raghu Machiraju
+Quentin Stout
+Cassell J
+Re C
+Rakamaric Z
+Regina Barzilay
+M Medard
+Navab N
+Rich Riesenfeld
+R. Schapire
+A Gupta
+M. Balcan
+Andreas Haeberlen
+Stanley C Eisenstat
+Caldwell C
+Hayes W
+R Teodorescu
+Barbara Liskov
+V Prasanna
+Grinspun E
+Hayes J
+Remzi Dusseau
+Hayes G
+David S Johnson
+Wei Tsai
+F. Chong
+Paulos E
+Bratus S
+Jerry Zhu
+W Snyder
+MacIntyre B
+E Winfree
+S. Dughmi
+L. Schubert
+B. Maggs
+John Savage
+D J Hsu
+Neil Spring
+G Agrawal
+Stephen H Edwards
+Tessaro S
+Christopher Carothers
+E. Felten
+Gillen D
+E. Grigorescu
+R Hwa
+J. Frahm
+Richard M. Karp
+D Estrin
+T Sumner
+Zvi Kedem
+M. Prvulovic
+Ryan Tibshirani
+Aaron Roth
+A. Lysyanskaya
+M Marathe
+D Grunwald
+Edmond Chow
+Charles Isbell - Jr.
+M. Gleicher
+Karen Livescu
+Marc Niethammer
+Kenneth P Birman
+J Cassell
+A Battle
+Tuba Y Kahveci
+Jamin S
+Chau P
+E Sifakis
+Daniel Huttenlocher
+L Song
+Wing J
+Yoav Freund
+C. Stewart
+W Thompson
+L Olson
+Heng Ji
+M. Kearns
+Hoek A
+N. Feamster
+Aluru S
+Prasun Sinha
+Stephen Thebaut
+Arge L
+T S Ng
+R Pandey
+Nancy Nersessian
+Riesbeck C
+S Vishwanathan
+Kautz H
+A Kolla
+D Rose
+G. Sapiro
+Ercegovac M
+B. Watson
+Mor Harchol-Balter
+M Herlihy
+John Hennessy
+Hecht B
+Marc Levoy
+Kolla A
+Navathe S
+A Haeberlen
+L. Ridgway Scott
+Elisha Sacks
+Jacobson S
+M. Overton
+S. Kannan
+Shell D
+R Fergus
+Bruce R Donald
+D Loguinov
+F. Preparata
+Tomas L. Perez
+Wayne Gray
+A. McCallum
+Tompa M
+Bhiksha Raj
+P S Rosenbloom
+R. Dechter
+Chang Lu
+Kass R
+Max N
+R. Kompella
+J Welch
+Klatzky R
+Rubin A
+Claire Cardie
+K Chakrabarty
+M Braverman
+David Yarowsky
+Ross Tate
+Yuvraj Agarwal
+Kemafor Anyanwu Ogan
+H. Xu
+J. Weissman
+Kolodner J
+Itsik Pe'er
+C Dwyer
+Ronald N Goldman
+Kozyrakis C
+R Urtasun
+C. Manning
+D. Sheldon
+Michael Mozer
+Y. Qi
+F. Memoli
+Ganapathy V
+Ronald Graham
+Hodgins J
+G. Shakhnarovich
+Andre v.d. Hoek
+Brent M
+K Fu
+P Domingos
+M Zaki
+Serafim Batzoglou
+U. Ramachandran
+S Vadhan
+Salvatore J. Stolfo
+I Harris
+Newman R
+J. Aloimonos
+Henry M Levy
+A. Ron
+R Amant
+E. Tilevich
+Sudha Ram
+L Scott
+J Hirschberg
+Dobra A
+G. Gopalakrishnan
+Barr A
+Melody Jackson
+Popovic Z
+Wakefield G
+Kamin Whitehouse
+C. Jermaine
+Meseguer J
+Kraska T
+John Zahorjan
+Zeldovich N
+J. Z. Kolter
+L Fleischer
+Louiqa Raschid
+Muthuramakrishnan Venkitasubramaniam
+Arjun Guha
+Rubinfeld R
+John C. Hart
+Jennifer Neville
+R. Cole
+V. Sarkar
+Tannenbaum A
+S Chen
+T A Brun
+Jan Vitek
+N Li
+D Cheriton
+Maja J. Mataric
+Lathrop R
+B. Shahbaba
+Willsky A
+Paturi R
+A. Thomaz
+W. Bruce Croft
+Radu Teodorescu
+Hoiem D
+Richard A Lucic
+Sameh A
+Guofei Gu
+Anil K. Vullikanti
+Chris Jermaine
+Robert III
+S Nowick
+Reinman G
+Collin McMillan
+Denis Zorin
+S Lee
+D. Kempe
+Yang Richard Yang
+McCamant S
+E. Provost
+Skiena S
+Miriah Meyer
+Robins G
+C J Taylor
+K Livescu
+Manuel AAP Quiñones
+Anil K Vullikanti
+T. S. Eugene Ng
+Olga Troyanskaya
+Ben Liblit
+J D Hartline
+R H Katz
+Gurumurthi S
+Bruckman A
+G. Bishop
+C. Egyhazy
+Thad Starner
+Ferrante J
+J ( Cho
+Camillo J Taylor
+J. Hopcroft
+H. Wallach
+H. Li
+Greg N Frederickson
+Daniel D. Sleator
+Estrin D
+J. Criswell
+D Sorin
+L. Dabbish
+Miklau G
+S. Ahalt
+A Choudhary
+V. Isler
+D. Steurer
+J. Yang
+Brad Myers
+Gurindar Sohi
+Smarr L
+R. Fornaro
+C. Faloutsos
+Dawson Engler
+Nagiza Samatova
+Lenhart K. Schubert
+Z Su
+Benjamin Watson
+Bellovin S
+Dana Randall
+A. Farhadi
+Stacy Patterson
+John Canny
+S S Lam
+D E Kieras
+Daniel Abadi
+Percy Liang
+Dennis R. Bahler
+Pierre Baldi
+J. Wing
+Robert 'Corky' Cartwright
+H III
+M. Franz
+L. Lee
+Casey M
+K. Crary
+R. M. Young
+A. Lo
+Luo Si
+A. Dusseau
+H. Jensen
+Chita Das
+J K Peir
+John C Hart
+J. Trinkle
+H Zha
+V Kumar
+J. Appavoo
+Stanislaw Jarecki
+Leonard Pitt
+Misra V
+John E Hopcroft
+R. Dusseau
+Mataric M
+Koray Aydin
+S Goldberg
+A Orlitsky
+C Franklin
+G. Kesidis
+S. Khuller
+B. Barsky
+K. Chang
+Hal D III
+H. Pfister
+Bitzer D
+Katz R
+Donald Fussell
+J. Regehr
+Soloway E
+D Teneketzis
+Katz J
+B. Krishnamachari
+S. Cutler
+Mintz M
+A H Barr
+Fatahalian K
+J Gross
+S Adali
+Dannie Durand
+Jack C. Wileden
+Dusseau A
+J H Hartman
+A Megretski
+Doug Downey
+A. Udaya Shankar
+Y. Wang
+D. Huttenlocher
+Hadi Esmaeilzadeh
+Butler K
+S. Soatto
+J. Lester
+J. Cohoon
+F. Mora
+D. Kotz
+Kruskal C
+Dong X Xuan
+Haesun Park
+C J Egyhazy
+Cytron R
+J Turner
+A. Orlitsky
+Blanton M
+Wellman M
+Michael G Dyer
+E. Bradley
+S. Baruah
+Z Zhang
+R. Berry
+Robert ' Cartwright
+J Zhu
+M. Bender
+Shakhnarovich G
+Tamer Kahveci
+Mok A
+Richard West
+Song C Zhu
+M. Sitharam
+David Cox
+John Hopcroft
+Richard R Muntz
+Boon T Loo
+Reps T
+Jeff Phillips
+Chung Lee
+Krishna Palem
+T. Funkhouser
+Y. Lu
+Larry D Wittie
+Yali Amit
+Kamalika Chaudhuri
+David M Brooks
+J Crummey
+D. Forsyth
+J. Feigenbaum
+Jur van den Berg
+J. III
+Norman M. Sadeh
+Stephen Ward
+Mary J. Irwin
+D. Spooner
+J Y Halpern
+J K White
+O Widlund
+K. Schwan
+Louis Steinberg
+R Daley
+James C. Browne
+R. Kleinberg
+Batory D
+U Wilensky
+S. Gollakota
+D Karger
+Kender J
+U. Kremer
+R Wang
+T. Yeh
+Anand Rangarajan
+C. Goues
+R Sarpeshkar
+M Smith
+E F Lussier
+J Huang
+J Eisenstein
+E. Nyberg
+Jessup E
+A Hoek
+J Chai
+Jungsang Kim
+V. Zue
+S. Madden
+J Metzner
+Manuel Quiñones
+W Freeman
+P. Debevec
+Swanson S
+A. U. Shankar
+D Norman
+Chung C. Lee
+Barford P
+J. Rojas
+Scott McCrickard
+Virginia Williams
+E Horowitz
+S. Yarosh
+Walker D
+Walker B
+Roger Crawfis
+A. Borning
+Robert Dick
+Isaacson D
+A. Onufriev
+Atul Prakash
+Francine Berman
+R. Schwartz
+Y. Xie
+T. Vidick
+Y. Xia
+Lorrie Cranor
+Ma X
+P. Mishra
+Eric Price
+Ma K
+Forlizzi J
+D Downey
+David Lowenthal
+B. Mishra
+T Fletcher
+C Harrison
+S. Jha
+Corey T Franklin
+Hanspeter Pfister
+Shang-Hua Teng
+Russell Tedrake
+Frederick B Jr.
+C. Stein
+H. Ji
+Kenneth D Forbus
+R. Guerin
+I Ramakrishnan
+Pankaj K. Agarwal
+Christopher Riesbeck
+A Karlin
+Venkitasubramaniam M
+Shrikanth (Shri) S. Narayanan
+Debevec P
+Eric V Wyk
+Stan Ahalt
+J F Kurose
+Maurice Rojas
+T Parikh
+J Halpern
+A R Karlin
+L Alvisi
+Gokhan Memik
+Kaashoek M
+A Aiken
+E. Mynatt
+M Shaw
+Greibach S
+R. Wolski
+Foster I
+G. Verghese
+Mario Szegedy
+Gehringer E
+E Gilbert
+R. Duraiswami
+D. Woodard
+Paul Rosenbloom
+Thomas Dillig
+Vishwanathan S
+Diane Litman
+Daisy Zhe Wang
+Daniel Miranker
+Stevens K
+Ricardo G. Osuna
+Steven J. Gortler
+C S Ellis
+D. Hoiem
+J Katz
+S Muthukrishnan
+E M Provost
+G. Meyer
+John Kubiatowicz
+Gregory Wakefield
+Yun S. Song
+Rappa M
+N. Li
+David T. Blaauw
+R Stevens
+Barua R
+Schaal S
+Vijaya Ramachandran
+J. Allen
+Foster J
+M. Stone
+J R Lee
+Furer M
+B Pardo
+T Vidick
+M. Dyer
+Xing E
+J. Canny
+J. O'Brien
+Oliver (Ollie) S Cossairt
+Correll N
+Thomas Wenisch
+R Kumar
+D. Kriegman
+T N Vijaykumar
+Randal Nelson
+Fowlkes C
+C. Rotaru
+G Meenakshisundaram
+M K Farrens
+A Sahakian
+W Griswold
+S. Aaronson
+John Byers
+Carlos Scheidegger
+D Zorin
+R. Acharya
+Eric Vigoda
+Sampson J
+J. Hartman
+James Caverlee
+Sapiro G
+M. Kaashoek
+Crowley P
+M. Prastawa
+B Kulis
+Joseph Halpern
+Dinda P
+Jessica Hodgins
+Manoj Prabhakaran
+T. Hosking
+L. Gravano
+A J Smola
+T Y Kahveci
+Ge Yang
+J Browne
+Amit Sahai
+Umans C
+F Cuevas
+D. Subramanian
+Shyhtsun F Wu
+Shrikanth Narayanan
+Michael Shamos
+C C Burch
+Madduri K
+Procaccia A
+Ramakant Nevatia
+J. Misra
+Y Lu
+William Cohen
+J. Zittrain
+Nora Ayanian
+David M. Brooks
+B Hartmann
+Chi M
+S. Shieber
+O. Vitek
+Blaauw D
+John H Hartman
+G Xue
+J. Prins
+Charles Eastman
+Su-In Lee
+Karrie G Karahalios
+Aditi Majumder
+Edward A Fox
+Mark V. Langeveld
+Yair Amir
+Joseph D
+Joseph A
+J Kurose
+Blei D
+L Hunter
+Allen J
+Max Mintz
+K. Karahalios
+J. Luo
+Steffen Heber
+Metaxas D
+C. Kästner
+Ahmed Elmagarmid
+Jyh C( Liu
+Dimitris Metaxas
+R Balasubramonian
+H M Wallach
+Shi K. Chang
+J Chuzhoy
+J. Wiebe
+R D Skeel
+Leo Bachmair
+Liskov B
+J. Xu
+G. Blelloch
+A O Hero
+R. Wagner
+C. Henriquez
+Moss J
+Givargis T
+Ten-Hwang Steve Lai
+Kindlmann G
+John Laird
+Kerne A
+Russell Schwartz
+Silberschatz A
+Owen Astrachan
+Marty Humphrey
+E Anshelevich
+Michael Smith
+Kenneth Forbus
+A. Ng
+Ali R. Butt
+Downey P
+Ahmad Y
+Huijia ( Lin
+Sumi Helal
+Ford B
+J Gao
+M Y Vardi
+H ( Lin
+LaValle S
+Sankaralingam K
+Ming-Deh Huang
+J Carrasquel
+Greg Plaxton
+D M Gusfield
+D Siewiorek
+M. Stallmann
+J. Crummey
+Michael Reiter
+A. Doan
+Ho S
+Ho T
+Daniel Hirschberg
+Rahul Sarpeshkar
+Ziv B Joseph
+Krishnendu Chakrabarty
+R. Gordan
+Perlis D
+A Borning
+Bhubaneswar Mishra
+David Kieras
+Judea Pearl
+Gordon S. Novak Jr.
+J Graber
+Raman Arora
+A Shankar
+Franco Preparata
+S. Baveja
+S. Bratus
+Farnam Jahanian
+Basu S
+D Huttenlocher
+Devadas S
+Stephen Pizer
+G. Wakefield
+Albert Meyer
+L A Hemaspaandra
+Mitch Marcus
+R R Murphy
+Salisbury K
+U Ramachandran
+Jonathan Appavoo
+Engler D
+D Mazieres
+X. Zhu
+Charles Dyer
+J Barbic
+P Barford
+T H Cormen
+S. Khanna
+P Resnik
+Nguyen T
+Jebara T
+S. D'Mello
+E M Clarke
+Fox E
+G Bejerano
+B. Childers
+Remmel J
+M Mokbel
+Tuba Yavuz-Kahveci
+A Marian
+M I Seltzer
+Z B Joseph
+A Milanova
+J Regehr
+W. Scherlis
+Xin Li
+Michael Fern
+Xiaowei Yang
+S Khanna
+E. G. Sirer
+Benjamin C. Lok
+K Palem
+B. Zhang
+Ann Lee
+Chang Liu
+B MacIntyre
+A Blum
+Luay K. Nakhleh
+A Katsaggelos
+A Arora
+R A Olsson
+A. Cline
+Lane A Hemaspaandra
+C. Bystroff
+V. Pai
+Y Mostafa
+Wang Lee
+B. Noble
+S Nayar
+J Jones
+B. Cutler
+Loren Terveen
+V. Sarin
+Rance Cleaveland
+J. Spencer
+S Amarasinghe
+Rick Stevens
+B. Vemuri
+David V Horn
+Sartaj Sahni
+Roderic A Grupen
+Karypis G
+Jitendra Malik
+D. Gracanin
+D. Mount
+P Smyth
+J. Devietti
+Christopher Langmead
+M J Strauss
+Stephen A. Edwards
+Nagpal R
+Sherwood T
+Blum L
+Blum M
+M. Ackerman
+Blum A
+S. Lazebnik
+Pardo B
+R Graham
+S S Baveja
+Patrick Gerard Traynor
+Sencun Zhu
+Nandi A
+James D
+T C Ho
+Chiarulli D
+P. Smaragdis
+Kobus v.d. Merwe
+Barsky B
+Daniel J Hsu
+S. Cho
+P Devanbu
+S. Dwarkadas
+T. Brown
+R Rosenfeld
+D. Hirschberg
+H Zheng
+V Williams
+Junfeng Yang
+A Snoeren
+William Scherlis
+Frank M. Shipman
+P N Belhumeur
+G N Frederickson
+K N Levitt
+F Gygi
+Syed Z
+Howie Choset
+Daisy Wang
+John Hayes
+John Regehr
+H Mohseni
+Martha Palmer
+Parrilo P
+C. Baral
+S D Gribble
+A Efros
+W. Freeman
+Kurtz S
+Vigoda E
+S. Teng
+M Sudan
+Eskin E
+Avestimehr S
+Simon S. Lam
+B. Miller
+P Medvedev
+L. Fortnow
+D Bahler
+R Grupen
+Shelat A
+Berger B
+Calder B
+J. Lawrence
+J Ferrante
+K. Koedinger
+Katsaggelos A
+Tuba Kahveci
+M Bermudez
+J Golbeck
+Julia Hirschberg
+Chai J
+Brent Waters
+S Gupta
+D. Kifer
+M. E. Hoque
+E. Sacks
+P. Keleher
+M. Ernst
+S H Jacobson
+W Lloyd
+A Dusseau
+Martin Furer
+M. Kirby
+D Steurer
+Jianwen Su
+Harper R
+Yelick K
+Evdokia Nikolova
+Christopher Gill
+D Nau
+Daniel Klein
+L. R. Scott
+Robert D. Rodman
+C Raghavendra
+Hongwei Xi
+I Davidson
+Laird J
+Ahmed Elgammal
+Jacob Abernethy
+P. Liang
+Hussein Badr
+S Khot
+P. Dasgupta
+Rafail Ostrovsky
+C D Savage
+A. Dam
+Wm. Randolph Franklin
+S. Russell
+E. Eskin
+J Jarvi
+R. Nelson
+D A Bader
+M Prabhakaran
+Wasilewska A
+S Buss
+B Snyder
+Duncan Walker
+Bianchini R
+Jan Prins
+P. Kazanzides
+Gini M
+Bustamante F
+Xie T
+Z Rakamaric
+Xie Y
+Xie X
+J. EB Moss
+E Kalogerakis
+J Shi
+E Kohler
+David I. Zuckerman
+Jacob White
+A. Martin
+McCallum A
+P. Drineas
+Chunyi Peng
+V. Bafna
+Mitchell J
+Mendel Rosenblum
+Xiaosong Ma
+Kesidis G
+R Alterovitz
+M Ahamad
+L Kavraki
+Carla Gomes
+Rotaru C
+R. Alur
+S Mahlke
+J Peir
+Traub J
+Goldsmith J
+Dong Xuan Xuan
+Dovrolis C
+Robin R. Murphy
+Tolga Tasdizen
+R Barua
+Vemuri B
+O ( Cossairt
+M Veeraraghavan
+P Wonka
+C. Barrett
+Jeffrey Remmel
+C Kruegel
+John Crummey
+N Heninger
+R O'Donnell
+R Chirkova
+Seth Teller
+L. Wilcox
+Richard Furuta
+V. Conitzer
+X. Liu
+Kanade T
+M. Dahlin
+D. Chiang
+M Green
+W. Wang
+M Flatt
+Y. Amir
+L Valiant
+Y. Amit
+Nakhleh L
+B Calder
+Viktor Gruev
+Snir M
+Long Lu
+Jur vd Berg
+Jesse Barlow
+C Mathieu
+G. Rouskas
+C McMillan
+Dewan P
+William Press
+Ross Whitaker
+B. Durme
+Charalampos (Babis) Papamanthou
+Ketan Mulmuley
+P. Steenkiste
+J. Torrellas
+Szymanski B
+J Bennett
+E Bassett
+Michael Dinitz
+Calvin Ribbens
+Morrisett G
+Furuta R
+Nardi B
+Kifer D
+R Crawfis
+Kifer M
+Weiss J
+A. Pavlo
+L. Liu
+Acharya R
+Weiss R
+A. Efrat
+V Jojic
+Roxana Geambasu
+J. Cong
+Aman Yadav
+Boon Loo
+Luca Carloni
+R. Canetti
+X Li
+Bruce Tidor
+R. Kondor
+E Brunskill
+C M Brown
+J Chase
+Levin L
+Matthew Flatt
+Acar U
+N Soundarajan
+S. Horwitz
+J. Poulson
+E G Miller
+Xin Liu
+Jennifer Rexford
+N. Minsky
+Akleman E
+Kahveci T
+Todd Brun
+Saumya Debray
+M Levoy
+A Nahapetian
+Checkoway S
+E. G Sirer
+William Stewart
+A Bhattacharjee
+Adam Lee
+M Mintz
+Dusseau R
+A. Kaufman
+K Gajos
+R. Vuduc
+Raluca M Gordan
+J Hennessy
+Ladner R
+M Kaashoek
+Feniosky P. Mora
+Ron Fedkiw
+Gniady C
+Alfred Kobsa
+M Blaze
+Robert Calderbank
+R Kalia
+J. Meseguer
+Robert Geijn
+A. Grimshaw
+Dieter van Melkebeek
+Mark Langeveld
+Cetintemel U
+A Bruckman
+Alexandra Meliou
+A Banerjee
+Matusik W
+F Durand
+Song Chun Zhu
+D Terzopoulos
+K. Whitehouse
+J. Fogarty
+Wim v. Dam
+W B Croft
+Pandey R
+Ferrari S
+T. Proebsting
+R. Mihalcea
+David Blei
+Amato N
+E Bach
+John Mellor-Crummey
+A. Porter
+P McDaniel
+M Hajiaghayi
+T Austin
+Claire Mathieu
+L. Adleman
+P Liang
+A Srinivasan
+M. Genesereth
+O Regev
+M Thai
+Zabih R
+S Horwitz
+Frederick Jr.
+G Gibson
+J. Wang
+G. Sukhatme
+H. Zhou
+Shewchuk J
+Ethan Bassett
+Mark Corner
+Andries van Dam
+M. Huang
+Osher S
+G. Turk
+J. Zimmerman
+W O Johnson
+A. Kerne
+Alex C Snoeren
+F Preparata
+D. Siewiorek
+T. Dillig
+M Guzdial
+Min Chi
+M. Irwin
+A. Waibel
+Das S
+Santosh Vempala
+E Szemeredi
+Rudra Dutta
+C. Jr.
+Das C
+Ricardo G Osuna
+Tucker Balch
+Alfred O. Hero
+Jan M. Frahm
+S. Narayanan
+A. Borgida
+G Mark
+J. S. Moore
+Ronald Olsson
+Kirk Pruhs
+Tim Sherwood
+T. Yu
+P Sadayappan
+Todd Austin
+Sudhanva Gurumurthi
+S Koenig
+Dan Roth
+Jaideep Srivastava
+D. Blei
+Kunle Olukotun
+John D. Kubiatowicz
+R Dutta
+Daniilidis K
+Damon L. Woodard
+S Chang
+B Argall
+Kavita Bala
+K Shen
+B Dally
+Kathryn Roeder
+H Venkateswaran
+Montek Singh
+M. Colton
+Robert L(D III
+O. Regev
+B Mozafari
+W Matusik
+D. Oard
+Paul Hudak
+Wei T Tsai
+Adam Finkelstein
+C Jenkins
+Aaron Quinlan
+Krishnamurthi S
+Tygar D
+Mary Hall
+Z Bai
+Candan K
+J. Goldsmith
+R Lipton
+Alan Sahakian
+B. Prabhakar
+Zahorjan J
+Millstein T
+C. Potts
+R. Grupen
+D. Loguinov
+Koehl P
+Conitzer V
+Rivest R
+Sandholm T
+K. Butler
+Gail E Kaiser
+J. Chai
+Matthias Stallmann
+S Wu
+S K Nayar
+E Lussier
+G. Valiant
+Findlater L
+J Chen
+J. Izaguirre
+Shyhtsun Felix Wu
+R. Pandey
+P. Mohapatra
+Kathleen M Carley
+G. Essl
+Tang L
+Rubenstein D
+P. Wonka
+J Kuo
+M E Zarki
+D Wetherall
+M M Ismail
+Bodik R
+Molina H
+Alan H. Barr
+K McMullen
+V. Taylor
+Isler V
+J Nelson
+B V Durme
+Ravi Ramamoorthi
+Y. Yemini
+R. Impagliazzo
+Fei F Li
+C Zheng
+J Wawrzynek
+P K Allen
+Lirong Xia
+F. Gygi
+C. Burch
+Arunava Banerjee
+M Yannakakis
+E Witchel
+S. Dasgupta
+Charles Jr.
+Keith Marzullo
+M. Green
+Christoph Bregler
+J Devietti
+Joseph N Wilson
+Henrik Christensen
+K. Yelick
+Dwyer C
+Loveland D
+D Garlan
+R Tarjan
+A. Boldyreva
+Dutta P
+Fujimoto R
+Emanuel Todorov
+F. Schneider
+Scott A. Smolka
+R. Wenger
+Provost E
+Olga Vitek
+Herlihy M
+Wang R
+D. Miranker
+B. MacIntyre
+Nicholas Roussopoulos
+S. Suri
+Price E
+C Umans
+S. Kasera
+N. Amato
+Steiger W
+E H Spafford
+B. Dorr
+Mark Oskin
+Luay Nakhleh
+S Seshan
+A. Haeberlen
+Nikil Dutt
+E. Brunskill
+H Lee
+H Choset
+R. Tarjan
+H C Bravo
+Colton M
+E Felten
+Donald Yeung
+Yarowsky D
+Dan Frost
+Anxiao (Andrew) Jiang
+Valerie Taylor
+R Ramamoorthi
+L Schulman
+C T Lu
+X. Ma
+Tamal Dey
+A Clauset
+J. Konstan
+A J Hartemink
+Whitehouse K
+Steven LaValle
+F E Bustamante
+J. Berg
+Ryan Williams
+Noah Smith
+Demetri Terzopoulos
+J Peters
+Melvin Breuer
+Guha S
+O Egecioglu
+L Bachmair
+P. Dutta
+Fredo Durand
+A Klappenecker
+W. Peake
+Fischer M
+M. Turk
+A Efrat
+Fischer G
+R. Ramamoorthi
+P. Raghavan
+M. Kandemir
+Iftode L
+S Istrail
+John H Reif
+Hall M
+Kostas Bekris
+A Kobsa
+Birnbaum L
+R. Ram
+S. Osher
+Paul Medvedev
+S. Helal
+D A Barrington
+Tijana Milenkovic
+Roderic A. Grupen
+Sadeh N
+R Tedrake
+C. Gniady
+Jeffrey Siskind
+Mingyan Liu
+Collofello J
+M. Charikar
+Lydia E Kavraki
+Jin Y. Cai
+Kevin Bowyer
+Srivastava M
+Srivastava J
+W Cohen
+Suri S
+K Butler
+Magda E. Zarki
+Kirby M
+M. Watts
+J Foster
+Kaelbling L
+Sridhar Mahadevan
+Mathieu C
+A. Regan
+Stasko J
+Blair D. Sullivan
+S A Smolka
+S. Zhu
+V Vazirani
+R D Rodman
+R Dick
+C. Dovrolis
+A. Prakash
+Irani S
+Tiffani L. Williams
+T Schmid
+C G Healey
+Y. Papakonstantinou
+W Scherlis
+H. Molina
+Pass R
+Pop M
+Patrick McDaniel
+Alexandra Kolla
+I. Pe'er
+Stephen M Thebaut
+Alin Deutsch
+Watts M
+S M Shieber
+Bowyer K
+C. Neuwirth
+Sivilotti P
+Steven Bellovin
+Lawrence Henschen
+Patrick D. McDaniel
+P Agarwal
+G Gerig
+Yiming Yang
+B Curless
+S. Daily
+Yosef N
+M. Dredze
+S Jarecki
+V Ganapathy
+A. Requicha
+G. Jr.
+Shamkant Navathe
+Jodi Forlizzi
+R. Geijn
+Ten H.S. Lai
+Hector Molina
+D M Walker
+T He
+Jeffrey S. Chase
+Steven K Feiner
+Daniel Kane
+T Ho
+G E Kaiser
+Randal Bryant
+Rao S
+J Weissman
+G Memik
+R R Muntz
+Milind Tambe
+Bill Lin
+Nancy M Amato
+K M Carley
+Carbonell J
+H. Mohseni
+Knight K
+Knight J
+C ( Raghavendra
+Arora A
+E Nyberg
+K. Olukotun
+S Dow
+Arora R
+Arora S
+Woodard D
+R. Joseph
+S. Zucker
+S Kopparty
+Amir Y
+Desbrun M
+T Ideker
+Leonard B. Pitt
+C. Mathieu
+Panos Chrysanthis
+J. Barbic
+Weimer W
+C. Kulikowski
+Z. Popovic
+R. O'Donnell
+L. Birnbaum
+Syrotiuk V
+Hal III
+E. Kalogerakis
+L Dabbish
+Scott C Schmidler
+L. Raschid
+A Kundaje
+V Freeh
+Indyk P
+A Sen
+Eftychios Sifakis
+D S Weld
+Mitra S
+C Zhai
+A Gerasoulis
+Y. Chen
+K Schwan
+A. Ungor
+Holly Rushmeier
+S Irani
+N Spring
+T Cormen
+D. Towsley
+G. Voelker
+J A Jones
+Michael R. Watts
+Zettlemoyer L
+C Gniady
+Mihalis Yannakakis
+Alvisi L
+Treuille A
+James Demmel
+D. Fussell
+Erik GL Miller
+J. Alex Halderman
+A Gandhi
+Eric Roberts
+C Tseng
+Saul L
+C Poellabauer
+C Das
+D Shasha
+Lenwood Heath
+J. Halpern
+S Rodger
+Alexander Waibel
+K Bowyer
+D. Laidlaw
+Cooper S
+C Lopes
+Tim T. Chen
+W Jr.
+J Z Kolter
+J. M Rojas
+Han W Shen
+Oliver (.S. Cossairt
+James O'Brien
+A v Hoek
+Satinder Singh Baveja
+Heimdahl M
+Douglas Reeves
+Henry M. Levy
+T. Davis
+S. Nowick
+Guillermo Sapiro
+J L Welch
+C Krintz
+Stevens R
+T Xie
+Donald Towsley
+Alexandre Megretski
+Margaret H Wright
+L Peterson
+S Sze
+Duncan M. Walker
+T Imielinski
+James R. Lee
+Susan B. Davidson
+D Balkcom
+Jeremy Buhler
+D Pe'er
+Kevin Sullivan
+C Zilles
+G. Kaiser
+S Aluru
+P. Gill
+A Orailoglu
+Jens Palsberg
+Richard T Snodgrass
+Chitta Baral
+Kavan L
+N. Snavely
+Swarat Chaudhuri
+R Vuduc
+D. Grossman
+Vincent Conitzer
+S. Kamin
+David T Blaauw
+B Urgaonkar
+Kirk W Cameron
+B. Hecht
+Daniele Micciancio
+David Garlan
+P. Rogaway
+Shroff N
+Lange J
+Wu S
+S. Seshan
+Denis Gracanin
+J Purtilo
+Michael L Scott
+R. Whitaker
+F M Shipman
+M D Ercegovac
+Raissa D'Souza
+S V Vishwanathan
+R Grimm
+A. Majumder
+Ammar M
+T Mudge
+M Waterman
+Criswell J
+R. Crawfis
+Z Syed
+Michael T Goodrich
+Jennifer Mankoff
+Elizabeth Jessup
+Carolyn Rose
+Joseph D III
+J Malik
+M. Horowitz
+O Balci
+David Alexander Forsyth
+Douglas II
+S. Kopparty
+Kennet Joy
+Connelly Barnes
+Veidenbaum A
+Ziv B. Joseph
+A Veidenbaum
+J. Zhu
+Hong Qin
+J Harer
+M Irwin
+Vempala S
+S Kamin
+Don Batory
+Widlund O
+Spyros Blanas
+M Gini
+A Rangarajan
+P Mavromatis
+S Fong
+L Kaelbling
+McDaniel P
+Marcel Prastawa
+B A Berger
+Scheuermann P
+M Yu
+C Bajaj
+A. Dey
+R. Martin
+Ilias Tagkopoulos
+Scott Klemmer
+Buhler J
+Roussopoulos N
+N. Dutt
+P Raghavendra
+Govindan R
+Alex Endert
+Essa I
+Michael Littman
+Shlizerman I
+D. Xuan
+D. Stefankovic
+Rixner S
+A Hartemink
+Aviral Shrivastava
+Elaheh (. Bozorgzadeh
+King S
+King R
+Trinkle J
+Adrien Treuille
+Luay K Nakhleh
+H. Badr
+M. Martonosi
+H Ombao
+Schoenebeck G
+G. Gerig
+Alan Yuille
+James H Waldo
+Chris Atkeson
+Nikolova E
+Cynthia Sturton
+M. Welling
+William D Gropp
+Kollios G
+Fletcher T
+Entezari A
+J Board
+A. Greenwald
+S. Basu
+Daley R
+J. Weiss
+Carl A. Gunter
+Garrison Cottrell
+John D Kubiatowicz
+John R. Kender
+V Isler
+Julie Dorsey
+T Dey
+Xiao C. Cai
+A Datta
+Steven Dow
+D Agrawal
+Stephen McCamant
+Henry Kautz
+C Kruskal
+Charles Elkan
+D. Melkebeek
+H. Qin
+Xia Y
+Yuval Tamir
+J Eppinger
+Chita R Das
+Richard Wolski
+David Kempe
+Xia L
+C. Das
+Evangelos Kalogerakis
+A Bargteil
+Assaf Kfoury
+G Sussman
+K Sen
+B Bailey
+D. Gelernter
+Susanne Hambrusch
+Cliff Shaffer
+R Weiss
+Horn B
+Horn M
+M Belkin
+Andrea A. Dusseau
+Morteza A. Rahimi
+D. Garlan
+Wu Feng
+Eugene Spafford
+Jackson M
+M Furer
+S Roumeliotis
+C Ribbens
+N. Sadeh
+V. Adve
+Paul Beame
+Akella A
+Bozorgzadeh E
+G Morrisett
+Brian A Barsky
+R Vohra
+K Cameron
+Korf R
+D Sicker
+L. Orecchia
+G. Miller
+Seda Memik
+A McGregor
+Dezhen Song
+Siskind J
+Ramanan D
+Luca Daniel
+Berger E
+R Nagpal
+F V Cuevas
+Karsten Schwan
+A. Machanavajjhala
+D. Spielman
+Livescu K
+Martin Plonus
+W. Gropp
+Wilcox L
+J. Black
+Harris I
+R Basole
+Joseph Ja'
+Bradley E
+Bernstein M
+Miller J
+Miller G
+Miller E
+M. Martin
+S Pizer
+Miller B
+J Flinn
+Luis VonAhn
+Ralph Grishman
+J. Metzner
+Miller W
+George Karypis
+Miller R
+K. Edwards
+Y. Brun
+J. Katz
+B. Chang
+K Harfoush
+A. Saxena
+Michael R Watts
+Y F Wang
+G. Cottrell
+H. Rushmeier
+M. Dinitz
+M Freedman
+J Reggia
+Erik Sudderth
+Benjamin Lee
+P Baldi
+David A Forsyth
+Yap C
+Chen P
+Z. Shao
+Thrasyvoulos Pappas
+Vahdat A
+Michael Mitzenmacher
+I. Foster
+T Ju
+A Weaver
+M Cukier
+K Fatahalian
+Yanif Ahmad
+Muthukrishnan S
+K v Merwe
+Z Ives
+Charles V Loan
+D P Greenberg
+Daniel S. Hirschberg
+Martin Hardwick
+D A Spielman
+Wood D
+Rudich S
+R H Campbell
+Yin Zhang
+Alex Borgida
+Cauligi (. Raghavendra
+J. Golbeck
+Alexander Smola
+Alex C. Snoeren
+A Chien
+Steven Swanson
+Kazanzides P
+A Endert
+Leonid Levin
+S Chawla
+Chang-Tien Lu
+E Do
+Elliot Anshelevich
+Palem K
+Joseph M. Hellerstein
+B Bederson
+Zvonimir Rakamaric
+Derek W Hoiem
+Zheng H
+N. Srebro
+Jason ( Cong
+E Shi
+David Sontag
+P. Klein
+S. Low
+Huttenlocher D
+A Kuzmanovic
+R Lathrop
+E. Spafford
+J Rossignac
+Rademacher L
+V Venkatasubramanian
+C M Jermaine
+A Vardy
+Madhav Marathe
+A. Megretski
+R Kraut
+S. Shenker
+Joseph Hellerstein
+M. Razeghi
+Anshelevich E
+Annie Liu
+W Hayes
+D. Suciu
+J Naughton
+Smyth P
+A Nicolau
+A Taflove
+Forbes J
+Tamir Y
+V E Taylor
+M Livny
+V. Aleven
+Farhadi A
+Smola A
+Jennifer Golbeck
+H. Balakrishnan
+U Acar
+A K Cline
+Turner J
+D. Jacobs
+Nelson B
+A Shrivastava
+Panigrahi D
+Nelson J
+T. Doeppner
+C Bystroff
+Nelson R
+Laurent Itti
+Jeffrey Foster
+Mihai Pop
+M Soffa
+M. Naik
+J. Patel
+V Conitzer
+D Thain
+C. Atkeson
+Urgaonkar B
+Grishman R
+J. A.(. Bagnell
+Constantine Dovrolis
+D. Bindel
+Brian A. Barsky
+W. Weimer
+John Metzner
+A Willsky
+D Gleich
+Loeb L
+P D Gader
+M. Mataric
+Preparata F
+Jordan B Graber
+A. Nahapetian
+Ogan K
+J P Hayes
+J Tsitsiklis
+Ogan A
+John Mitchell
+Clifford Stein
+Q F Stout
+M. Gouda
+Xia Zhou
+H Nissenbaum
+Richard Han
+H Kautz
+A. Shrivastava
+Pascucci V
+Viswanathan M
+Robert L.(.D. III
+B Hecht
+Farrens M
+Daniel Mosse
+Michael Honig
+Z. Tu
+B Mutlu
+Mozafari B
+J Weiss
+James F Allen
+Chiang D
+Shan Muthukrishnan
+P. Baldi
+M. Crovella
+Al Davis
+Richard Cole
+A. Darwiche
+U. Cetintemel
+J Lange
+J. Neville
+J III
+O Vitek
+Y Polyanskiy
+Jack Tumblin
+Daniel S. Weld
+V. Tannen
+Y Xie
+Urtasun R
+S Aaronson
+Sirer E
+Homer S
+D Fussell
+C Ellis
+Robert Moll
+R. Sarpeshkar
+Goce Trajcevski
+J. Chen
+S. Chang
+Mostafa Y
+Davulcu H
+N Nersessian
+Raj Reddy
+Ramachandran U
+T. Griffiths
+C. Zheng
+Loo B
+R Jhala
+S Mahadevan
+Sarin V
+Matthew Franklin
+G Voelker
+Grunwald D
+Merrick Furst
+J v Berg
+P Winston
+T Wies
+Hava T Siegelmann
+Michael Gleicher
+Padma Raghavan
+K Li
+Nir Shavit
+Kearns M
+Rokhlin V
+O'Leary D
+Choi Y
+O Mutlu
+Tiffani Williams
+E Clarke
+H. Schulzrinne
+Shahriar S
+R. Rubinfeld
+J. Gilbert
+Enck W
+Gottlieb A
+P Stone
+B Hardekopf
+Reiter M
+M. Bishop
+Reiss S
+Z Li
+Jhala R
+M Ammar
+Z. Khan
+Ernest Emerson
+Colin Potts
+P. Pevzner
+Jorg Peters
+Stanley Osher
+S Homer
+J Knight
+Memon A
+Xiaobai Sun
+V. Syrotiuk
+W. Richard
+H Yuen
+J Freire
+A Elmagarmid
+Craig Zilles
+Anupam Gupta
+C W Tseng
+K V Palem
+Stan Zdonik
+T Perez
+P. Felzenszwalb
+Kristy Boyer
+Patrick Crowley
+Rajiv Kalia
+Yaron Singer
+Bhattacharjee B
+Bhattacharjee A
+Dhabaleswar Panda
+Murali Annavaram
+Rina Dechter
+Tony Hosking
+M Fern
+T Berg
+B. Tomlinson
+M Goldberg
+Frank M Shipman
+P Hudak
+Yaser S. Abu-Mostafa
+C. Tomasi
+Ramalingam Chellappa
+Timothy Lenoir
+X. Cai
+S. Marschner
+Mihail M
+D Reeves
+Vineet Bafna
+Jay Kuo
+A Borgida
+A Liu
+Lu Y
+Hollingsworth J
+Abraham Haddad
+Blair D Sullivan
+Butt A
+Lu S
+Rajesh Rao
+Lu L
+Hector G Molina
+W. Stewart
+Lu C
+R. Janardan
+B Hamann
+P. Cousot
+Bilge Mutlu
+Papamanthou C
+Bonneau R
+K Cooper
+Carley K
+S Russell
+Sedgewick R
+Fuchs H
+Ryan Adams
+Salil Vadhan
+G. Schoenebeck
+Hector Garcia-Molina
+D. Thain
+Viktor K Prasanna
+Pe'er I
+Yarosh S
+G. Cao
+Patrick Traynor
+S Katti
+Pe'er D
+C Guerra
+Vitek J
+Vitek O
+L Akoglu
+D L Woodard
+Edwards K
+Lenhart Schubert
+Huamin Wang
+Trey Ideker
+Ken Salisbury
+Stergios Roumeliotis
+Edwards S
+G. Ganger
+C. Shahabi
+N. Soundarajan
+Mary Shaw
+Marco Levorato
+Jaeger T
+M Choudhury
+R. Tate
+Boehm B
+P. Szolovits
+J N Wilson
+Robin Kravets
+Sturgill D
+T Yang
+R T Snodgrass
+Cukier M
+Mike Genesereth
+M. Caesar
+D Bitzer
+Wesley O. Johnson
+P J Flynn
+J. Turner
+Sheldon H Jacobson
+D Kotz
+Joseph R
+Daniel J. Sorin
+Ye J
+R Grishman
+T. Berg
+V. Ganapathy
+Elchanan Mossel
+D Laidlaw
+Eisenberg M
+Zue V
+Eisenberg A
+B Bhargava
+McKeown K
+D Cox
+Nathan Srebro
+D Kieras
+McKeown N
+John Kececioglu
+Douglas Comer
+Joseph Z
+Junghoo (. Cho
+Lopes C
+B Ludaescher
+Edmund H. Durfee
+Tina E Rad
+Corey Toler-Franklin
+Dellaert F
+T. N Vijaykumar
+D. Bahler
+Wei C Lin
+L. Ceze
+Fainekos G
+Alan Cox
+Conte T
+T Henderson
+H. III
+J. Traub
+K. Grauman
+Z H Syed
+K. Chakrabarty
+A Kaufman
+Boldyreva A
+T. Austin
+S Shieber
+Timothy A Davis
+M. Kim
+Klara Nahrstedt
+V Paxson
+Q. Lv
+P Berman
+Dhabaleswar K.(. Panda
+A Waibel
+B Watson
+K Joy
+K Sullivan
+D Boneh
+R Stoleru
+M. Heimdahl
+Balci O
+Richard Lathrop
+Dongyan Xu
+Sze S
+D McDermott
+N Foster
+George N Rouskas
+Tiffani L Williams
+Y H Lu
+Elaheh (Eli) Bozorgzadeh
+Stuart J Russell
+Ani Nenkova
+L Zettlemoyer
+H M Levy
+Donald F. Towsley
+Julia Chuzhoy
+G. Wornell
+M Mozer
+Sergei Nirenburg
+Z Mao
+D Radev
+A Regan
+Ryan O'Donnell
+Jonathan Aldrich
+Umut Acar
+Quentin F Stout
+Ortiz L
+A L Cox
+G. Karypis
+J Froehlich
+Thomas R. Ioerger
+R. Rohs
+Gregory W. Wornell
+Tal Malkin
+Ganesan D
+Gerald FD II
+B M Marlin
+L. Schulman
+S. Lam
+Lim J
+Bruce R. Donald
+C Brown
+George Necula
+Jianer Chen
+P. Devanbu
+B Prabhakar
+R Tibshirani
+Mark Riedl
+Zhou X
+Zhou Y
+Jin Y Cai
+C. Zilles
+D Jiménez
+Greg Turk
+Philip Klein
+Zhou H
+Frahm J
+B Ford
+Carlos Varela
+J. Morris
+Alain Martin
+Baldi P
+D Oard
+Froehlich J
+Trivedi K
+M D Choudhury
+Bahman Kalantari
+G Vigna
+Mishra S
+Richard E. Ladner
+Burch C
+Mary Jane Irwin
+Nassir Navab
+My T Thai
+Richard Muntz
+V. Bertacco
+D Kempe
+Morteza A Rahimi
+M Arbib
+S Gortler
+Y S Mostafa
+G Welch
+J Holland
+A Myers
+L. Xia
+H. Nissenbaum
+X Yan
+S. Debray
+Thomas F Wenisch
+Michael Scott
+R. DeMillo
+R Paturi
+A. Marian
+Benjamin M Marlin
+Bailey B
+Potts C
+R Harper
+Rob A. Rutenbar
+H. Yuen
+B DiSalvo
+M Kandemir
+Wu Y
+Wu C
+J. Moore
+Zachary J
+R. Sion
+L. Tang
+A Finkelstein
+Kihara D
+Chamberlain R
+K. Mueller
+Junghoo Cho
+Eugster P
+R. Majumdar
+A. Endert
+D Katabi
+D August
+Soffa M
+Fergus R
+David Van Horn
+E. Miller
+J. Snoeyink
+Hector Bravo
+I Scherson
+Tai S Lee
+Vladimir Rokhlin
+H. Zheng
+Emerson Murphy-Hill
+S. Goldstein
+A Chakrabarti
+Prasad Tetali
+Julia Constanze Hockenmaier
+K Barnard
+D Randall
+Mahesh Viswanathan
+K. Madduri
+S. Ratnasamy
+Paul Sivilotti
+J Ernst
+Kalia R
+Steve Marschner
+B. Urgaonkar
+Danfeng Yao
+Ricardo Bianchini
+F Berman
+Peter N. Belhumeur
+Andries v. Dam
+S Mukherjee
+Abbadi A
+Pavlo A
+Venkat Venkatasubramanian
+David Brumley
+M Viswanathan
+T. Ioerger
+T. Dey
+C Lee
+Xiao Cai
+Chandra S Chekuri
+Chengxiang Zhai
+Traynor P
+Michael Carey
+D. Katabi
+Norman S Matloff
+J. Wileden
+M. Schneider
+L. VonAhn
+Sachin Katti
+Heller K
+R. Lucic
+Spencer J
+Chita R. Das
+J. Demmel
+Leonard Schulman
+Kellis M
+Downey D
+romit choudhury
+T Breaux
+D Grossman
+Maneesh Agrawala
+A Mok
+D. Eppstein
+S. Nayar
+Michael Franz
+S Ratnasamy
+Jiménez D
+David Wetherall
+Douglas Oard
+John H. Reif
+Zeev Dvir
+Richard Kemmerer
+Cauligi (Raghu) Raghavendra
+D I Zuckerman
+Robert F Murphy
+Hennessy J
+J Kaur
+Gacs P
+V. Misra
+D Zuckerman
+J C Liu
+Pablo Parrilo
+Pen C Yew
+Jeffrey Naughton
+Dong X. Xuan
+S. Rao Kosaraju
+Prakash A
+A. Nicolau
+K. Gajos
+E Chow
+B Godfrey
+R Y Chirkova
+M. Hearst
+John P. Hayes
+Lakshminarayanan Subramanian
+Kyla A. McMullen
+Neil Immerman
+Kittur A
+T L Perez
+A Razborov
+M L Scott
+S. Bringsjord
+S Stolfo
+Ian Foster

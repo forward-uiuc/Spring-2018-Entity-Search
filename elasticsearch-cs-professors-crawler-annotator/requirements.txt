@@ -1,0 +1,5 @@
+requests
+argparse
+html2text
+html5lib
+lxml

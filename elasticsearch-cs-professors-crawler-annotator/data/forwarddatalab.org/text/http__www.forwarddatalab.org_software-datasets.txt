@@ -1,0 +1,416 @@
+
+
+
+
+
+
+/* Copyright 2008 Google. */ (function() { (function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(h){}};this.tick("start",null,a)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+
+
+
+
+
+
+
+/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+
+
+
+
+
+
+
+  
+
+
+
+  var breadcrumbs = [{"path":"/software-datasets","deleted":false,"title":"Code/Datasets","dir":"ltr"}];
+
+  var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/13f212/system/app/images/cleardot.gif';
+
+
+
+  
+
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+
+
+  
+
+  
+
+
+
+  
+
+
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":false,"pageSharingId":"jotspot_page","enableUniversalAnalytics":false,"sharingPolicy":"OPENED","siteTitle":"Forward Data Lab","onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"oAuthForChartsApi":true,"contactStoreMigrationPollForGapi":true,"gapiLoaderUtil":true,"moreMobileStyleImprovements":null,"googleChartsOverGstatic":false,"picasaAlbumInsert":false,"pageDrafts":false,"enableJot2Atari":false,"plusBadge":false,"pdfEmbedSupport":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":true,"serverFlags":{"cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttp://sites.google.com/site/forwarddatalab/software-datasets\u0026service\u003djotspot","analyticsAccountId":"","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"http://csi.gstatic.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["http://www.gstatic.com/sites/p/13f212/system/app/css/sitelayouteditor.css"],"text":["http://www.gstatic.com/sites/p/13f212/system/js/codemirror.js","http://www.gstatic.com/sites/p/13f212/system/app/css/codemirror_css.css","http://www.gstatic.com/sites/p/13f212/system/js/trog_edit__en.js","http://www.gstatic.com/sites/p/13f212/system/app/css/trogedit.css","/_/rsrc/1516221216000/system/app/css/editor.css","http://www.gstatic.com/sites/p/13f212/system/app/css/codeeditor.css","/_/rsrc/1516221216000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"defaultdomain","baseUri":"","name":"forwarddatalab","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/Los_Angeles","type":"text","title":"Code/Datasets","locale":"en","wuid":"wuid:gx:2e4f3c08b9cbb887","revision":8,"path":"/software-datasets","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"software-datasets","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","onePickToken":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/system/app/pages/gadgets"}};
+
+  webspace.page.breadcrumbs = breadcrumbs;
+
+
+
+  
+
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+
+
+
+
+
+
+                window.jstiming.load.tick('scl');
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code/Datasets - Forward Data Lab
+
+
+
+
+
+
+
+                window.jstiming.load.tick('cl');
+
+              
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forward Data LabSearch this site
+
+
+
+
+
+
+
+HomeResearchPublicationsPeopleDemosCode/Datasets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeSitemap
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Code/Datasets
+
+
+
+
+
+
+
+CodeConditional Probabilistic Constraints: Regularizing Structured Classifier with Conditional Probabilistic Constraints for Semi-supervised Learning. V. W. Zheng and K. C.-C. Chang. In CIKM 2016, 2016. PDF BibTex Dataset Code.FastPPV: Incremental and Accuracy-Aware Personalized PageRank through Scheduled Approximation. F. Zhu, Y. Fang, K. C.-C. Chang, and J. Ying. PVLDB, 6(6):481-492, 2013. In VLDB 2013. PDF Slides BibTex Dataset Code.SubMatch: Metagraph matching, from the paper Semantic Proximity Search on Graphs with Metagraph-based Learning. Y. Fang, W. Lin, V. W. Zheng, M. Wu, K. C.-C. Chang, and X. Li. In ICDE 2016, pages 277-288, 2016. PDF Slides BibTex Code.DatasetsEIE/NER/POS Data: Datasets for Entity Information Extraction (EIE), Named Entity Recognition (NER), and Part-Of-Speech tagging (POS), for Regularizing Structured Classifier with Conditional Probabilistic Constraints for Semi-supervised Learning. V. W. Zheng and K. C.-C. Chang. In CIKM 2016, 2016. PDF BibTex Dataset Code.Twitter Data: This dataset contains 284 million following relationships, 3 million user profiles and 50 million tweets, and was collected at May 2011.Graph Data I: Two real-world graphs (DBLP and query log) for our work on RoundTripRank.Graph Data II: Two real-world graphs (DBLP and LiveJournal) for our work on FastPPV.Cross Task Data: The datasets used in our work on Cross-Task Document Scoring.Entity-centric Data: Two datasets for our work on entity-centric document filtering.Ego Network Data: A dataset of Ego Networks collected from Linkedin.SSL Data: Several standard semi-supervised learning datasets used in our work on graph-based smoothness.  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+Sign in|Recent Site Activity|Report Abuse|Print Page|Powered By Google Sites
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+    window.jstiming.load.tick('sjl');
+
+  
+
+
+
+
+
+    window.jstiming.load.tick('jl');
+
+  
+
+
+
+      
+
+          sites.core.Analytics.createTracker();
+
+          sites.core.Analytics.trackPageview();
+
+        
+
+    
+
+
+
+                    sites.Searchbox.initialize(
+
+                        'sites-searchbox-search-button',
+
+                        {"object":[]}['object'],
+
+                        'search-site',
+
+                        {"label":"Configure search options...","url":"/system/app/pages/admin/settings"});
+
+                  
+
+
+
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+
+    
+
+
+
+            JOT_setupNav("2bd", "Navigation", false);
+
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+
+          
+
+
+
+  setTimeout(function() {
+
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+
+    gsites.Xhr.send('http://www.forwarddatalab.org/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+
+  }, 500);
+
+
+
+
+
+                    window.onload = function() {
+
+                      if (false) {
+
+                        JOT_setMobilePreview();
+
+                      }
+
+                      var loadTimer = window.jstiming.load;
+
+                      loadTimer.tick("ol");
+
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+
+                      window.jstiming.report(loadTimer, {}, 'http://csi.gstatic.com/csi');
+
+                    }
+
+                  
+
+
+
+        JOT_insertAnalyticsCode(false,
+
+            false);
+
+      
+
+
+
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+
+        webspace, "en");
+
+    maestroRunner.initListeners();
+
+    maestroRunner.installEditRender();
+
+  
+
+
+
+  //<![CDATA[
+
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+
+    if (webspace.user.hasWriteAccess) {
+
+      JOT_decorateButtons();
+
+    }
+
+
+
+    // Fires delayed events.
+
+    (function() {
+
+      JOT_fullyLoaded = true;
+
+      var delayedEvents = JOT_delayedEvents;
+
+      for (var x = 0; x < delayedEvents.length; x++) {
+
+        var event = delayedEvents[x];
+
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+
+      }
+
+      JOT_delayedEvents = null;
+
+      JOT_postEvent('pageLoaded');
+
+    })();
+
+  //]]>
+
+
+
+
+
+    JOT_postEvent('decorateGvizCharts');
+
+  
+
+
+
+          JOT_setupPostRenderingManager();
+
+        
+
+
+
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+
+        
+
+ 
+
+
+
+          window.jstiming.load.tick('render');
+
+          JOT_postEvent('usercontentrendered', this);
+
+        
+
+
+
