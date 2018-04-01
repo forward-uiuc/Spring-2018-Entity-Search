@@ -21,7 +21,9 @@ Configure project properties in:
 ```
 /src/main/config 
 ```
+
 Run:
+
 ```
 After installing the plugin in elastic search instance it can be accessed from kibana or web interface (Other sample queries on web interface).
 From kibana use queries like:
@@ -31,7 +33,9 @@ GET /entity_search_cs_departments/_search_with_clusters?
   "query": "#professor mining " ,    
   "size":100
    }
-}```
+}
+```
+
 Algorithms: 
 1.  Convert given query into elastic search format. 
 2.  Retrieve docs elastic search
