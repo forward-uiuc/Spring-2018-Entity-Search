@@ -6,6 +6,8 @@
 
 This repository contains an end-to-end prototype system to support Entity Search and Entity-Semantic Document Search on ElasticSearch. It can be considered as the first iteration of the system, which uses [SpanQuery](https://www.elastic.co/guide/en/elasticsearch/reference/5.6/span-queries.html) with a few plugins to support Entity Search and Entity-Semantic Document Search. We plan to make the system more efficient by touching deeper Lucene core, and smarter by improving ranking functions.
 
+## Components
+
 * [elasticsearch-cs-professors-crawler-annotator](https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/elasticsearch-cs-professors-crawler-annotator) contains an annotator to annotate raw data (from 50 CS-department websites) and produce json files to import into ElasticSearch using [Bulk API](https://www.elastic.co/guide/en/elasticsearch/reference/5.6/docs-bulk.html)
 * [elastic-search-entity-plugin](https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/elastic-search-entity-plugin) contains a plugin to rewrite user hashtag query, e.g., #professor mining, into span queries, which ElasticSearch can execute, and outputs a list of entities, e.g., professors in the example above, ranked by relevance with contextual keywords, e.g., mining in the example above.
 * [elasticsearch-esdocumentsearch-plugin](https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/elasticsearch-esdocumentsearch-plugin) contains a plugin to rewrite user hashtag query with additional operators, e.g., @near (#professor, #email, #phone), into span queries, which ElasticSearch can execute, and outputs a list of documents ranked by relevance with the entity-semantic query.
@@ -16,8 +18,9 @@ This repository contains an end-to-end prototype system to support Entity Search
 Each folder above contains a separate README file.
 
 ## Install
-- Download Elasticsearch v5.6.1. 
-- \[Optional\] Download Kibana v5.6.1 as the web interface for Elasticsearch.
+- Download Elasticsearch v5.6.1
+- \[Optional\] Download Kibana v5.6.1 as the web interface for Elasticsearch
+- Import plugins mentioned above (instruction in each folder)
 - Run the Elasticsearch and Kibana
 - In Kibana (or use CURL in terminal), create the following index mapping, in which each entity is a field (prefix _entity_)  in the document and labled by special token oentityo, which tells us the position of the entity in the original document, which can be used in SpanQuery to detect if an entity of a particular type is near a particular keyword in the document or not:
 
@@ -111,7 +114,8 @@ PUT /entity_search_cs_departments/
       }
     }
   }
-}```
+} 
+```
 - Import data from (elasticsearch-cs-professors-crawler-annotator)[https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/elasticsearch-cs-professors-crawler-annotator] using the following command:
 ``` curl -XPOST localhost:9200/entity_lucene_doc/_bulk -H 'Content-Type: application/json' --data-binary @name-of-import-file.json
 ```
