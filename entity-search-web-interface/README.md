@@ -3,6 +3,8 @@
 ## Summary
 This user interface uses [nodejs](https://nodejs.org/en/) as the server. You need to install [nodejs](https://nodejs.org/en/) first. The backend simply wraps ElasticSearch call. The frontend supports both entity search and entity-semantic document search. Users can click a button to switch between the two. When typing # (hash token) in search input box, the system will autosuggest available entity types.
 
+To understand the code, you need background in [nodejs](https://www.w3schools.com/nodejs/default.asp) [reactjs](https://reactjs.org/tutorial/tutorial.html) and [react semantic ui](https://react.semantic-ui.com/introduction)
+
 ## How to install
 At the folder containing this README:
 ```
