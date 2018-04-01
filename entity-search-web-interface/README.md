@@ -36,13 +36,9 @@ npm start &
 ## Troubleshooting
 * No error but cannot open the webpage with a browser
   * Clear the cache, or use Incognito mode, or switch to another browser. Will fix this issue soon.
-* reror EADDRINUSE:::xxxx means the port xxxx is in use (there is already a running server process)
+* Error EADDRINUSE:::xxxx means the port xxxx is in use (there is already a running server process)
   * To see if there is node/nodemon process running: 
-```
-aux ps | grep node
-```
-  * To kill other node processes:
-```
-killall node
-```
+  ``` aux ps | grep node ```
+  * To kill other node processes: 
+  ``` killall node ```
   * Now you should be able to start servers normally.
