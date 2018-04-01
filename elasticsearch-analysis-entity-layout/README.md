@@ -49,7 +49,7 @@ After installing the plugin in elastic search instance, now you can use a custom
         }
 ```
 
-Future work:
+## Future work
 1.  Test this plugin with big annotated dataset. Now, it is tested with only a toy dataset.
 2.  Explore how to fundamentally increase the number of offsets for each term, so we can have multiple types of offsets for different terms.
 3.  Explore how to allow users query jointly on multiple types of offsets for each term, which is similar to what R-Tree does for spacial data.
