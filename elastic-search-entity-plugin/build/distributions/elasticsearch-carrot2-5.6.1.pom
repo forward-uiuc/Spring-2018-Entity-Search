@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.entitysearch</groupId>
+  <artifactId>elasticsearch-carrot2</artifactId>
+  <version>5.6.1</version>
+  <packaging>pom</packaging>
+  <name>elasticsearch-carrot2</name>
+  <description>Search results clustering plugin for ElasticSearch (Carrot2-based)</description>
+  <url>https://github.com/qzhang96520/elastic-search-entity-plugin.git</url>
+  <scm>
+    <url>https://github.com/qzhang96520/elastic-search-entity-plugin.git</url>
+  </scm>
+</project>

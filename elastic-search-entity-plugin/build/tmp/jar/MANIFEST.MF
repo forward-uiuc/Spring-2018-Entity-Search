@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+X-Compile-Elasticsearch-Version: 5.6.1
+Implementation-Title: org.entitysearch#elastic-search-entity-plugin;5.
+ 6.1
+Module-Origin: https://github.com/qzhang96520/elastic-search-entity-pl
+ ugin.git
+Build-Date: 2018-03-28T00:09:07.647Z
+Implementation-Version: 5.6.1
+Built-By: abhin
+Change: c86fe92
+Module-Source: 
+Branch: master
+Built-Status: integration
+Gradle-Version: 3.3
+Built-OS: Windows 10
+X-Compile-Target-JDK: 1.8
+X-Compile-Elasticsearch-Snapshot: false
+X-Compile-Lucene-Version: 6.6.1
+X-Compile-Source-JDK: 1.8
+Created-By: 1.8.0_161-b12 (Oracle Corporation)
+Build-Java-Version: 1.8
+
