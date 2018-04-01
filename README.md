@@ -135,7 +135,7 @@ GET /entity_search_cs_departments/_search_with_clusters?
    }
 }
 ```
-- Entity-Semanti Document Search (find home pages of professors in data mining)
+- Entity-Semantic Document Search (find home pages of professors in data mining)
 ```
 GET /entity_search_cs_departments/_es_document_search?
 {
