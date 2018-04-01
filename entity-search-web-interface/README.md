@@ -1,7 +1,7 @@
 # Web Interface For Entity Search and Entity-Semantic Document Search
 
 ## Summary
-This user interface uses [nodejs](https://nodejs.org/en/) as the server. The backend simply wraps ElasticSearch call. The frontend supports both entity search and entity-semantic document search. Users can click a button to switch between the two.
+This user interface uses [nodejs](https://nodejs.org/en/) as the server. You need to install [nodejs](https://nodejs.org/en/) first. The backend simply wraps ElasticSearch call. The frontend supports both entity search and entity-semantic document search. Users can click a button to switch between the two. When typing # (hash token) in search input box, the system will autosuggest available entity types.
 
 ## How to install
 At the folder containing this README:
