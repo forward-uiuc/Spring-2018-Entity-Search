@@ -17,7 +17,9 @@ Run following commands – (*ignore .bat extension for linux and mac)
 
 Modify code:
 For query parsing and clustering, look into ClusteringAction.java in
+```
 [[elastic search plugin folder]]/ src/main/java/org/entitysearch/elasticsearch/ClusteringAction.java
+```
 Configure project properties in:
 ```
 /src/main/config 
