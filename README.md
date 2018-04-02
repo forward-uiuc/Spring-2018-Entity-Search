@@ -13,7 +13,7 @@ This repository contains an end-to-end prototype system to support Entity Search
 * [elasticsearch-esdocumentsearch-plugin](https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/elasticsearch-esdocumentsearch-plugin) contains a plugin to rewrite user hashtag queries with additional operators, e.g., @near (#professor, #email, #phone), into span queries, which ElasticSearch can execute, and outputs a list of documents ranked by relevance with the entity-semantic query.
 * [elasticsearch-analysis-entity-layout/README.md](https://github.com/forward-uiuc/Spring-2018-Entity-Search/blob/master/elasticsearch-analysis-entity-layout/README.md) contains a plugin to override Lucene's term offsets with layout offsets, provided in annotated import files.
 * [entity-search-web-interface](https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/entity-search-web-interface) contains a web application supporting both entity search and entity-semantic document search. Users can click a button to switch between the two.
-* [entity-search-web-interface](https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/DemoForHuaweiDataset) contains an end-to-end demo for Huawei Q&A dataset. 
+* [DemoForHuaweiDataset](https://github.com/forward-uiuc/Spring-2018-Entity-Search/tree/master/DemoForHuaweiDataset) contains an end-to-end demo for Huawei Q&A dataset. 
 
 Each folder above contains a separate README file.
 
