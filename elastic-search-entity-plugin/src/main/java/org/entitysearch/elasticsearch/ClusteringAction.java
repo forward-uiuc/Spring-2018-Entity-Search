@@ -85,7 +85,7 @@ public class ClusteringAction
     public static final String NAME = "clustering/cluster";
     public static  ArrayList<String> category = new ArrayList<String>();
     public static  ArrayList<String> allterms = new ArrayList<String>();
-    public static Integer window_size = 0;
+    public static Integer window_size = 10;
     /* Reusable singleton. */
     public static final ClusteringAction INSTANCE = new ClusteringAction();
 
@@ -454,7 +454,12 @@ public class ClusteringAction
                                     {
                                         continue;
                                     }
-                                    tmp_list.add(sb.toString());
+                                    String subs = sb.toString();
+                                    subs = subs.replace(",","");
+                                    subs = subs.replace(".","");
+                                    //System.out.println("sb "+sb.toString());
+                                    //System.out.println("changed "+ subs);
+                                    tmp_list.add(subs);
                                     tmp_list_index.add(last_i-1);
                                     
                                     hash_category_re.put(k,tmp_list);
@@ -466,6 +471,14 @@ public class ClusteringAction
                        
                 
                 }//category end
+                    for (String key: hash_category_re_begin_index.keySet()){
+
+                                //String key =name.toString();
+                                String value = hash_category_re_begin_index.get(key).toString();  
+                                //System.out.println(key + " " + value);  
+
+
+                    } 
   
                     ArrayList<String> entity_combo = new ArrayList<String>(); 
                     ArrayList<String> prev = new ArrayList<String>();
@@ -533,18 +546,25 @@ public class ClusteringAction
                                                 start = hash_category_re_begin_index.get(prev.get(n)).get(hash_category_re.get(prev.get(n)).indexOf(context[n]));
                                             if(hash_category_re_begin_index.get(prev.get(n)).get(hash_category_re.get(prev.get(n)).indexOf(context[n])) > termination)
                                                 termination = hash_category_re_begin_index.get(prev.get(n)).get(hash_category_re.get(prev.get(n)).indexOf(context[n]));
+                                        //System.out.println("termination start window size 1");
+                                        //System.out.println(termination+" "+start+" "+window_size);
+                                    
                                     }   
                                     if(hash_category_re_begin_index.get(cat).indexOf(hash_category_re.get(cat).get(m)) < start)
                                                 start = hash_category_re_begin_index.get(cat).indexOf(hash_category_re.get(cat).get(m));
                                     if(hash_category_re_begin_index.get(cat).indexOf((hash_category_re.get(cat).get(m))) > termination)
                                                 termination = hash_category_re_begin_index.get(cat).indexOf(hash_category_re.get(cat).get(m));
-
-                                    if(termination - start  > window_size)
+                                    //System.out.println("termination start window size 2");
+                                    //System.out.println(termination+" "+start+" "+window_size);// score is also negative R wang check
+                                    if((termination - start)  <  window_size)
                                     {
                                         m = (m+1) % hash_category_re.get(cat).size() ;
-                                    }    
+                                        //continue; //new
+                                        
+                                    }  
                                     tmp = tmp.concat("|"+hash_category_re.get(cat).get(m));
                                     entity_combo.set(j,tmp);
+                                      
                                     m = (m+1) % hash_category_re.get(cat).size() ;
                                 }
 
